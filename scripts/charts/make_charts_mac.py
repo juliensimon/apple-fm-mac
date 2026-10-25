@@ -189,13 +189,13 @@ if "memory" in want:
         return foot + sum(to_mib(r[c]) for r in fc if r["snapshot"] == "after" and r["pid"] == pid and r["category"] in out for c in ("dirty", "clean", "reclaimable"))
 
     label = {"qwen3-4b": "Qwen3 4B", "gemma3-4b": "Gemma 3 4B", "gemma4-e4b": "Gemma 4 E4B", "gemma4-26b-a4b": "Gemma 4 26B A4B, experts per token"}
-    items = [("Apple Core Advanced, experts per prompt, with its safety models", (apple_after("9704") + apple_after("9700")) / 1024, ACCENT)]
+    items = [("Apple Core Advanced, experts per prompt, about 2-bit, with its safety models", (apple_after("9704") + apple_after("9700")) / 1024, ACCENT)]
     for r in proto:
         base, bits = r["label"].rsplit("-", 1)
         moe = base == "gemma4-26b-a4b"
         items.append((f"{label[base]}, {bits.replace('bit', '-bit')}" + ("" if moe else ", dense"), r["footprint_mib_after_2s"] / 1024, INK if moe else GREY))
     items.sort(key=lambda kv: kv[1])
-    s = Sheet("substack", "Experts per prompt hold 2 GiB; experts per token hold 15",
+    s = Sheet("substack", "Experts per prompt hold 2 GiB; experts per token hold 15, at twice the bits",
               "Memory held two seconds after the same 5,000-token request, GiB, on a MacBook Pro M3 Max",
               "Author's measurement with footprint, macOS 27.0.1, 2026-10-24 and 25; Gemma 4 26B A4B to the nearest GB. Data: findings/04-memory",
               day=DAY)
