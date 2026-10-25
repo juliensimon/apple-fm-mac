@@ -33,7 +33,7 @@ Files:
 
 ## Conclusion
 
-The attention cache surfaces have sizes that do not fit the head count Apple published for its earlier model.
+The attention cache surfaces have sizes that do not fit the twelve KV heads of Apple's October paper; they fit the 8 KV heads of its 2024 report.
 
 What it does not show:
 

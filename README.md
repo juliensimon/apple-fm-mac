@@ -59,9 +59,9 @@ The figures of the article, in its order. Each footer names its source.
 
 ![Share of 429 strings on which each public tokenizer gives Apple's token count](plots/tokenizer-match.png)
 
-![Same questions, same Mac: math and knowledge for Apple's model and three open models](plots/same-questions.png)
+![Same questions, same Mac: math and knowledge totals for Apple's model and three open models](plots/same-questions-totals.png)
 
-In this repository only: storage and memory (`plots/cost-mac.png`, item 04), time to first token and writing speed
+In this repository only: the full same-questions table with paired counts (`plots/same-questions.png`, item 09), storage and memory (`plots/cost-mac.png`, item 04), time to first token and writing speed
 (`plots/speed-context.png`, item 10), and six public descriptions of Google's role (`plots/six-sentences.png`, item 07).
 
 ## Rerun the measurements
@@ -105,9 +105,11 @@ public (see below). `scripts/tokenizer_test.py` is the same test for any strings
 
 ## Terms and limits
 
-- **No reverse engineering.** Apple's macOS license, section N, bars decompiling, reverse engineering or disassembling Apple's
-  software. Nothing here does any of that: no model file or compiled program was opened, read or disassembled, and no
-  process memory was dumped. The measurements watch the Mac from outside, with macOS's own tools and Apple's public interfaces.
+- **What was done and not done.** Apple's macOS license, section N, bars copying, decompiling, reverse engineering,
+  disassembling, decrypting or modifying Apple's software. No model file was opened; no compiled program was decompiled or
+  disassembled; from Apple's frameworks only their lists of exported names were read (`dyld_info -exports`); no process memory
+  was dumped and no debugger was attached. The measurements watch the Mac from outside, with macOS's own tools and Apple's
+  public interfaces.
 - Read `fm license --show` before you run anything here. Its notice binds you to the macOS software license and says that you
   agree "TO NOT PROGRAMMATICALLY ACCESS OR USE APPLE MODELS THROUGH APPLE SOFTWARE OR SERVICES EXCEPT AS EXPRESSLY PERMITTED".
   Decide for yourself what it permits; this repository is not legal advice.
@@ -137,7 +139,7 @@ to pin a version.
 - Private Cloud Compute and Apple's server models.
 - Apple's Python SDK (`apple_fm_sdk`): not installed.
 - Fine-tuning: Apple dropped adapters for the OS 27 model; nothing here tests tuning.
-- Weights, compiled programs and asset files: not read. Architecture is inferred only from sizes, counters, logs and Apple's
+- Weights and asset files: not read. Compiled programs: only their exported-name lists. Architecture is inferred only from sizes, counters, logs and Apple's
   pages.
 - Whose weights are inside: equal token counts show the same vocabulary in practice, not where the weights came from.
 - Quality beyond the questions listed above.

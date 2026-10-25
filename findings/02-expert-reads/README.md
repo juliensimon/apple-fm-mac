@@ -40,7 +40,7 @@ Files:
 
 - 2026-10-24, ten prompts: 1,384 reads of descriptor 3, every one 294,912 bytes, 389.2 MiB in total for 4,654 generated tokens (about 87,700 bytes per token). The file is `ifp_rasterized_weights.bin` (REPORT 21).
 - First bursts of 152 to 228 blocks (43 to 64 MiB) in the first four prompts, 46 or fewer later, as the memory cache fills.
-- Burst spacing, converted to tokens: code prompt 33 tokens (58 tokens a second), essay 33 tokens (33 tokens a second), geology 31 tokens (45 tokens a second, 2026-10-25). Three prompts, three speeds, one period of 31 to 33 tokens.
+- Burst spacing, converted to tokens: code prompt 32 tokens (0.559 s at 58 tokens a second), essay 32 tokens (0.97 s at 33 tokens a second), geology 31 tokens (45 tokens a second, 2026-10-25). Three prompts, three speeds, one period of 31 to 32 tokens.
 - Long-context prompt (3,872 tokens in, 2026-10-25): median spacing 40 tokens; many gaps are two to four times a 30-token step. Probable reason, read after the fact: a reselection that needs no new expert reads nothing.
 - In the essay, the four large bursts land one or two periods before each new topic (REPORT 21.5).
 

@@ -1338,8 +1338,8 @@ everything it loaded.
 ### 21.4 Reselection every ~33 tokens [M, cadence I]
 
 During generation, reads arrive in small bursts at a steady rhythm. In the code prompt the bursts are 0.56 s apart
-(standard deviation 0.04 s) at 58 tokens/s: **33 tokens**. In the essay they are 0.97 s apart (standard deviation
-0.19 s) at 33 tokens/s: **33 tokens**. Both fit a reselection every 32 tokens, the same count at two very different speeds.
+(standard deviation 0.04 s) at 58 tokens/s: **32 tokens** (0.559 × 58 = 32.4). In the essay they are 0.97 s apart (standard deviation
+0.19 s) at 33 tokens/s: **32 tokens**. Both fit a reselection every 32 tokens, the same count at two very different speeds. Corrected 2026-10-25: an earlier version rounded both to 33.
 Most reselections load 1 to 4 experts, because the new selection mostly overlaps the old one.
 
 ### 21.5 The big bursts come before the topic change [M for timing, I for the cause]

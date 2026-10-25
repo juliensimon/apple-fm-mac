@@ -26,7 +26,7 @@ Files:
 ## Results
 
 - Counts scored one by one, before September 2024: Apple 6, Gemma 3 6, Gemma 4 9, Qwen3 2; September 2024 to January 2025: 3, 2, 0, 2; February to June 2025: 1, 0, 0, 0.
-- In abstain mode Apple's model said "I do not know" for all 7 events of 2025.
+- In abstain mode Apple's model said "I do not know" for all 7 events from February to June 2025 (and for the January 2025 event too).
 
 ## Conclusion
 

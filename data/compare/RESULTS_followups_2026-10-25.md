@@ -22,8 +22,8 @@ blocks of about 10 tokens, so positions are good to about 10 tokens.
 | Long context | 3,872 | 910 | 138 | 17 | 19, 40, 31, 30, 40, 60, 40, 30, 90, 120, 71, 59, 40, 100, 60 | 40 |
 
 - Geology: bursts every 0.695 s (standard deviation 0.053 s). From token 30 to token 430, 13 gaps: 30.8 tokens each on
-  average, give or take about 1 from the 10-token resolution. With the 33 and 33 of 2026-10-24 (code at 58 tokens a
-  second, essay at 33), that makes three prompts and three speeds with one period of 31 to 33 tokens.
+  average, give or take about 1 from the 10-token resolution. With the 32 and 32 of 2026-10-24 (code at 58 tokens a
+  second, essay at 33; REPORT 21.4 rounded both to 33 until 2026-10-25), that makes three prompts and three speeds with one period of 31 to 32 tokens.
 - Long context: the gaps are not one period. Many are about twice, three times or four times a 30-token step (60, 90,
   120, 100). Read after the fact (not part of H5): a reselection that needs no new expert reads nothing, so it leaves no
   burst, and late in a long answer most experts are already in memory (138 reads against 285). A period scan does not

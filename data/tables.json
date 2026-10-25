@@ -378,7 +378,7 @@
    [
     "Vocabulary",
     {
-     "text": "262,144 entries: Gemma 3's tokenizer, 775 reserved slots reused",
+     "text": "262,144 entries: Gemma 3's tokenizer, 775 reserved slots changed",
      "sub": "not on Apple's page"
     },
     {
@@ -569,6 +569,94 @@
   "legend": "Apple paper: Kundu et al., Stepped MoE, arXiv 2610.07348, October 5th, 2026, which does not name the model; a 12-billion-parameter configuration whose authors say it might change on scaling. Inferred: arithmetic or reading from measurements. Each line's data: repository item 01.",
   "source": "Sources: Apple's model page, reports and developer forums; the author's measurements, October 24th and 25th, 2026. The AI Realist, airealist.ai",
   "width": 1240,
+  "day": "2026-10-26"
+ },
+ {
+  "slug": "same-questions-totals",
+  "title": "Same questions, same Mac: last on math, mid-pack on knowledge",
+  "subtitle": "100 GSM8K problems and 200 MMLU questions, zero-shot, temperature 0",
+  "columns": [
+   {
+    "head": "Model"
+   },
+   {
+    "head": "Math solved",
+    "sub": "of 100, 95% interval"
+   },
+   {
+    "head": "Knowledge right",
+    "sub": "of 200, 95% interval"
+   }
+  ],
+  "rows": [
+   [
+    {
+     "text": "Apple Core Advanced",
+     "sub": "Apple's figures: 20B stored, 1 to 4B at work"
+    },
+    {
+     "text": "78",
+     "mono": true,
+     "sub": "69 to 85"
+    },
+    {
+     "text": "134 (67.0%)",
+     "mono": true,
+     "sub": "60 to 73"
+    }
+   ],
+   [
+    {
+     "text": "Gemma 3 4B",
+     "sub": "Google, 4B parameters"
+    },
+    {
+     "text": "89",
+     "mono": true,
+     "sub": "81 to 94"
+    },
+    {
+     "text": "118 (59.0%)",
+     "mono": true,
+     "sub": "52 to 66"
+    }
+   ],
+   [
+    {
+     "text": "Gemma 4 E4B",
+     "sub": "Google, 4.5B effective"
+    },
+    {
+     "text": "94",
+     "mono": true,
+     "sub": "88 to 97"
+    },
+    {
+     "text": "139 (69.5%)",
+     "mono": true,
+     "sub": "63 to 75"
+    }
+   ],
+   [
+    {
+     "text": "Qwen3 4B Instruct 2507",
+     "sub": "Alibaba, 4B parameters"
+    },
+    {
+     "text": "93",
+     "mono": true,
+     "sub": "86 to 97"
+    },
+    {
+     "text": "144 (72.0%)",
+     "mono": true,
+     "sub": "65 to 78"
+    }
+   ]
+  ],
+  "legend": "Math: each open build solved more problems than Apple's model by a margin larger than chance (exact paired test on the problems only one model solved: 13 to 2, 18 to 2, 17 to 2). Knowledge: no gap survives a correction for three comparisons. The open builds ran at 8 bits, thinking off, capped at 1,000 tokens for math and 8 for knowledge; Apple's model ran uncapped. Details: repository item 09.",
+  "source": "Author's measurement, MacBook Pro (M3 Max, macOS 27.0.1): Apple through fm serve, open models as 8-bit MLX builds. Data: data/compare/",
+  "source_date": "2026-10-24",
   "day": "2026-10-26"
  }
 ]
