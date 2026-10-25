@@ -1,0 +1,56 @@
+Output of `fm --help` and `fm serve --help` on macOS 27.0.1 (build 26A434), 2026-10-24. Read-only, no model call; color codes and the logo removed.
+
+$ fm --help
+
+ Apple Foundation Models CLI
+
+  USAGE
+    % fm <command> [options]
+
+  COMMANDS
+    available     Check model availability
+    chat          Start an interactive chat session
+    count-tokens  Count tokens in a prompt or instructions
+    license       Show and agree to the Legal Notice & Terms
+    respond       Generate a response to a prompt
+    schema        Generate a structured output generation schema
+    serve         Start a Chat Completions API server
+
+  MODELS
+    system        On-device Apple Foundation Model (default)
+
+  EXAMPLES
+    % fm respond 'What is Swift?'
+    % fm respond --stream 'Summarize this article'
+    % fm chat --instructions 'You are a coding assistant'
+    % fm count-tokens 'Hello world'
+    % fm schema object --name Person --string name --int age
+
+  Run 'fm <command> --help' for more information on a command.
+
+$ fm serve --help
+
+  fm serve
+  Start a Chat Completions API server for Foundation Models.
+
+  USAGE
+    % fm serve
+    % fm serve --port 1976
+    % fm serve --host 0.0.0.0 --port 1976
+    % fm serve --socket /tmp/fm.sock
+
+  OPTIONS
+    -h, --help                 Show help information
+    --host <host>              Host address to bind to (TCP mode)
+    --port <port>              Port to listen on, 1–65535 (TCP mode)
+    --socket <path>            Unix domain socket path (socket mode)
+
+  ENDPOINTS
+    GET  /health               Health check
+    GET  /v1/models            List available models
+    POST /v1/chat/completions  Chat completions (streaming & non-streaming)
+
+  MODELS
+    system                     On-device Apple Foundation Model (default)
+
+  Use --socket for Unix domain socket transport (recommended for local Python bindings).

@@ -1,0 +1,27 @@
+The Krebs cycle, also known as the citric acid cycle, is a series of chemical reactions that occur in the mitochondria of eukaryotic cells. It plays a crucial role in cellular respiration, generating energy in the form of ATP. Here are the steps:
+
+1. **Acetyl-CoA Formation**: Acetyl-CoA, a two-carbon molecule derived from carbohydrates, fats, or proteins, enters the cycle.
+
+2. **Citrate Formation**: Acetyl-CoA combines with oxaloacetate (a four-carbon molecule) to form citrate (a six-carbon molecule). This step is catalyzed by the enzyme citrate synthase.
+
+3. **Isomerization**: Citrate is converted into isocitrate through the action of the enzyme aconitase.
+
+4. **First Oxidation and Decarboxylation**: Isocitrate is oxidized and decarboxylated to form α-ketoglutarate (a five-carbon molecule). This step produces NADH and releases CO₂. The enzyme involved is isocitrate dehydrogenase.
+
+5. **Second Oxidation and Decarboxylation**: α-ketoglutarate is further oxidized and decarboxylated to form succinyl-CoA (a four-carbon molecule). This step also produces NADH and releases more CO₂. The enzyme is α-ketoglutarate dehydrogenase.
+
+6. **Substrate-Level Phosphorylation**: Succinyl-CoA is converted to succinate, producing GTP (guanosine triphosphate), which can be converted to ATP. This step is catalyzed by succinyl-CoA synthetase.
+
+7. **Oxidation to Fumarate**: Succinate is oxidized to fumarate by the enzyme succinate dehydrogenase, which is also involved in the electron transport chain.
+
+8. **Hydration**: Fumarate is hydrated to form malate.
+
+9. **Regeneration of Oxaloacetate**: Malate is oxidized to regenerate oxaloacetate, a four-carbon molecule, allowing the cycle to continue. This step is catalyzed by malate dehydrogenase, producing NADH.
+
+10. **Energy Yield**: For each turn of the cycle, the following products are generated:
+   - 3 NADH
+   - 1 FADH₂
+   - 1 GTP (or ATP)
+   - 2 CO₂ (as waste products)
+
+The cycle repeats as long as acetyl-CoA is available. The NADH and FADH₂ produced are used in the electron transport chain to generate a large amount of ATP.

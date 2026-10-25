@@ -1,0 +1,517 @@
+{
+ "repo": "Core Advanced via fm serve (macOS 27.0.1, 26A434)",
+ "slug": "apple",
+ "date": "2026-10-24",
+ "dated_abstain": {
+  "rows": [
+   {
+    "id": "a1",
+    "date": "2022-12-18",
+    "group": "anchor",
+    "q": "Which country won the 2022 FIFA World Cup?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2022 FIFA World Cup.",
+    "status": "correct"
+   },
+   {
+    "id": "a2",
+    "date": "2023-10-28",
+    "group": "anchor",
+    "q": "Which country won the 2023 Rugby World Cup final?",
+    "gold": "south africa",
+    "answer": "South Africa won the 2023 Rugby World Cup final.",
+    "status": "correct"
+   },
+   {
+    "id": "a3",
+    "date": "2023-03-14",
+    "group": "anchor",
+    "q": "Which company released GPT-4 in March 2023?",
+    "gold": "openai",
+    "answer": "OpenAI released GPT-4 in March 2023.",
+    "status": "correct"
+   },
+   {
+    "id": "b1",
+    "date": "2024-02-11",
+    "group": "before Sep 2024",
+    "q": "Which team won Super Bowl LVIII in February 2024?",
+    "gold": "chiefs|kansas city",
+    "answer": "Kansas City Chiefs won Super Bowl LVIII.",
+    "status": "correct"
+   },
+   {
+    "id": "b2",
+    "date": "2024-03-10",
+    "group": "before Sep 2024",
+    "q": "Which film won the Academy Award for Best Picture at the ceremony held in March 2024?",
+    "gold": "oppenheimer",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b3",
+    "date": "2024-04-08",
+    "group": "before Sep 2024",
+    "q": "Which university won the 2024 NCAA men's basketball national championship?",
+    "gold": "uconn|connecticut",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b4",
+    "date": "2024-05-11",
+    "group": "before Sep 2024",
+    "q": "Which country won the Eurovision Song Contest in May 2024?",
+    "gold": "switzerland",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b5",
+    "date": "2024-06-10",
+    "group": "before Sep 2024",
+    "q": "What name did Apple give to macOS 15 when it announced it at WWDC in June 2024?",
+    "gold": "sequoia",
+    "answer": "Apple did not announce a specific name for macOS 15 at WWDC in June 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b6",
+    "date": "2024-06-17",
+    "group": "before Sep 2024",
+    "q": "Which team won the 2024 NBA Finals?",
+    "gold": "celtics|boston",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b7",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the men's UEFA Euro 2024 football tournament?",
+    "gold": "spain",
+    "answer": "Germany won the men's UEFA Euro 2024 football tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "b8",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the 2024 Copa América?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2024 Copa América.",
+    "status": "correct"
+   },
+   {
+    "id": "b9",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Who won the men's singles title at Wimbledon in 2024?",
+    "gold": "alcaraz",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b10",
+    "date": "2024-07-21",
+    "group": "before Sep 2024",
+    "q": "Which US president announced in July 2024 that he would not seek re-election?",
+    "gold": "biden",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b11",
+    "date": "2024-08-04",
+    "group": "before Sep 2024",
+    "q": "Who won the men's 100 metres at the 2024 Paris Olympics?",
+    "gold": "lyles",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "c1",
+    "date": "2024-09-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2024 US Open tennis tournament?",
+    "gold": "sinner",
+    "answer": "Novak Djokovic won the men's singles title at the 2024 US Open tennis tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "c2",
+    "date": "2024-09-09",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which chip powers the iPhone 16?",
+    "gold": "a18",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "c3",
+    "date": "2024-10-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who shared the 2024 Nobel Prize in Physics with John Hopfield?",
+    "gold": "hinton",
+    "answer": "The 2024 Nobel Prize in Physics was shared with Syukuro Manabe.",
+    "status": "wrong"
+   },
+   {
+    "id": "c4",
+    "date": "2024-10-30",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which team won the 2024 World Series in baseball?",
+    "gold": "dodgers",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "c5",
+    "date": "2024-11-05",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 United States presidential election?",
+    "gold": "trump",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "c6",
+    "date": "2024-11-23",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 Formula 1 drivers' championship?",
+    "gold": "verstappen",
+    "answer": "Max Verstappen won the 2024 Formula 1 drivers' championship.",
+    "status": "correct"
+   },
+   {
+    "id": "d1",
+    "date": "2025-01-26",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2025 Australian Open?",
+    "gold": "sinner",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d2",
+    "date": "2025-02-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won Super Bowl LIX in February 2025?",
+    "gold": "eagles|philadelphia",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d3",
+    "date": "2025-03-02",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which film won the Academy Award for Best Picture at the March 2025 ceremony?",
+    "gold": "anora",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d4",
+    "date": "2025-04-13",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the 2025 Masters golf tournament?",
+    "gold": "mcilroy",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d5",
+    "date": "2025-05-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who was elected pope in May 2025?",
+    "gold": "leo|prevost",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d6",
+    "date": "2025-06-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the men's singles title at the 2025 French Open?",
+    "gold": "alcaraz",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d7",
+    "date": "2025-06-22",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won the 2025 NBA Finals?",
+    "gold": "thunder|oklahoma",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d8",
+    "date": "2025-06-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "What name did Apple give to its new software design language at WWDC in June 2025?",
+    "gold": "liquid glass",
+    "answer": "I do not know.",
+    "status": "abstain"
+   }
+  ]
+ },
+ "dated_guess": {
+  "rows": [
+   {
+    "id": "a1",
+    "date": "2022-12-18",
+    "group": "anchor",
+    "q": "Which country won the 2022 FIFA World Cup?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2022 FIFA World Cup.",
+    "status": "correct"
+   },
+   {
+    "id": "a2",
+    "date": "2023-10-28",
+    "group": "anchor",
+    "q": "Which country won the 2023 Rugby World Cup final?",
+    "gold": "south africa",
+    "answer": "South Africa won the 2023 Rugby World Cup final.",
+    "status": "correct"
+   },
+   {
+    "id": "a3",
+    "date": "2023-03-14",
+    "group": "anchor",
+    "q": "Which company released GPT-4 in March 2023?",
+    "gold": "openai",
+    "answer": "OpenAI released GPT-4 in March 2023.",
+    "status": "correct"
+   },
+   {
+    "id": "b1",
+    "date": "2024-02-11",
+    "group": "before Sep 2024",
+    "q": "Which team won Super Bowl LVIII in February 2024?",
+    "gold": "chiefs|kansas city",
+    "answer": "The Kansas City Chiefs won Super Bowl LVIII in February 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b2",
+    "date": "2024-03-10",
+    "group": "before Sep 2024",
+    "q": "Which film won the Academy Award for Best Picture at the ceremony held in March 2024?",
+    "gold": "oppenheimer",
+    "answer": "\"Oppenheimer\" won the Academy Award for Best Picture at the ceremony held in March 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b3",
+    "date": "2024-04-08",
+    "group": "before Sep 2024",
+    "q": "Which university won the 2024 NCAA men's basketball national championship?",
+    "gold": "uconn|connecticut",
+    "answer": "University of Connecticut won the 2024 NCAA men's basketball national championship.",
+    "status": "correct"
+   },
+   {
+    "id": "b4",
+    "date": "2024-05-11",
+    "group": "before Sep 2024",
+    "q": "Which country won the Eurovision Song Contest in May 2024?",
+    "gold": "switzerland",
+    "answer": "The Netherlands won the Eurovision Song Contest in May 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b5",
+    "date": "2024-06-10",
+    "group": "before Sep 2024",
+    "q": "What name did Apple give to macOS 15 when it announced it at WWDC in June 2024?",
+    "gold": "sequoia",
+    "answer": "Apple named macOS 15 Ventura.",
+    "status": "wrong"
+   },
+   {
+    "id": "b6",
+    "date": "2024-06-17",
+    "group": "before Sep 2024",
+    "q": "Which team won the 2024 NBA Finals?",
+    "gold": "celtics|boston",
+    "answer": "The Denver Nuggets won the 2024 NBA Finals.",
+    "status": "wrong"
+   },
+   {
+    "id": "b7",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the men's UEFA Euro 2024 football tournament?",
+    "gold": "spain",
+    "answer": "Germany won the men's UEFA Euro 2024 football tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "b8",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the 2024 Copa América?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2024 Copa América.",
+    "status": "correct"
+   },
+   {
+    "id": "b9",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Who won the men's singles title at Wimbledon in 2024?",
+    "gold": "alcaraz",
+    "answer": "Carlos Alcaraña won the men's singles title at Wimbledon in 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b10",
+    "date": "2024-07-21",
+    "group": "before Sep 2024",
+    "q": "Which US president announced in July 2024 that he would not seek re-election?",
+    "gold": "biden",
+    "answer": "Joe Biden announced he would not seek re-election in July 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b11",
+    "date": "2024-08-04",
+    "group": "before Sep 2024",
+    "q": "Who won the men's 100 metres at the 2024 Paris Olympics?",
+    "gold": "lyles",
+    "answer": "Fred Kerley won the men's 100 metres at the 2024 Paris Olympics.",
+    "status": "wrong"
+   },
+   {
+    "id": "c1",
+    "date": "2024-09-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2024 US Open tennis tournament?",
+    "gold": "sinner",
+    "answer": "Novak Djokovic won the men's singles title at the 2024 US Open tennis tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "c2",
+    "date": "2024-09-09",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which chip powers the iPhone 16?",
+    "gold": "a18",
+    "answer": "The iPhone 16 is powered by the A18 chip.",
+    "status": "correct"
+   },
+   {
+    "id": "c3",
+    "date": "2024-10-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who shared the 2024 Nobel Prize in Physics with John Hopfield?",
+    "gold": "hinton",
+    "answer": "The 2024 Nobel Prize in Physics was shared with John Hopfield by Andrea M. Linkevitz.",
+    "status": "wrong"
+   },
+   {
+    "id": "c4",
+    "date": "2024-10-30",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which team won the 2024 World Series in baseball?",
+    "gold": "dodgers",
+    "answer": "The Los Angeles Dodgers won the 2024 World Series in baseball.",
+    "status": "correct"
+   },
+   {
+    "id": "c5",
+    "date": "2024-11-05",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 United States presidential election?",
+    "gold": "trump",
+    "answer": "Joe Biden won the 2024 United States presidential election.",
+    "status": "wrong"
+   },
+   {
+    "id": "c6",
+    "date": "2024-11-23",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 Formula 1 drivers' championship?",
+    "gold": "verstappen",
+    "answer": "Max Verstappen won the 2024 Formula 1 drivers' championship.",
+    "status": "correct"
+   },
+   {
+    "id": "d1",
+    "date": "2025-01-26",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2025 Australian Open?",
+    "gold": "sinner",
+    "answer": "Novak Djokovic won the men's singles title at the 2025 Australian Open.",
+    "status": "wrong"
+   },
+   {
+    "id": "d2",
+    "date": "2025-02-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won Super Bowl LIX in February 2025?",
+    "gold": "eagles|philadelphia",
+    "answer": "The Kansas City Chiefs won Super Bowl LIX in February 2025.",
+    "status": "wrong"
+   },
+   {
+    "id": "d3",
+    "date": "2025-03-02",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which film won the Academy Award for Best Picture at the March 2025 ceremony?",
+    "gold": "anora",
+    "answer": "No film won the Academy Award for Best Picture at the March 2025 ceremony.",
+    "status": "wrong"
+   },
+   {
+    "id": "d4",
+    "date": "2025-04-13",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the 2025 Masters golf tournament?",
+    "gold": "mcilroy",
+    "answer": "The winner of the 2025 Masters golf tournament is not yet determined.",
+    "status": "wrong"
+   },
+   {
+    "id": "d5",
+    "date": "2025-05-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who was elected pope in May 2025?",
+    "gold": "leo|prevost",
+    "answer": "No one was elected pope in May 2025.",
+    "status": "wrong"
+   },
+   {
+    "id": "d6",
+    "date": "2025-06-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the men's singles title at the 2025 French Open?",
+    "gold": "alcaraz",
+    "answer": "Carlos Alcaraña won the men's singles title at the 2025 French Open.",
+    "status": "wrong"
+   },
+   {
+    "id": "d7",
+    "date": "2025-06-22",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won the 2025 NBA Finals?",
+    "gold": "thunder|oklahoma",
+    "answer": "The Boston Celtics won the 2025 NBA Finals.",
+    "status": "wrong"
+   },
+   {
+    "id": "d8",
+    "date": "2025-06-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "What name did Apple give to its new software design language at WWDC in June 2025?",
+    "gold": "liquid glass",
+    "answer": "Apple did not announce a new software design language at WWDC in June 2025.",
+    "status": "wrong"
+   }
+  ]
+ }
+}

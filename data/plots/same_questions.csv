@@ -1,0 +1,5 @@
+model,gsm8k_correct,gsm8k_n,gsm8k_ci_low,gsm8k_ci_high,mmlu_correct,mmlu_n,mmlu_ci_low,mmlu_ci_high,gsm8k_only_model,gsm8k_only_apple,gsm8k_p,mmlu_only_model,mmlu_only_apple,mmlu_p
+Apple Core Advanced,78,100,69,85,134,200,60,73,,,,,,
+Gemma 3 4B (8-bit MLX),89,100,81,94,118,200,52,66,13,2,0.0074,14,30,0.0226
+Gemma 4 E4B (8-bit MLX),94,100,88,97,139,200,63,75,18,2,0.0004,23,18,0.5327
+Qwen3 4B Instruct 2507 (8-bit MLX),93,100,86,97,144,200,65,78,17,2,0.0007,25,15,0.1539

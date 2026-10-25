@@ -1,0 +1,21 @@
+gsm8k 10/100  correct so far 6
+gsm8k 20/100  correct so far 13
+gsm8k 30/100  correct so far 22
+gsm8k 40/100  correct so far 29
+gsm8k 50/100  correct so far 38
+gsm8k 60/100  correct so far 45
+gsm8k 70/100  correct so far 53
+gsm8k 80/100  correct so far 60
+gsm8k 90/100  correct so far 68
+gsm8k 100/100  correct so far 78
+GSM8K (n=100): 78% correct  95% CI 69 to 85
+mmlu 25/200  correct so far 18  errors 0
+mmlu 50/200  correct so far 33  errors 0
+mmlu 75/200  correct so far 49  errors 2
+mmlu 100/200  correct so far 66  errors 2
+mmlu 125/200  correct so far 83  errors 2
+mmlu 150/200  correct so far 102  errors 2
+mmlu 175/200  correct so far 117  errors 3
+mmlu 200/200  correct so far 134  errors 3
+MMLU (n=200): 67.0% correct  95% CI 60.2 to 73.1  (errors/refusals: 3)
+done

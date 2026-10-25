@@ -1,0 +1,4 @@
+Fetching 12 files:   0%|          | 0/12 [00:00<?, ?it/s]Fetching 12 files: 100%|██████████| 12/12 [00:00<00:00, 5321.60it/s]
+downloaded ~/.cache/huggingface/hub/models--mlx-community--gemma-4-26b-a4b-it-4bit/snapshots/0d77464eeb233a2da68ebf9d7dc4edaac7db956d
+{'repo': 'mlx-community/gemma-4-26b-a4b-it-4bit', 'label': 'gemma4-26b-a4b-4bit', 'date': '2026-10-25', 'footprint_mib_server_started': 7941.0, 'footprint_mib_idle': 14336.0, 'footprint_mib_during_nearest_3s': 16384.0, 'during_reading_at_s': 3.03, 'footprint_mib_peak': 16384.0, 'request_seconds': 3.74, 'readings': 49, 'footprint_mib_after_2s': 15360.0, 'footprint_mib_ten_seconds_later': 15360.0, 'prompt_tokens': 4922, 'reply_tokens': 2, 'reply': 'DONE'}
+EXIT 0

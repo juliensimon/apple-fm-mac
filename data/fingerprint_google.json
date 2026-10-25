@@ -1,0 +1,44 @@
+{
+ "Gemma 3 (control)": {
+  "repo": "unsloth/gemma-3-4b-it",
+  "vocab": 262145,
+  "exact": 1.0,
+  "within1": 1.0,
+  "mae": 0.0
+ },
+ "Gemma 3n E4B": {
+  "repo": "unsloth/gemma-3n-E4B-it",
+  "vocab": 262400,
+  "exact": 1.0,
+  "within1": 1.0,
+  "mae": 0.0
+ },
+ "Gemma 3n E2B": {
+  "repo": "unsloth/gemma-3n-E2B-it",
+  "vocab": 262400,
+  "exact": 1.0,
+  "within1": 1.0,
+  "mae": 0.0
+ },
+ "Gemma 4 E4B": {
+  "repo": "unsloth/gemma-4-E4B-it-unsloth-bnb-4bit",
+  "vocab": 262144,
+  "exact": 0.9906759906759907,
+  "within1": 0.9906759906759907,
+  "mae": 0.055944055944055944
+ },
+ "Gemma 4 E2B": {
+  "repo": "unsloth/gemma-4-E2B-it-unsloth-bnb-4bit",
+  "vocab": 262144,
+  "exact": 0.9906759906759907,
+  "within1": 0.9906759906759907,
+  "mae": 0.055944055944055944
+ },
+ "Gemma 4 26B-A4B": {
+  "repo": "unsloth/gemma-4-26B-A4B-it-NVFP4",
+  "vocab": 262144,
+  "exact": 0.9906759906759907,
+  "within1": 0.9906759906759907,
+  "mae": 0.055944055944055944
+ }
+}

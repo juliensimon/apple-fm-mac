@@ -1,0 +1,13 @@
+task,sampling,ms_per_token_run1,ms_per_token_run2
+counting,greedy,14.3,14.3
+counting,temp 0.7,15.0,14.3
+counting,temp 1.5,14.2,14.4
+counting,temp 3.0,14.4,14.7
+prose,greedy,25.3,22.7
+prose,temp 0.7,25.3,24.7
+prose,temp 1.5,23.0,23.2
+prose,temp 3.0,23.0,23.4
+code,greedy,16.7,17.0
+code,temp 0.7,17.2,17.0
+code,temp 1.5,17.2,16.9
+code,temp 3.0,17.2,16.9

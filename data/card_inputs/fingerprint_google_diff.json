@@ -1,0 +1,132 @@
+[
+ {
+  "category": "code",
+  "string": "<h1>Apple On-Device Model Map</h1>",
+  "apple": 8,
+  "gemma3": 8,
+  "gemma4": 14,
+  "gemma3_tokens": [
+   "<h1>",
+   "Apple",
+   "▁On",
+   "-",
+   "Device",
+   "▁Model",
+   "▁Map",
+   "</h1>"
+  ],
+  "gemma4_tokens": [
+   "<",
+   "h",
+   "1",
+   ">",
+   "Apple",
+   "▁On",
+   "-",
+   "Device",
+   "▁Model",
+   "▁Map",
+   "</",
+   "h",
+   "1",
+   ">"
+  ]
+ },
+ {
+  "category": "code",
+  "string": "<h2>The Neural Engine runs the model</h2>",
+  "apple": 8,
+  "gemma3": 8,
+  "gemma4": 14,
+  "gemma3_tokens": [
+   "<h2>",
+   "The",
+   "▁Neural",
+   "▁Engine",
+   "▁runs",
+   "▁the",
+   "▁model",
+   "</h2>"
+  ],
+  "gemma4_tokens": [
+   "<",
+   "h",
+   "2",
+   ">",
+   "The",
+   "▁Neural",
+   "▁Engine",
+   "▁runs",
+   "▁the",
+   "▁model",
+   "</",
+   "h",
+   "2",
+   ">"
+  ]
+ },
+ {
+  "category": "code",
+  "string": "<h2>One request, five models</h2>",
+  "apple": 7,
+  "gemma3": 7,
+  "gemma4": 13,
+  "gemma3_tokens": [
+   "<h2>",
+   "One",
+   "▁request",
+   ",",
+   "▁five",
+   "▁models",
+   "</h2>"
+  ],
+  "gemma4_tokens": [
+   "<",
+   "h",
+   "2",
+   ">",
+   "One",
+   "▁request",
+   ",",
+   "▁five",
+   "▁models",
+   "</",
+   "h",
+   "2",
+   ">"
+  ]
+ },
+ {
+  "category": "code",
+  "string": "<h2>What is known about the architecture</h2>",
+  "apple": 8,
+  "gemma3": 8,
+  "gemma4": 14,
+  "gemma3_tokens": [
+   "<h2>",
+   "What",
+   "▁is",
+   "▁known",
+   "▁about",
+   "▁the",
+   "▁architecture",
+   "</h2>"
+  ],
+  "gemma4_tokens": [
+   "<",
+   "h",
+   "2",
+   ">",
+   "What",
+   "▁is",
+   "▁known",
+   "▁about",
+   "▁the",
+   "▁architecture",
+   "</",
+   "h",
+   "2",
+   ">"
+  ]
+ }
+]

@@ -1,0 +1,22 @@
+# files a rerun creates and that are not part of the published data
+runs/
+data/img/
+data/membw
+data/make_test_images
+data/swiftq/
+data/*.mlpackage
+data/hog_*.txt
+data/bench.json
+data/ane_bw.json
+data/fm_root_out/
+data/maps_out/
+data/scale_out/
+data/ifp_out/
+data/pool_out/
+data/card_inputs/corpus.json
+data/card_inputs/corpus_redacted.json
+data/compare/server_*.log
+data/compare/server_mem_*.log
+scripts/charts/*.html
+__pycache__/
+.DS_Store

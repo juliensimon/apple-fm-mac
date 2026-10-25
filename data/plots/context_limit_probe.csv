@@ -1,0 +1,10 @@
+counted_prompt_tokens,wall_seconds,result
+3796,3.51,ok
+4090,3.9,ok
+4300,4.12,ok
+5000,5.52,ok
+5994,7.27,ok
+8004,,ok
+8102,,ok
+8158,,context exceeded
+8192,2.81,context exceeded

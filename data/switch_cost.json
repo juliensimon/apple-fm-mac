@@ -1,0 +1,135 @@
+[
+ {
+  "use_case": "general",
+  "after": null,
+  "ttft_s": 0.826,
+  "total_s": 0.938,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "general",
+  "after": "general",
+  "ttft_s": 0.426,
+  "total_s": 0.538,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "general",
+  "after": "general",
+  "ttft_s": 0.423,
+  "total_s": 0.546,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "general",
+  "after": "general",
+  "ttft_s": 0.422,
+  "total_s": 0.54,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "content-tagging",
+  "after": "general",
+  "ttft_s": 1.853,
+  "total_s": 1.854,
+  "out_bytes": 72
+ },
+ {
+  "use_case": "content-tagging",
+  "after": "content-tagging",
+  "ttft_s": 1.6,
+  "total_s": 1.6,
+  "out_bytes": 72
+ },
+ {
+  "use_case": "content-tagging",
+  "after": "content-tagging",
+  "ttft_s": 1.598,
+  "total_s": 1.599,
+  "out_bytes": 72
+ },
+ {
+  "use_case": "content-tagging",
+  "after": "content-tagging",
+  "ttft_s": 1.596,
+  "total_s": 1.597,
+  "out_bytes": 72
+ },
+ {
+  "use_case": "general",
+  "after": "content-tagging",
+  "ttft_s": 0.683,
+  "total_s": 0.798,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "content-tagging",
+  "after": "general",
+  "ttft_s": 1.616,
+  "total_s": 1.617,
+  "out_bytes": 72
+ },
+ {
+  "use_case": "general",
+  "after": "content-tagging",
+  "ttft_s": 0.432,
+  "total_s": 0.544,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "content-tagging",
+  "after": "general",
+  "ttft_s": 1.604,
+  "total_s": 1.605,
+  "out_bytes": 72
+ },
+ {
+  "use_case": "general",
+  "after": "content-tagging",
+  "ttft_s": 0.421,
+  "total_s": 0.544,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "content-tagging",
+  "after": "general",
+  "ttft_s": 1.588,
+  "total_s": 1.589,
+  "out_bytes": 72
+ },
+ {
+  "use_case": "general",
+  "after": "content-tagging",
+  "ttft_s": 0.431,
+  "total_s": 0.542,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "content-tagging",
+  "after": "general",
+  "ttft_s": 1.595,
+  "total_s": 1.596,
+  "out_bytes": 72
+ },
+ {
+  "use_case": "general",
+  "after": "content-tagging",
+  "ttft_s": 0.42,
+  "total_s": 0.537,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "general",
+  "after": "general",
+  "ttft_s": 0.413,
+  "total_s": 0.525,
+  "out_bytes": 73
+ },
+ {
+  "use_case": "general",
+  "after": "general",
+  "ttft_s": 0.424,
+  "total_s": 0.538,
+  "out_bytes": 73
+ }
+]

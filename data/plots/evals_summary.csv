@@ -1,0 +1,8 @@
+benchmark,n,correct,accuracy_pct,ci95_low_pct,ci95_high_pct,guardrail_refusals,note
+GSM8K (random test problems),100,78,78.0,68.9,85.0,1,"zero-shot, step by step, final line 'Answer: N'; guardrail refusals count as wrong"
+MMLU (random test questions),200,134,67.0,60.2,73.1,3,"zero-shot, letter only; guardrail refusals count as wrong"
+"MMLU, STEM",44,24,54.5,40.1,68.3,0,subset of the 200 questions
+"MMLU, Humanities",74,48,64.9,53.5,74.8,3,subset of the 200 questions
+"MMLU, Social sciences",41,34,82.9,68.7,91.5,0,subset of the 200 questions
+"MMLU, Other",41,28,68.3,53.0,80.4,0,subset of the 200 questions
+"MMLU, answered questions only",197,134,68.0,61.2,74.1,0,the 197 questions that did not trigger the guardrail

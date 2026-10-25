@@ -1,0 +1,128 @@
+task,block_index,tokens_in_block,seconds_since_previous_block
+letter A x150,0,8,
+letter A x150,1,10,0.1545
+letter A x150,2,10,0.1511
+letter A x150,3,1,0.0665
+letter A x150,4,9,0.0675
+letter A x150,5,3,0.0528
+word echo x100,0,7,
+word echo x100,1,10,0.1346
+word echo x100,2,10,0.1771
+word echo x100,3,10,0.1538
+word echo x100,4,10,0.1134
+word echo x100,5,9,0.206
+word echo x100,6,10,0.112
+word echo x100,7,1,0.0288
+word echo x100,8,7,0.0554
+word echo x100,9,3,0.0489
+counting 1..60,0,7,
+counting 1..60,1,10,0.1229
+counting 1..60,2,10,0.2114
+counting 1..60,3,10,0.1175
+counting 1..60,4,10,0.1184
+counting 1..60,5,10,0.2052
+counting 1..60,6,10,0.1126
+counting 1..60,7,10,0.1473
+counting 1..60,8,10,0.1657
+counting 1..60,9,9,0.153
+counting 1..60,10,10,0.116
+counting 1..60,11,10,0.2124
+counting 1..60,12,10,0.1169
+counting 1..60,13,10,0.1166
+counting 1..60,14,10,0.1458
+counting 1..60,15,1,0.113
+counting 1..60,16,7,0.0655
+counting 1..60,17,3,0.0491
+repeat sentence,0,7,
+repeat sentence,1,10,0.2213
+repeat sentence,2,10,0.1404
+repeat sentence,3,10,0.1228
+repeat sentence,4,10,0.2268
+repeat sentence,5,10,0.1291
+repeat sentence,6,9,0.1718
+repeat sentence,7,10,0.1912
+repeat sentence,8,10,0.1848
+repeat sentence,9,10,0.1225
+repeat sentence,10,10,0.1471
+repeat sentence,11,9,0.1889
+repeat sentence,12,10,0.1226
+repeat sentence,13,8,0.185
+repeat sentence,14,10,0.1615
+repeat sentence,15,1,0.0589
+repeat sentence,16,3,0.0552
+copy a paragraph,0,7,
+copy a paragraph,1,10,0.1337
+copy a paragraph,2,10,0.1703
+copy a paragraph,3,10,0.187
+copy a paragraph,4,11,0.1676
+copy a paragraph,5,3,0.0065
+code,0,8,
+code,1,10,0.1579
+code,2,10,0.209
+code,3,10,0.175
+code,4,10,0.1815
+code,5,10,0.2388
+code,6,10,0.2358
+code,7,10,0.1316
+code,8,10,0.2368
+code,9,10,0.2203
+code,10,10,0.2436
+code,11,10,0.1778
+code,12,10,0.2121
+code,13,10,0.1701
+code,14,10,0.1915
+code,15,10,0.1519
+code,16,10,0.1703
+code,17,10,0.1678
+code,18,10,0.2956
+code,19,11,0.1219
+code,20,3,0.0061
+prose,0,7,
+prose,1,10,0.2531
+prose,2,10,0.1993
+prose,3,10,0.3354
+prose,4,10,0.321
+prose,5,10,0.2953
+prose,6,10,0.2127
+prose,7,10,0.2429
+prose,8,10,0.2806
+prose,9,10,0.2583
+prose,10,10,0.2745
+prose,11,10,0.1916
+prose,12,10,0.2764
+prose,13,10,0.278
+prose,14,10,0.2654
+prose,15,10,0.2748
+prose,16,10,0.2319
+prose,17,9,0.2704
+prose,18,10,0.3089
+prose,19,11,0.2118
+prose,20,3,0.0068
+pi digits,0,7,
+pi digits,1,10,0.2398
+pi digits,2,8,0.2455
+pi digits,3,10,0.2423
+pi digits,4,11,0.2272
+pi digits,5,2,0.052
+pi digits,6,3,0.0539
+random words,0,6,
+random words,1,9,0.3797
+random words,2,3,0.0062
+primes,0,7,
+primes,1,8,0.1631
+primes,2,9,0.2079
+primes,3,10,0.154
+primes,4,9,0.1124
+primes,5,9,0.1697
+primes,6,9,0.1495
+primes,7,8,0.1521
+primes,8,9,0.1676
+primes,9,10,0.1508
+primes,10,10,0.1527
+primes,11,9,0.1157
+primes,12,10,0.2053
+primes,13,10,0.116
+primes,14,10,0.1495
+primes,15,1,0.0217
+primes,16,4,0.0634
+primes,17,3,0.0514

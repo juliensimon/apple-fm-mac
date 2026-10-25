@@ -1,0 +1,574 @@
+[
+ {
+  "slug": "six-sentences",
+  "title": "Six descriptions of Google's role in Apple's models",
+  "subtitle": "January 12th and June 8th, 2026",
+  "columns": [
+   {
+    "head": "Date"
+   },
+   {
+    "head": "Who"
+   },
+   {
+    "head": "Wording"
+   },
+   {
+    "head": "Gemini in quote"
+   }
+  ],
+  "rows": [
+   [
+    "Jan 12",
+    "Apple and Google, joint statement",
+    "\"will be based on Google's Gemini models and cloud technology\"",
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "yes"
+    }
+   ],
+   [
+    "Jun 8",
+    "Apple Security Research",
+    "\"leverage the technologies behind its Gemini family of models\"",
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "yes"
+    }
+   ],
+   [
+    "Jun 8",
+    "Apple Machine Learning Research",
+    "\"custom-built in collaboration with Google\"",
+    {
+     "text": "",
+     "pill": "grey",
+     "pill_text": "no"
+    }
+   ],
+   [
+    "Jun 8",
+    "Apple Newsroom",
+    "\"custom-built in collaboration with Google and its Gemini models\"",
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "yes"
+    }
+   ],
+   [
+    "Jun 8",
+    "Craig Federighi, press briefing",
+    "\"none of the models that Google deploys to their customers\"",
+    {
+     "text": "",
+     "pill": "grey",
+     "pill_text": "no"
+    }
+   ],
+   [
+    "Jun 8",
+    "Amar Subramanya, VP of AI, press briefing",
+    "\"refined using outputs from Gemini frontier models\"",
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "yes"
+    }
+   ]
+  ],
+  "source": "Google and Apple, Apple Security Research, Apple ML Research and Apple Newsroom pages; 9to5Mac transcript of the press briefing (reported speech)",
+  "source_date": "2026-10-24",
+  "day": "2026-10-26"
+ },
+ {
+  "slug": "same-questions",
+  "title": "Same questions, same Mac: Apple's model is last on math and mid-pack on knowledge",
+  "subtitle": "100 GSM8K problems and 200 MMLU questions, zero-shot, temperature 0",
+  "columns": [
+   {
+    "head": "Model"
+   },
+   {
+    "head": "Math solved",
+    "sub": "of 100, 95% interval"
+   },
+   {
+    "head": "Against Apple",
+    "sub": "only this model vs only Apple"
+   },
+   {
+    "head": "Knowledge right",
+    "sub": "of 200, 95% interval"
+   },
+   {
+    "head": "Against Apple",
+    "sub": "only this model vs only Apple"
+   }
+  ],
+  "rows": [
+   [
+    {
+     "text": "Apple Core Advanced",
+     "sub": "Apple's figures: 20B stored, 1 to 4B at work"
+    },
+    {
+     "text": "78",
+     "mono": true,
+     "sub": "69 to 85"
+    },
+    {
+     "text": "",
+     "mono": true
+    },
+    {
+     "text": "134 (67.0%)",
+     "mono": true,
+     "sub": "60 to 73"
+    },
+    {
+     "text": "",
+     "mono": true
+    }
+   ],
+   [
+    {
+     "text": "Gemma 3 4B",
+     "sub": "Google, 4B parameters"
+    },
+    {
+     "text": "89",
+     "mono": true,
+     "sub": "81 to 94"
+    },
+    {
+     "text": "13 vs 2",
+     "mono": true,
+     "sub": "p = 0.007",
+     "pill": "red",
+     "pill_text": "Apple behind"
+    },
+    {
+     "text": "118 (59.0%)",
+     "mono": true,
+     "sub": "52 to 66"
+    },
+    {
+     "text": "14 vs 30",
+     "mono": true,
+     "sub": "p = 0.02",
+     "pill": "green",
+     "pill_text": "Apple ahead"
+    }
+   ],
+   [
+    {
+     "text": "Gemma 4 E4B",
+     "sub": "Google, 4.5B effective"
+    },
+    {
+     "text": "94",
+     "mono": true,
+     "sub": "88 to 97"
+    },
+    {
+     "text": "18 vs 2",
+     "mono": true,
+     "sub": "p < 0.001",
+     "pill": "red",
+     "pill_text": "Apple behind"
+    },
+    {
+     "text": "139 (69.5%)",
+     "mono": true,
+     "sub": "63 to 75"
+    },
+    {
+     "text": "23 vs 18",
+     "mono": true,
+     "sub": "p = 0.53",
+     "pill": "grey",
+     "pill_text": "no clear gap"
+    }
+   ],
+   [
+    {
+     "text": "Qwen3 4B Instruct 2507",
+     "sub": "Alibaba, 4B parameters"
+    },
+    {
+     "text": "93",
+     "mono": true,
+     "sub": "86 to 97"
+    },
+    {
+     "text": "17 vs 2",
+     "mono": true,
+     "sub": "p < 0.001",
+     "pill": "red",
+     "pill_text": "Apple behind"
+    },
+    {
+     "text": "144 (72.0%)",
+     "mono": true,
+     "sub": "65 to 78"
+    },
+    {
+     "text": "25 vs 15",
+     "mono": true,
+     "sub": "p = 0.15",
+     "pill": "grey",
+     "pill_text": "no clear gap"
+    }
+   ]
+  ],
+  "legend": "Pills: exact paired test (McNemar) on the same questions. Red or green mean a gap too large for chance at the 5% level; grey means no clear gap.",
+  "source": "Author's measurement, MacBook Pro (M3 Max, macOS 27.0.1): Apple through fm serve, open models as 8-bit MLX builds. Data: data/compare/",
+  "source_date": "2026-10-24",
+  "day": "2026-10-26"
+ },
+ {
+  "slug": "core-advanced-card",
+  "title": "Core Advanced: a model card built from outside",
+  "subtitle": "Apple's larger on-device model, measured on a MacBook Pro M3 Max, macOS 27.0.1",
+  "columns": [
+   {
+    "head": "Field"
+   },
+   {
+    "head": "Value"
+   },
+   {
+    "head": "Basis"
+   }
+  ],
+  "rows": [
+   {
+    "band": "Identity"
+   },
+   [
+    "Model",
+    {
+     "text": "Core Advanced, the larger on-device model of Apple's third generation"
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple says"
+    }
+   ],
+   [
+    "Builder",
+    {
+     "text": "Apple, \"custom-built in collaboration with Google\""
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple says"
+    }
+   ],
+   [
+    "Version",
+    {
+     "text": "The OS 27.0 model; no API to pin or read a version"
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple staff"
+    }
+   ],
+   {
+    "band": "Architecture"
+   },
+   [
+    "Type",
+    {
+     "text": "Sparse decoder; experts chosen per prompt, built on Instruction-Following Pruning"
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple says"
+    }
+   ],
+   [
+    "Parameters",
+    {
+     "text": "20 billion stored, 1 to 4 billion active per request"
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple says"
+    }
+   ],
+   [
+    "Layers",
+    {
+     "text": "56: the first 12 dense, which also compute the routing; 44 with experts"
+    },
+    {
+     "text": "",
+     "pill": "grey",
+     "pill_text": "Apple paper"
+    }
+   ],
+   [
+    "Hidden size",
+    {
+     "text": "1,536"
+    },
+    {
+     "text": "",
+     "pill": "grey",
+     "pill_text": "Apple paper"
+    }
+   ],
+   [
+    "Experts",
+    {
+     "text": "212 per expert layer, hidden size 256, plus always-active shared experts",
+     "sub": "shared experts: Apple says"
+    },
+    {
+     "text": "",
+     "pill": "grey",
+     "pill_text": "Apple paper"
+    }
+   ],
+   [
+    "Routing",
+    {
+     "text": "Per prompt, reselected about every 32 tokens"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "Apple says + measured"
+    }
+   ],
+   [
+    "Attention",
+    {
+     "text": "Grouped-query; the cache fits 8 KV heads of 128 in 35 layers at 8 bits",
+     "sub": "the paper prints 12 query and KV heads, which the measured cache cannot fit"
+    },
+    {
+     "text": "",
+     "pill": "amber",
+     "pill_text": "inferred"
+    }
+   ],
+   [
+    "Context",
+    {
+     "text": "8,192 tokens",
+     "sub": "Apple's documentation says 4,096"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "measured"
+    }
+   ],
+   [
+    "Vocabulary",
+    {
+     "text": "262,144 entries: Gemma 3's tokenizer, 775 reserved slots reused",
+     "sub": "not on Apple's page"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "measured"
+    }
+   ],
+   [
+    "Inputs, outputs",
+    {
+     "text": "Text and images in, text out; no reasoning mode"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "measured"
+    }
+   ],
+   [
+    "Languages",
+    {
+     "text": "24 locales in the public API, 15 languages; it answered in all 10 test languages, Arabic, Hindi and Russian among them, outside the list",
+     "sub": "multilingual training; safety models loaded per language (Apple says, system log)"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "measured"
+    }
+   ],
+   {
+    "band": "Compression"
+   },
+   [
+    "Weights",
+    {
+     "text": "About 2 bits per weight, quantization-aware training",
+     "sub": "Apple: 2 bits for the 2025 model, no bit width for 2026"
+    },
+    {
+     "text": "",
+     "pill": "amber",
+     "pill_text": "inferred"
+    }
+   ],
+   [
+    "Embeddings",
+    {
+     "text": "A 192 MiB table: 4 bits at width 1,536"
+    },
+    {
+     "text": "",
+     "pill": "amber",
+     "pill_text": "inferred"
+    }
+   ],
+   [
+    "Attention cache",
+    {
+     "text": "8 bits; 35 MiB at a 512-token window, 560 MiB at 8,192",
+     "sub": "the sizes are measured; the 8 bits are inferred"
+    },
+    {
+     "text": "",
+     "pill": "amber",
+     "pill_text": "inferred"
+    }
+   ],
+   {
+    "band": "Runtime on a Mac"
+   },
+   [
+    "Expert store",
+    {
+     "text": "A 4.95 GB file in flash, read in 294,912-byte blocks"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "measured"
+    }
+   ],
+   [
+    "Memory",
+    {
+     "text": "636 MiB of resident model pages; 2.0 to 3.4 GiB with the safety models"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "measured"
+    }
+   ],
+   [
+    "Compute",
+    {
+     "text": "Neural Engine, about 4 W; GPU idle"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "measured"
+    }
+   ],
+   [
+    "Helpers",
+    {
+     "text": "Draft model for speculative decoding (about 9 MiB), use-case adapter, two 300M safety models"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "system log"
+    }
+   ],
+   {
+    "band": "Training and use"
+   },
+   [
+    "Data",
+    {
+     "text": "Public, licensed, open-source, study and synthetic data; no proportions"
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple says"
+    }
+   ],
+   [
+    "Compute, teacher",
+    {
+     "text": "Pre-trained on cloud TPUs; \"refined using outputs from Gemini frontier models\"",
+     "sub": "the Gemini quote: a press briefing as transcribed by 9to5Mac"
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple says + reported"
+    }
+   ],
+   [
+    "Use for",
+    {
+     "text": "Summaries, extraction, classification, rewriting, tags, game dialog"
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple says"
+    }
+   ],
+   [
+    "Avoid",
+    {
+     "text": "Basic math, code, logical reasoning"
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple says"
+    }
+   ],
+   [
+    "Evaluation",
+    {
+     "text": "Apple: voice and dictation at 1 billion active. Mine: 78 of 100 math problems (open builds 89 to 94), 67% on knowledge"
+    },
+    {
+     "text": "",
+     "pill": "green",
+     "pill_text": "Apple says + measured"
+    }
+   ],
+   [
+    "Tuning",
+    {
+     "text": "No developer adapters from OS 27"
+    },
+    {
+     "text": "",
+     "pill": "accent",
+     "pill_text": "Apple staff"
+    }
+   ]
+  ],
+  "legend": "Apple paper: Kundu et al., Stepped MoE, arXiv 2610.07348, October 5th, 2026, which does not name the model; a 12-billion-parameter configuration whose authors say it might change on scaling. Inferred: arithmetic or reading from measurements. Each line's data: repository item 01.",
+  "source": "Sources: Apple's model page, reports and developer forums; the author's measurements, October 24th and 25th, 2026. The AI Realist, airealist.ai",
+  "width": 1240,
+  "day": "2026-10-26"
+ }
+]

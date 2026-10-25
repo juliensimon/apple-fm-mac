@@ -1,0 +1,21 @@
+{
+ "date": "2026-10-24",
+ "note": "GiB = 2^30 bytes; MLX allocations only",
+ "models": {
+  "mlx-community/gemma-3-4b-it-8bit": {
+   "after_load_gib": 4.5,
+   "peak_during_reply_gib": 4.71,
+   "reply_tokens": 94
+  },
+  "mlx-community/gemma-4-e4b-it-8bit": {
+   "after_load_gib": 7.39,
+   "peak_during_reply_gib": 7.6,
+   "reply_tokens": 194
+  },
+  "mlx-community/Qwen3-4B-Instruct-2507-8bit": {
+   "after_load_gib": 3.98,
+   "peak_during_reply_gib": 4.27,
+   "reply_tokens": 122
+  }
+ }
+}

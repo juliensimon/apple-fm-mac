@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these measurements, data or scripts, please cite them as below."
+title: "apple-fm-mac: measurements of Apple's on-device language model on a Mac (macOS 27, fm, Foundation Models)"
+authors:
+  - family-names: Simon
+    given-names: Julien
+version: "1.0"
+keywords:
+  - Apple Foundation Models
+  - on-device language model
+  - macOS 27
+  - tokenizer
+  - benchmark
+  - MLX
+abstract: >-
+  Measurements of Apple's on-device language model (Core Advanced, the larger of its two models) on one MacBook Pro (Apple M3 Max, 48 GB,
+  macOS 27.0.1, build 26A434), taken on 2026-10-24 through the public fm command, its local server and the public
+  Swift API: the same 100 GSM8K and 200 MMLU questions against three open models run with MLX, a token-count test
+  against fifteen public tokenizers, memory, power, speed against context, and expert reads from flash.

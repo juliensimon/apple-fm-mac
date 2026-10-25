@@ -1,0 +1,54 @@
+seconds_into_phase,reads_in_cluster,text_char_position,next_section_heading,chars_until_that_heading
+0.18,11,0,Sourdough Baking,3154
+0.75,20,0,Sourdough Baking,3154
+1.52,1,93,Sourdough Baking,3061
+3.01,2,403,Sourdough Baking,2751
+5.12,2,869,Sourdough Baking,2285
+5.88,1,1004,Sourdough Baking,2150
+7.5,1,1357,Sourdough Baking,1797
+9.71,1,1845,Sourdough Baking,1309
+10.55,1,1994,Sourdough Baking,1160
+11.29,1,2209,Sourdough Baking,945
+14.41,28,2865,Sourdough Baking,289
+15.1,2,3030,Sourdough Baking,124
+15.9,4,3226,Contract Law,2995
+16.76,4,3413,Contract Law,2808
+18.38,2,3708,Contract Law,2513
+20.63,1,4200,Contract Law,2021
+21.43,3,4346,Contract Law,1875
+23.09,1,4705,Contract Law,1516
+26.75,1,5357,Contract Law,864
+27.7,1,5552,Contract Law,669
+28.58,1,5675,Contract Law,546
+29.55,1,5913,Contract Law,308
+30.37,21,6037,Contract Law,184
+31.24,1,6190,Contract Law,31
+32.1,2,6335,The History of Jazz,2883
+32.98,2,6526,The History of Jazz,2692
+33.97,4,6712,The History of Jazz,2506
+35.08,2,6934,The History of Jazz,2284
+35.99,1,7019,The History of Jazz,2199
+38.88,1,7553,The History of Jazz,1665
+39.93,1,7762,The History of Jazz,1456
+43.63,1,8429,The History of Jazz,789
+45.54,13,8823,The History of Jazz,395
+46.38,4,9002,The History of Jazz,216
+47.16,2,9158,The History of Jazz,60
+47.97,1,9320,Marine Biology,3084
+50.78,1,9890,Marine Biology,2514
+59.84,1,11290,Marine Biology,1114
+61.13,1,11463,Marine Biology,941
+62.1,1,11577,Marine Biology,827
+64.27,1,11910,Marine Biology,494
+66.55,18,12185,Marine Biology,219
+67.65,2,12333,Marine Biology,71
+68.82,4,12481,,
+69.98,2,12685,,
+72.27,1,13020,,
+73.5,1,13163,,
+74.72,1,13349,,
+75.94,1,13567,,
+77.06,1,13759,,
+80.73,1,14318,,
+89.86,1,15789,,
+90.87,1,16002,,

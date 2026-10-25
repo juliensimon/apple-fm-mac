@@ -1,0 +1,39 @@
+## syscall counts
+2380 stat64
+1435 RdData[AN]
+1406 pread
+1042 RdMeta[S]
+ 383 kevent_qos
+ 115 access
+ 114 close
+  92 fstat64
+  82 open
+  75 PAGE_IN_FILE
+  72 getattrlist
+  59 fcntl
+  44 read
+  41 PgIn[A]
+  33 lstat64
+  32 mmap
+  19 RdData[AP]
+  13 RdMeta[A]
+  12 listxattr
+  11 map_fd
+  11 lseek
+  11 getdirentries64
+  11 fstatfs64
+   8 getattrlistbulk
+   4 RdData[A]
+
+## reads by file descriptor (op fd count)
+1435 RdData[AN] -
+1384 pread F=3
+  75 PAGE_IN_FILE -
+  41 PgIn[A] -
+  20 read F=9
+  20 pread F=11
+  19 RdData[AP] -
+  12 read F=12
+  12 read F=11
+   4 RdData[A] -
+   2 pread F=7

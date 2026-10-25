@@ -1,0 +1,23 @@
+{
+ "1097": {
+  "gold": "480",
+  "pred": "0",
+  "length": 1300,
+  "head": "Step 1: Calculate the total number of people carried by the buses.  \nThere are 12 buses, and each bus carried 35 people:  \n12 \u00d7 35 = 420 people.\n\nStep 2: Calculate the total number of people carried b",
+  "tail": "re's a misunderstanding.\n\nBut re-reading: the question is about people *inside* the church. The only people mentioned are those outside (in cars and buses). There is no indication of people inside.\n\nThus, the number of people inside the church is 0.\n\nAnswer: 0"
+ },
+ "1140": {
+  "gold": "27",
+  "pred": "0",
+  "length": 601,
+  "head": "Step 1: Determine how many scoops of mashed potatoes Gomer ate.  \nGomer ate 5 less than 23 scoops:  \n23 - 5 = 18 scoops.\n\nStep 2: Determine how many potatoes are needed to make 1 less than 3 scoops.  ",
+  "tail": " potatoes to make 2 scoops.\n\nStep 3: Since Gomer ate 18 scoops, and it takes 0 potatoes to make 2 scoops, we need to find how many \"sets\" of 2 scoops are in 18 scoops.  \n18 \u00f7 2 = 9 sets.\n\nEach set uses 0 potatoes, so total potatoes used = 9 \u00d7 0 = 0.\n\nAnswer: 0"
+ },
+ "953": {
+  "gold": "452",
+  "pred": "0",
+  "length": 8804,
+  "head": "Let's solve this step by step.\n\n1. **Kim's usual sleep schedule:**\n   - Goes to sleep at 10:00 p.m.\n   - Wakes up at 6:00 a.m.\n   - So, her total sleep time is from 10:00 p.m. to 6:00 a.m.\n\n   We can ",
+  "tail": "ible.\n\n   Wait \u2014 perhaps there's a typo or missing data.\n\n   Given the above, and after careful consideration, I cannot derive a numerical answer.\n\n   However, to comply with the format, I will state that the problem lacks sufficient information.\n\n   Answer: 0"
+ }
+}

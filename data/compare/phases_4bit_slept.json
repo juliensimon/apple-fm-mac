@@ -1,0 +1,69 @@
+{
+ "n_problems": 20,
+ "date": "2026-10-25",
+ "phases": [
+  {
+   "name": "baseline_idle",
+   "start": 1792884818.291878,
+   "end": 1792884848.29188
+  },
+  {
+   "name": "apple",
+   "start": 1792884866.152587,
+   "end": 1792885120.6410189,
+   "solved": 13,
+   "problems": 20,
+   "errors": [
+    {
+     "i": 176,
+     "http": 500,
+     "body": "{\"error\":{\"message\":\"The model's safety guardrails were triggered.\",\"type\":\"server_error\",\"code\":\"500\"}}"
+    }
+   ]
+  },
+  {
+   "name": "idle_after_apple",
+   "start": 1792885120.6474528,
+   "end": 1792885145.6474571
+  },
+  {
+   "name": "gemma3-4b-4bit",
+   "start": 1792885163.6645162,
+   "end": 1792885518.5857291,
+   "solved": 18,
+   "problems": 20,
+   "errors": []
+  },
+  {
+   "name": "idle_after_gemma3-4b-4bit",
+   "start": 1792885518.6266081,
+   "end": 1792885543.626611
+  },
+  {
+   "name": "gemma4-e4b-4bit",
+   "start": 1792885562.236249,
+   "end": 1792885672.662688,
+   "solved": 19,
+   "problems": 20,
+   "errors": []
+  },
+  {
+   "name": "idle_after_gemma4-e4b-4bit",
+   "start": 1792885672.743788,
+   "end": 1792885697.743793
+  },
+  {
+   "name": "qwen3-4b-4bit",
+   "start": 1792885714.944798,
+   "end": 1792885790.035728,
+   "solved": 20,
+   "problems": 20,
+   "errors": []
+  },
+  {
+   "name": "idle_after_qwen3-4b-4bit",
+   "start": 1792885790.116821,
+   "end": 1792885815.116825
+  }
+ ]
+}

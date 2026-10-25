@@ -1,0 +1,35 @@
+{
+ "note": "MMLU after rerunning the eight cut replies with a 2,048-token cap and reading the final answer (mmlu_uncapped.json). Apple and Gemma 3 unchanged.",
+ "models": {
+  "gemma3-4b-8bit": {
+   "correct": 118,
+   "ci": [
+    52.1,
+    65.6
+   ],
+   "only_apple": 30,
+   "only_model": 14,
+   "p": 0.0226
+  },
+  "gemma4-e4b-8bit": {
+   "correct": 140,
+   "ci": [
+    63.3,
+    75.9
+   ],
+   "only_apple": 18,
+   "only_model": 24,
+   "p": 0.4408
+  },
+  "qwen3-4b-8bit": {
+   "correct": 150,
+   "ci": [
+    68.6,
+    80.5
+   ],
+   "only_apple": 12,
+   "only_model": 28,
+   "p": 0.0166
+  }
+ }
+}

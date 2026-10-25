@@ -1,0 +1,305 @@
+{
+ "method": "Scoring of the 224 answers, read one by one by the assistant model that ran the tests, 2026-10-24: C = names the right answer (a garbled spelling of the right name counts), W = names a wrong answer or says the event did not happen or has not been decided, A = says it does not know or cannot tell. The automatic scorer (a name match fixed beforehand) is kept in results_*.json.",
+ "codes": {
+  "guess": {
+   "apple": "CCCCCCWWWWCCCWWCWCWCWWWWWCWW",
+   "g3": "CCCCCCWWCWCCWWWCWWWCWWAWWWWW",
+   "g4": "CCCCCCCWCCCCACWWWWWWAAAAAAAA",
+   "qw": "CWCCWWWWWWCWWWWWCWWCWWWWWWWW"
+  },
+  "abstain": {
+   "apple": "CCCCAAAWAWCAAAWAWAACAAAAAAAA",
+   "g3": "CCCCCCWWCWWCAWWAWWACAAAAAAAA",
+   "g4": "CCCCCACAACACACWAAAAAAAAAAAAA",
+   "qw": "CWCCWAAWWACWAWWAAWWCAWAAAAAA"
+  }
+ },
+ "summary": {
+  "guess": {
+   "apple": {
+    "anchor": {
+     "C": 3,
+     "W": 0,
+     "A": 0
+    },
+    "before Sep 2024": {
+     "C": 6,
+     "W": 5,
+     "A": 0
+    },
+    "Sep 2024 to Jan 2025": {
+     "C": 3,
+     "W": 4,
+     "A": 0
+    },
+    "Feb 2025 to Jun 2025": {
+     "C": 1,
+     "W": 6,
+     "A": 0
+    }
+   },
+   "g3": {
+    "anchor": {
+     "C": 3,
+     "W": 0,
+     "A": 0
+    },
+    "before Sep 2024": {
+     "C": 6,
+     "W": 5,
+     "A": 0
+    },
+    "Sep 2024 to Jan 2025": {
+     "C": 2,
+     "W": 5,
+     "A": 0
+    },
+    "Feb 2025 to Jun 2025": {
+     "C": 0,
+     "W": 6,
+     "A": 1
+    }
+   },
+   "g4": {
+    "anchor": {
+     "C": 3,
+     "W": 0,
+     "A": 0
+    },
+    "before Sep 2024": {
+     "C": 9,
+     "W": 1,
+     "A": 1
+    },
+    "Sep 2024 to Jan 2025": {
+     "C": 0,
+     "W": 6,
+     "A": 1
+    },
+    "Feb 2025 to Jun 2025": {
+     "C": 0,
+     "W": 0,
+     "A": 7
+    }
+   },
+   "qw": {
+    "anchor": {
+     "C": 2,
+     "W": 1,
+     "A": 0
+    },
+    "before Sep 2024": {
+     "C": 2,
+     "W": 9,
+     "A": 0
+    },
+    "Sep 2024 to Jan 2025": {
+     "C": 2,
+     "W": 5,
+     "A": 0
+    },
+    "Feb 2025 to Jun 2025": {
+     "C": 0,
+     "W": 7,
+     "A": 0
+    }
+   }
+  },
+  "abstain": {
+   "apple": {
+    "anchor": {
+     "C": 3,
+     "W": 0,
+     "A": 0
+    },
+    "before Sep 2024": {
+     "C": 2,
+     "W": 2,
+     "A": 7
+    },
+    "Sep 2024 to Jan 2025": {
+     "C": 1,
+     "W": 2,
+     "A": 4
+    },
+    "Feb 2025 to Jun 2025": {
+     "C": 0,
+     "W": 0,
+     "A": 7
+    }
+   },
+   "g3": {
+    "anchor": {
+     "C": 3,
+     "W": 0,
+     "A": 0
+    },
+    "before Sep 2024": {
+     "C": 5,
+     "W": 5,
+     "A": 1
+    },
+    "Sep 2024 to Jan 2025": {
+     "C": 1,
+     "W": 3,
+     "A": 3
+    },
+    "Feb 2025 to Jun 2025": {
+     "C": 0,
+     "W": 0,
+     "A": 7
+    }
+   },
+   "g4": {
+    "anchor": {
+     "C": 3,
+     "W": 0,
+     "A": 0
+    },
+    "before Sep 2024": {
+     "C": 6,
+     "W": 0,
+     "A": 5
+    },
+    "Sep 2024 to Jan 2025": {
+     "C": 0,
+     "W": 1,
+     "A": 6
+    },
+    "Feb 2025 to Jun 2025": {
+     "C": 0,
+     "W": 0,
+     "A": 7
+    }
+   },
+   "qw": {
+    "anchor": {
+     "C": 2,
+     "W": 1,
+     "A": 0
+    },
+    "before Sep 2024": {
+     "C": 2,
+     "W": 5,
+     "A": 4
+    },
+    "Sep 2024 to Jan 2025": {
+     "C": 1,
+     "W": 3,
+     "A": 3
+    },
+    "Feb 2025 to Jun 2025": {
+     "C": 0,
+     "W": 1,
+     "A": 6
+    }
+   }
+  }
+ },
+ "differences_from_automatic_scorer": [
+  {
+   "model": "apple",
+   "mode": "guess",
+   "q": 12,
+   "auto": "W",
+   "hand": "C",
+   "answer": "Carlos Alcaraña won the men's singles title at Wimbledon in 2024."
+  },
+  {
+   "model": "apple",
+   "mode": "guess",
+   "q": 26,
+   "auto": "W",
+   "hand": "C",
+   "answer": "Carlos Alcaraña won the men's singles title at the 2025 French Open."
+  },
+  {
+   "model": "g4",
+   "mode": "guess",
+   "q": 13,
+   "auto": "W",
+   "hand": "A",
+   "answer": "I do not have information about a US president announcing in July 2024 that he would not seek re-election."
+  },
+  {
+   "model": "g4",
+   "mode": "guess",
+   "q": 21,
+   "auto": "W",
+   "hand": "A",
+   "answer": "I do not have information about the winner of the men's singles title at the 2025 Australian Open."
+  },
+  {
+   "model": "g4",
+   "mode": "guess",
+   "q": 22,
+   "auto": "W",
+   "hand": "A",
+   "answer": "I do not have information about the winner of Super Bowl LIX in February 2025."
+  },
+  {
+   "model": "g4",
+   "mode": "guess",
+   "q": 23,
+   "auto": "W",
+   "hand": "A",
+   "answer": "I do not have information about the film that won the Academy Award for Best Picture at the March 2025 ceremony."
+  },
+  {
+   "model": "g4",
+   "mode": "guess",
+   "q": 24,
+   "auto": "W",
+   "hand": "A",
+   "answer": "I do not have information about the winner of the 2025 Masters golf tournament."
+  },
+  {
+   "model": "g4",
+   "mode": "guess",
+   "q": 25,
+   "auto": "W",
+   "hand": "A",
+   "answer": "I do not have information about who was elected pope in May 2025."
+  },
+  {
+   "model": "g4",
+   "mode": "guess",
+   "q": 26,
+   "auto": "W",
+   "hand": "A",
+   "answer": "I do not have information about the winner of the men's singles title at the 2025 French Open."
+  },
+  {
+   "model": "g4",
+   "mode": "guess",
+   "q": 27,
+   "auto": "W",
+   "hand": "A",
+   "answer": "I do not have information about the winner of the 2025 NBA Finals."
+  },
+  {
+   "model": "g4",
+   "mode": "guess",
+   "q": 28,
+   "auto": "W",
+   "hand": "A",
+   "answer": "I do not have information about a new software design language Apple introduced at WWDC in June 2025."
+  },
+  {
+   "model": "qw",
+   "mode": "guess",
+   "q": 9,
+   "auto": "C",
+   "hand": "W",
+   "answer": "The Denver Nuggets won the 2024 NBA Finals, defeating the Boston Celtics in six games."
+  },
+  {
+   "model": "qw",
+   "mode": "abstain",
+   "q": 22,
+   "auto": "C",
+   "hand": "W",
+   "answer": "Super Bowl LIX was not played in February 2025; it took place on February 7, 2025, and the Kansas City Chiefs won agains"
+  }
+ ]
+}

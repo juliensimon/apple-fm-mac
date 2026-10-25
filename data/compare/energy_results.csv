@@ -1,0 +1,5 @@
+model,problems,solved,window_s,samples,mean_combined_mw,mean_ane_mw,mean_gpu_mw,mean_cpu_mw,request_errors,energy_j,energy_above_idle_j,j_per_solved_above_idle,j_per_problem_above_idle
+apple,20,13,91.8,177,5294,4046,13,1235,1,481.4,464.6,35.7,23.2
+gemma3-4b-8bit,20,19,78.8,154,20361,0,18754,1606,0,1609.9,1595.3,84.0,79.8
+gemma4-e4b-8bit,20,19,121.4,236,16180,0,14849,1332,0,1964.2,1941.7,102.2,97.1
+qwen3-4b-8bit,20,20,84.0,163,15317,0,14290,1028,0,1288.5,1272.9,63.6,63.6

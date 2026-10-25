@@ -1,0 +1,2939 @@
+{
+ "repo": "mlx-community/gemma-3-4b-it-8bit",
+ "slug": "gemma3-4b-8bit",
+ "date": "2026-10-24",
+ "gsm8k": {
+  "n": 100,
+  "correct": 89,
+  "ci95": [
+   81.4,
+   93.7
+  ],
+  "rows": [
+   {
+    "i": 663,
+    "gold": "193",
+    "pred": "193",
+    "right": true,
+    "seconds": 3.67,
+    "out_tokens": 264
+   },
+   {
+    "i": 308,
+    "gold": "6",
+    "pred": "6",
+    "right": true,
+    "seconds": 2.43,
+    "out_tokens": 178
+   },
+   {
+    "i": 808,
+    "gold": "12",
+    "pred": "12",
+    "right": true,
+    "seconds": 2.38,
+    "out_tokens": 173
+   },
+   {
+    "i": 98,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 8.5,
+    "out_tokens": 622
+   },
+   {
+    "i": 148,
+    "gold": "30",
+    "pred": "30",
+    "right": true,
+    "seconds": 4.24,
+    "out_tokens": 311
+   },
+   {
+    "i": 1097,
+    "gold": "480",
+    "pred": "480",
+    "right": true,
+    "seconds": 1.31,
+    "out_tokens": 93
+   },
+   {
+    "i": 192,
+    "gold": "91",
+    "pred": "91",
+    "right": true,
+    "seconds": 3.39,
+    "out_tokens": 249
+   },
+   {
+    "i": 748,
+    "gold": "336",
+    "pred": "336",
+    "right": true,
+    "seconds": 2.28,
+    "out_tokens": 166
+   },
+   {
+    "i": 1193,
+    "gold": "9",
+    "pred": "9.00",
+    "right": true,
+    "seconds": 2.92,
+    "out_tokens": 211
+   },
+   {
+    "i": 118,
+    "gold": "4",
+    "pred": "4",
+    "right": true,
+    "seconds": 4.61,
+    "out_tokens": 341
+   },
+   {
+    "i": 1039,
+    "gold": "160",
+    "pred": "160",
+    "right": true,
+    "seconds": 2.95,
+    "out_tokens": 211
+   },
+   {
+    "i": 439,
+    "gold": "17",
+    "pred": "17",
+    "right": true,
+    "seconds": 12.65,
+    "out_tokens": 923
+   },
+   {
+    "i": 76,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 2.83,
+    "out_tokens": 207
+   },
+   {
+    "i": 176,
+    "gold": "100",
+    "pred": "100",
+    "right": true,
+    "seconds": 1.5,
+    "out_tokens": 108
+   },
+   {
+    "i": 888,
+    "gold": "10",
+    "pred": "10",
+    "right": true,
+    "seconds": 1.35,
+    "out_tokens": 95
+   },
+   {
+    "i": 856,
+    "gold": "7",
+    "pred": "7",
+    "right": true,
+    "seconds": 2.39,
+    "out_tokens": 172
+   },
+   {
+    "i": 143,
+    "gold": "16",
+    "pred": "16.50",
+    "right": false,
+    "seconds": 2.34,
+    "out_tokens": 166
+   },
+   {
+    "i": 492,
+    "gold": "32",
+    "pred": "32",
+    "right": true,
+    "seconds": 1.43,
+    "out_tokens": 103
+   },
+   {
+    "i": 185,
+    "gold": "30",
+    "pred": "30",
+    "right": true,
+    "seconds": 1.52,
+    "out_tokens": 109
+   },
+   {
+    "i": 1128,
+    "gold": "9",
+    "pred": "9",
+    "right": true,
+    "seconds": 4.11,
+    "out_tokens": 306
+   },
+   {
+    "i": 869,
+    "gold": "500",
+    "pred": "500",
+    "right": true,
+    "seconds": 0.9,
+    "out_tokens": 62
+   },
+   {
+    "i": 121,
+    "gold": "27",
+    "pred": "27",
+    "right": true,
+    "seconds": 2.52,
+    "out_tokens": 185
+   },
+   {
+    "i": 1158,
+    "gold": "7300",
+    "pred": "3100",
+    "right": false,
+    "seconds": 5.12,
+    "out_tokens": 378
+   },
+   {
+    "i": 253,
+    "gold": "18",
+    "pred": "18",
+    "right": true,
+    "seconds": 1.15,
+    "out_tokens": 81
+   },
+   {
+    "i": 457,
+    "gold": "45",
+    "pred": "45",
+    "right": true,
+    "seconds": 1.94,
+    "out_tokens": 139
+   },
+   {
+    "i": 1291,
+    "gold": "27",
+    "pred": "27",
+    "right": true,
+    "seconds": 1.57,
+    "out_tokens": 113
+   },
+   {
+    "i": 1284,
+    "gold": "25",
+    "pred": "25",
+    "right": true,
+    "seconds": 2.11,
+    "out_tokens": 150
+   },
+   {
+    "i": 126,
+    "gold": "82",
+    "pred": "82",
+    "right": true,
+    "seconds": 1.08,
+    "out_tokens": 76
+   },
+   {
+    "i": 1181,
+    "gold": "20",
+    "pred": "20",
+    "right": true,
+    "seconds": 6.36,
+    "out_tokens": 471
+   },
+   {
+    "i": 1199,
+    "gold": "2",
+    "pred": "2",
+    "right": true,
+    "seconds": 2.21,
+    "out_tokens": 153
+   },
+   {
+    "i": 812,
+    "gold": "79",
+    "pred": "97",
+    "right": false,
+    "seconds": 2.91,
+    "out_tokens": 208
+   },
+   {
+    "i": 101,
+    "gold": "6",
+    "pred": "6",
+    "right": true,
+    "seconds": 1.96,
+    "out_tokens": 138
+   },
+   {
+    "i": 452,
+    "gold": "50",
+    "pred": "50",
+    "right": true,
+    "seconds": 3.12,
+    "out_tokens": 227
+   },
+   {
+    "i": 95,
+    "gold": "40",
+    "pred": "40",
+    "right": true,
+    "seconds": 1.87,
+    "out_tokens": 133
+   },
+   {
+    "i": 1140,
+    "gold": "27",
+    "pred": "18",
+    "right": false,
+    "seconds": 13.79,
+    "out_tokens": 1001
+   },
+   {
+    "i": 272,
+    "gold": "5",
+    "pred": "5.00",
+    "right": true,
+    "seconds": 1.5,
+    "out_tokens": 106
+   },
+   {
+    "i": 593,
+    "gold": "3",
+    "pred": "3",
+    "right": true,
+    "seconds": 2.61,
+    "out_tokens": 190
+   },
+   {
+    "i": 858,
+    "gold": "3430",
+    "pred": "3430",
+    "right": true,
+    "seconds": 3.07,
+    "out_tokens": 224
+   },
+   {
+    "i": 295,
+    "gold": "370",
+    "pred": "370",
+    "right": true,
+    "seconds": 3.05,
+    "out_tokens": 222
+   },
+   {
+    "i": 1107,
+    "gold": "360",
+    "pred": "360",
+    "right": true,
+    "seconds": 2.31,
+    "out_tokens": 166
+   },
+   {
+    "i": 241,
+    "gold": "6",
+    "pred": "6",
+    "right": true,
+    "seconds": 2.2,
+    "out_tokens": 160
+   },
+   {
+    "i": 1169,
+    "gold": "2",
+    "pred": "2",
+    "right": true,
+    "seconds": 4.8,
+    "out_tokens": 353
+   },
+   {
+    "i": 631,
+    "gold": "4800",
+    "pred": "4800",
+    "right": true,
+    "seconds": 4.81,
+    "out_tokens": 354
+   },
+   {
+    "i": 1147,
+    "gold": "22",
+    "pred": "22",
+    "right": true,
+    "seconds": 6.85,
+    "out_tokens": 503
+   },
+   {
+    "i": 370,
+    "gold": "320",
+    "pred": "320",
+    "right": true,
+    "seconds": 1.19,
+    "out_tokens": 84
+   },
+   {
+    "i": 211,
+    "gold": "4",
+    "pred": "4",
+    "right": true,
+    "seconds": 5.17,
+    "out_tokens": 383
+   },
+   {
+    "i": 1191,
+    "gold": "100",
+    "pred": "100",
+    "right": true,
+    "seconds": 2.05,
+    "out_tokens": 150
+   },
+   {
+    "i": 1308,
+    "gold": "30",
+    "pred": "30",
+    "right": true,
+    "seconds": 1.28,
+    "out_tokens": 91
+   },
+   {
+    "i": 384,
+    "gold": "32",
+    "pred": "32",
+    "right": true,
+    "seconds": 3.47,
+    "out_tokens": 258
+   },
+   {
+    "i": 762,
+    "gold": "85",
+    "pred": "85",
+    "right": true,
+    "seconds": 2.06,
+    "out_tokens": 151
+   },
+   {
+    "i": 199,
+    "gold": "7500",
+    "pred": "7500",
+    "right": true,
+    "seconds": 4.18,
+    "out_tokens": 308
+   },
+   {
+    "i": 1121,
+    "gold": "35",
+    "pred": "35",
+    "right": true,
+    "seconds": 2.45,
+    "out_tokens": 180
+   },
+   {
+    "i": 128,
+    "gold": "880",
+    "pred": "880",
+    "right": true,
+    "seconds": 3.27,
+    "out_tokens": 239
+   },
+   {
+    "i": 1155,
+    "gold": "13",
+    "pred": "13",
+    "right": true,
+    "seconds": 1.63,
+    "out_tokens": 117
+   },
+   {
+    "i": 122,
+    "gold": "48",
+    "pred": "48",
+    "right": true,
+    "seconds": 2.88,
+    "out_tokens": 212
+   },
+   {
+    "i": 1267,
+    "gold": "40",
+    "pred": "40",
+    "right": true,
+    "seconds": 2.02,
+    "out_tokens": 148
+   },
+   {
+    "i": 421,
+    "gold": "12",
+    "pred": "12",
+    "right": true,
+    "seconds": 1.62,
+    "out_tokens": 117
+   },
+   {
+    "i": 1016,
+    "gold": "138",
+    "pred": "139",
+    "right": false,
+    "seconds": 2.8,
+    "out_tokens": 205
+   },
+   {
+    "i": 1088,
+    "gold": "30",
+    "pred": "28.333",
+    "right": false,
+    "seconds": 4.09,
+    "out_tokens": 301
+   },
+   {
+    "i": 875,
+    "gold": "60",
+    "pred": "60",
+    "right": true,
+    "seconds": 1.89,
+    "out_tokens": 138
+   },
+   {
+    "i": 643,
+    "gold": "840",
+    "pred": "840",
+    "right": true,
+    "seconds": 2.03,
+    "out_tokens": 148
+   },
+   {
+    "i": 953,
+    "gold": "452",
+    "pred": "452",
+    "right": true,
+    "seconds": 3.25,
+    "out_tokens": 236
+   },
+   {
+    "i": 928,
+    "gold": "60",
+    "pred": "60",
+    "right": true,
+    "seconds": 2.98,
+    "out_tokens": 218
+   },
+   {
+    "i": 740,
+    "gold": "25",
+    "pred": "25",
+    "right": true,
+    "seconds": 4.34,
+    "out_tokens": 321
+   },
+   {
+    "i": 613,
+    "gold": "93000",
+    "pred": "93000",
+    "right": true,
+    "seconds": 1.94,
+    "out_tokens": 142
+   },
+   {
+    "i": 508,
+    "gold": "120",
+    "pred": "120",
+    "right": true,
+    "seconds": 4.03,
+    "out_tokens": 298
+   },
+   {
+    "i": 368,
+    "gold": "18",
+    "pred": "10",
+    "right": false,
+    "seconds": 3.78,
+    "out_tokens": 280
+   },
+   {
+    "i": 499,
+    "gold": "10",
+    "pred": "10",
+    "right": true,
+    "seconds": 4.05,
+    "out_tokens": 295
+   },
+   {
+    "i": 167,
+    "gold": "16",
+    "pred": "16",
+    "right": true,
+    "seconds": 4.6,
+    "out_tokens": 341
+   },
+   {
+    "i": 1176,
+    "gold": "2",
+    "pred": "2",
+    "right": true,
+    "seconds": 3.52,
+    "out_tokens": 252
+   },
+   {
+    "i": 614,
+    "gold": "312",
+    "pred": "312.00",
+    "right": true,
+    "seconds": 2.18,
+    "out_tokens": 158
+   },
+   {
+    "i": 1075,
+    "gold": "16",
+    "pred": "92",
+    "right": false,
+    "seconds": 7.68,
+    "out_tokens": 567
+   },
+   {
+    "i": 1013,
+    "gold": "2",
+    "pred": "2",
+    "right": true,
+    "seconds": 2.87,
+    "out_tokens": 210
+   },
+   {
+    "i": 703,
+    "gold": "50",
+    "pred": "50",
+    "right": true,
+    "seconds": 5.14,
+    "out_tokens": 380
+   },
+   {
+    "i": 919,
+    "gold": "90",
+    "pred": "90",
+    "right": true,
+    "seconds": 1.9,
+    "out_tokens": 136
+   },
+   {
+    "i": 589,
+    "gold": "15",
+    "pred": "2.5",
+    "right": false,
+    "seconds": 2.41,
+    "out_tokens": 175
+   },
+   {
+    "i": 1247,
+    "gold": "7",
+    "pred": "8",
+    "right": false,
+    "seconds": 2.19,
+    "out_tokens": 158
+   },
+   {
+    "i": 149,
+    "gold": "16",
+    "pred": "16",
+    "right": true,
+    "seconds": 2.62,
+    "out_tokens": 192
+   },
+   {
+    "i": 1048,
+    "gold": "7400",
+    "pred": "9863.78",
+    "right": false,
+    "seconds": 5.52,
+    "out_tokens": 408
+   },
+   {
+    "i": 337,
+    "gold": "1",
+    "pred": "1",
+    "right": true,
+    "seconds": 1.92,
+    "out_tokens": 139
+   },
+   {
+    "i": 700,
+    "gold": "135",
+    "pred": "135",
+    "right": true,
+    "seconds": 2.05,
+    "out_tokens": 147
+   },
+   {
+    "i": 311,
+    "gold": "91",
+    "pred": "91",
+    "right": true,
+    "seconds": 2.24,
+    "out_tokens": 163
+   },
+   {
+    "i": 1001,
+    "gold": "2",
+    "pred": "2",
+    "right": true,
+    "seconds": 3.37,
+    "out_tokens": 244
+   },
+   {
+    "i": 863,
+    "gold": "110",
+    "pred": "110",
+    "right": true,
+    "seconds": 2.87,
+    "out_tokens": 211
+   },
+   {
+    "i": 80,
+    "gold": "10",
+    "pred": "10",
+    "right": true,
+    "seconds": 2.28,
+    "out_tokens": 166
+   },
+   {
+    "i": 158,
+    "gold": "34",
+    "pred": "34",
+    "right": true,
+    "seconds": 1.26,
+    "out_tokens": 89
+   },
+   {
+    "i": 1142,
+    "gold": "9",
+    "pred": "9",
+    "right": true,
+    "seconds": 2.06,
+    "out_tokens": 148
+   },
+   {
+    "i": 1173,
+    "gold": "10",
+    "pred": "10",
+    "right": true,
+    "seconds": 3.16,
+    "out_tokens": 232
+   },
+   {
+    "i": 642,
+    "gold": "10800",
+    "pred": "10800",
+    "right": true,
+    "seconds": 3.12,
+    "out_tokens": 228
+   },
+   {
+    "i": 696,
+    "gold": "145",
+    "pred": "145",
+    "right": true,
+    "seconds": 3.91,
+    "out_tokens": 284
+   },
+   {
+    "i": 717,
+    "gold": "5",
+    "pred": "5.00",
+    "right": true,
+    "seconds": 3.05,
+    "out_tokens": 224
+   },
+   {
+    "i": 1217,
+    "gold": "75",
+    "pred": "75",
+    "right": true,
+    "seconds": 3.25,
+    "out_tokens": 237
+   },
+   {
+    "i": 1017,
+    "gold": "45",
+    "pred": "45",
+    "right": true,
+    "seconds": 2.24,
+    "out_tokens": 163
+   },
+   {
+    "i": 1187,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 3.94,
+    "out_tokens": 291
+   },
+   {
+    "i": 934,
+    "gold": "410",
+    "pred": "410",
+    "right": true,
+    "seconds": 2.51,
+    "out_tokens": 182
+   },
+   {
+    "i": 140,
+    "gold": "20",
+    "pred": "20",
+    "right": true,
+    "seconds": 1.44,
+    "out_tokens": 103
+   },
+   {
+    "i": 191,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 1.93,
+    "out_tokens": 140
+   },
+   {
+    "i": 552,
+    "gold": "450",
+    "pred": "450",
+    "right": true,
+    "seconds": 2.87,
+    "out_tokens": 209
+   },
+   {
+    "i": 970,
+    "gold": "33",
+    "pred": "33",
+    "right": true,
+    "seconds": 1.56,
+    "out_tokens": 112
+   },
+   {
+    "i": 133,
+    "gold": "13",
+    "pred": "13",
+    "right": true,
+    "seconds": 1.9,
+    "out_tokens": 137
+   }
+  ]
+ },
+ "mmlu": {
+  "n": 200,
+  "correct": 118,
+  "ci95": [
+   52.1,
+   65.6
+  ],
+  "unparsed": 0,
+  "rows": [
+   {
+    "i": 994,
+    "subject": "college_chemistry",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 11979,
+    "subject": "professional_law",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 11493,
+    "subject": "professional_law",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 5072,
+    "subject": "high_school_psychology",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 10602,
+    "subject": "professional_accounting",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 9469,
+    "subject": "nutrition",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 11161,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 13466,
+    "subject": "sociology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 7301,
+    "subject": "medical_genetics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 4662,
+    "subject": "high_school_microeconomics",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 11741,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 6320,
+    "subject": "human_sexuality",
+    "gold": "A",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 10955,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 5685,
+    "subject": "high_school_us_history",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 369,
+    "subject": "astronomy",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 7564,
+    "subject": "miscellaneous",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 5823,
+    "subject": "high_school_us_history",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 2753,
+    "subject": "high_school_biology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 10009,
+    "subject": "philosophy",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 1918,
+    "subject": "econometrics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 8088,
+    "subject": "miscellaneous",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 965,
+    "subject": "college_chemistry",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 3575,
+    "subject": "high_school_geography",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 12586,
+    "subject": "professional_psychology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 4709,
+    "subject": "high_school_microeconomics",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 2119,
+    "subject": "elementary_mathematics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 12097,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 4056,
+    "subject": "high_school_macroeconomics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 6519,
+    "subject": "international_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 6405,
+    "subject": "human_sexuality",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 8134,
+    "subject": "miscellaneous",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 1320,
+    "subject": "college_medicine",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 2725,
+    "subject": "high_school_biology",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 7359,
+    "subject": "medical_genetics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 6580,
+    "subject": "jurisprudence",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 9002,
+    "subject": "moral_scenarios",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 4552,
+    "subject": "high_school_microeconomics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 2243,
+    "subject": "elementary_mathematics",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 13423,
+    "subject": "sociology",
+    "gold": "A",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 7053,
+    "subject": "marketing",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 9014,
+    "subject": "moral_scenarios",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 4561,
+    "subject": "high_school_microeconomics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 11573,
+    "subject": "professional_law",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 6804,
+    "subject": "logical_fallacies",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 5878,
+    "subject": "high_school_world_history",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 11185,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 6233,
+    "subject": "human_aging",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 3780,
+    "subject": "high_school_government_and_politics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 2472,
+    "subject": "formal_logic",
+    "gold": "A",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 1359,
+    "subject": "college_medicine",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 2887,
+    "subject": "high_school_biology",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 2478,
+    "subject": "formal_logic",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 3800,
+    "subject": "high_school_government_and_politics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 10789,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 3822,
+    "subject": "high_school_government_and_politics",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 197,
+    "subject": "anatomy",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 7945,
+    "subject": "miscellaneous",
+    "gold": "B",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 13616,
+    "subject": "us_foreign_policy",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 9652,
+    "subject": "nutrition",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 2987,
+    "subject": "high_school_chemistry",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 4304,
+    "subject": "high_school_mathematics",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 4619,
+    "subject": "high_school_microeconomics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 67,
+    "subject": "abstract_algebra",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 2386,
+    "subject": "elementary_mathematics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 6864,
+    "subject": "machine_learning",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 8758,
+    "subject": "moral_scenarios",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 6049,
+    "subject": "high_school_world_history",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 9991,
+    "subject": "philosophy",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 9278,
+    "subject": "moral_scenarios",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 5220,
+    "subject": "high_school_psychology",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 2056,
+    "subject": "electrical_engineering",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 11313,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 8445,
+    "subject": "moral_disputes",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 10118,
+    "subject": "prehistory",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 10730,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 11078,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 12120,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 884,
+    "subject": "college_biology",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 7481,
+    "subject": "miscellaneous",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 12779,
+    "subject": "professional_psychology",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 11150,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 13072,
+    "subject": "public_relations",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 9163,
+    "subject": "moral_scenarios",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 6428,
+    "subject": "human_sexuality",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 6521,
+    "subject": "international_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 6536,
+    "subject": "international_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 6457,
+    "subject": "international_law",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 1696,
+    "subject": "conceptual_physics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 7889,
+    "subject": "miscellaneous",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 10392,
+    "subject": "professional_accounting",
+    "gold": "A",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 6560,
+    "subject": "international_law",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 1019,
+    "subject": "college_computer_science",
+    "gold": "A",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 3122,
+    "subject": "high_school_chemistry",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 1103,
+    "subject": "college_mathematics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 3420,
+    "subject": "high_school_european_history",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 7219,
+    "subject": "marketing",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 2659,
+    "subject": "global_facts",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 1801,
+    "subject": "conceptual_physics",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 5571,
+    "subject": "high_school_statistics",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 9842,
+    "subject": "philosophy",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 861,
+    "subject": "college_biology",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 1677,
+    "subject": "conceptual_physics",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 3,
+    "subject": "abstract_algebra",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 9286,
+    "subject": "moral_scenarios",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 8791,
+    "subject": "moral_scenarios",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 1662,
+    "subject": "conceptual_physics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 5957,
+    "subject": "high_school_world_history",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 10055,
+    "subject": "prehistory",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 417,
+    "subject": "business_ethics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 1152,
+    "subject": "college_mathematics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 3407,
+    "subject": "high_school_european_history",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 10060,
+    "subject": "prehistory",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 6164,
+    "subject": "human_aging",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 2433,
+    "subject": "elementary_mathematics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 10394,
+    "subject": "professional_accounting",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 4132,
+    "subject": "high_school_macroeconomics",
+    "gold": "B",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 5691,
+    "subject": "high_school_us_history",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 9867,
+    "subject": "philosophy",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 5966,
+    "subject": "high_school_world_history",
+    "gold": "A",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 7768,
+    "subject": "miscellaneous",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 2012,
+    "subject": "electrical_engineering",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 1889,
+    "subject": "econometrics",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 13908,
+    "subject": "world_religions",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 7996,
+    "subject": "miscellaneous",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 7634,
+    "subject": "miscellaneous",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 7870,
+    "subject": "miscellaneous",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 7927,
+    "subject": "miscellaneous",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 5109,
+    "subject": "high_school_psychology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 1407,
+    "subject": "college_physics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 2361,
+    "subject": "elementary_mathematics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 1674,
+    "subject": "conceptual_physics",
+    "gold": "B",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 12282,
+    "subject": "professional_medicine",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 5613,
+    "subject": "high_school_statistics",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 12129,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 4337,
+    "subject": "high_school_mathematics",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 7841,
+    "subject": "miscellaneous",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 13579,
+    "subject": "sociology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 11338,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 2645,
+    "subject": "global_facts",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 8459,
+    "subject": "moral_disputes",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 378,
+    "subject": "astronomy",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 3362,
+    "subject": "high_school_european_history",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 8654,
+    "subject": "moral_scenarios",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 5926,
+    "subject": "high_school_world_history",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 2401,
+    "subject": "elementary_mathematics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 11306,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 8899,
+    "subject": "moral_scenarios",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 443,
+    "subject": "business_ethics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 12421,
+    "subject": "professional_medicine",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 8652,
+    "subject": "moral_scenarios",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 4883,
+    "subject": "high_school_physics",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 10533,
+    "subject": "professional_accounting",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 1491,
+    "subject": "computer_security",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 11406,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 13851,
+    "subject": "virology",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 4278,
+    "subject": "high_school_mathematics",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 8493,
+    "subject": "moral_disputes",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 6008,
+    "subject": "high_school_world_history",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 2736,
+    "subject": "high_school_biology",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 5827,
+    "subject": "high_school_us_history",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 12647,
+    "subject": "professional_psychology",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 3650,
+    "subject": "high_school_government_and_politics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 8725,
+    "subject": "moral_scenarios",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 8873,
+    "subject": "moral_scenarios",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 12764,
+    "subject": "professional_psychology",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 8236,
+    "subject": "moral_disputes",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 5401,
+    "subject": "high_school_psychology",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 10427,
+    "subject": "professional_accounting",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 3654,
+    "subject": "high_school_government_and_politics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 10047,
+    "subject": "prehistory",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 13295,
+    "subject": "security_studies",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 12917,
+    "subject": "professional_psychology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 12424,
+    "subject": "professional_medicine",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 13969,
+    "subject": "world_religions",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 3197,
+    "subject": "high_school_computer_science",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 13206,
+    "subject": "security_studies",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 3922,
+    "subject": "high_school_macroeconomics",
+    "gold": "B",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 13407,
+    "subject": "sociology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 6564,
+    "subject": "jurisprudence",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 12122,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 13161,
+    "subject": "security_studies",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 3714,
+    "subject": "high_school_government_and_politics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 3275,
+    "subject": "high_school_computer_science",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 8480,
+    "subject": "moral_disputes",
+    "gold": "B",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 8073,
+    "subject": "miscellaneous",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 5825,
+    "subject": "high_school_us_history",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 11976,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 474,
+    "subject": "business_ethics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 457,
+    "subject": "business_ethics",
+    "gold": "B",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 12945,
+    "subject": "professional_psychology",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 4577,
+    "subject": "high_school_microeconomics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 7737,
+    "subject": "miscellaneous",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 4246,
+    "subject": "high_school_mathematics",
+    "gold": "A",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 3172,
+    "subject": "high_school_chemistry",
+    "gold": "A",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 11346,
+    "subject": "professional_law",
+    "gold": "B",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 9914,
+    "subject": "philosophy",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A."
+   },
+   {
+    "i": 5640,
+    "subject": "high_school_statistics",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 7327,
+    "subject": "medical_genetics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 13247,
+    "subject": "security_studies",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 11847,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   }
+  ]
+ },
+ "dated_abstain": {
+  "rows": [
+   {
+    "id": "a1",
+    "date": "2022-12-18",
+    "group": "anchor",
+    "q": "Which country won the 2022 FIFA World Cup?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2022 FIFA World Cup.",
+    "status": "correct"
+   },
+   {
+    "id": "a2",
+    "date": "2023-10-28",
+    "group": "anchor",
+    "q": "Which country won the 2023 Rugby World Cup final?",
+    "gold": "south africa",
+    "answer": "South Africa won the 2023 Rugby World Cup final.",
+    "status": "correct"
+   },
+   {
+    "id": "a3",
+    "date": "2023-03-14",
+    "group": "anchor",
+    "q": "Which company released GPT-4 in March 2023?",
+    "gold": "openai",
+    "answer": "OpenAI released GPT-4 in March 2023.",
+    "status": "correct"
+   },
+   {
+    "id": "b1",
+    "date": "2024-02-11",
+    "group": "before Sep 2024",
+    "q": "Which team won Super Bowl LVIII in February 2024?",
+    "gold": "chiefs|kansas city",
+    "answer": "The Kansas City Chiefs won Super Bowl LVIII in February 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b2",
+    "date": "2024-03-10",
+    "group": "before Sep 2024",
+    "q": "Which film won the Academy Award for Best Picture at the ceremony held in March 2024?",
+    "gold": "oppenheimer",
+    "answer": "“Oppenheimer” won the Academy Award for Best Picture at the ceremony held in March 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b3",
+    "date": "2024-04-08",
+    "group": "before Sep 2024",
+    "q": "Which university won the 2024 NCAA men's basketball national championship?",
+    "gold": "uconn|connecticut",
+    "answer": "The University of Connecticut won the 2024 NCAA men's basketball national championship.",
+    "status": "correct"
+   },
+   {
+    "id": "b4",
+    "date": "2024-05-11",
+    "group": "before Sep 2024",
+    "q": "Which country won the Eurovision Song Contest in May 2024?",
+    "gold": "switzerland",
+    "answer": "Sweden won the Eurovision Song Contest in May 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b5",
+    "date": "2024-06-10",
+    "group": "before Sep 2024",
+    "q": "What name did Apple give to macOS 15 when it announced it at WWDC in June 2024?",
+    "gold": "sequoia",
+    "answer": "Apple named macOS 15 “Sonoma”.",
+    "status": "wrong"
+   },
+   {
+    "id": "b6",
+    "date": "2024-06-17",
+    "group": "before Sep 2024",
+    "q": "Which team won the 2024 NBA Finals?",
+    "gold": "celtics|boston",
+    "answer": "The Boston Celtics won the 2024 NBA Finals.",
+    "status": "correct"
+   },
+   {
+    "id": "b7",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the men's UEFA Euro 2024 football tournament?",
+    "gold": "spain",
+    "answer": "Germany won the men's UEFA Euro 2024 football tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "b8",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the 2024 Copa América?",
+    "gold": "argentina",
+    "answer": "Colombia won the 2024 Copa América.",
+    "status": "wrong"
+   },
+   {
+    "id": "b9",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Who won the men's singles title at Wimbledon in 2024?",
+    "gold": "alcaraz",
+    "answer": "Carlos Alcaraz won the men's singles title at Wimbledon in 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b10",
+    "date": "2024-07-21",
+    "group": "before Sep 2024",
+    "q": "Which US president announced in July 2024 that he would not seek re-election?",
+    "gold": "biden",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b11",
+    "date": "2024-08-04",
+    "group": "before Sep 2024",
+    "q": "Who won the men's 100 metres at the 2024 Paris Olympics?",
+    "gold": "lyles",
+    "answer": "Joshua Cheptegei of Uganda won the men's 100 metres at the 2024 Paris Olympics.",
+    "status": "wrong"
+   },
+   {
+    "id": "c1",
+    "date": "2024-09-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2024 US Open tennis tournament?",
+    "gold": "sinner",
+    "answer": "Novak Djokovic won the men's singles title at the 2024 US Open tennis tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "c2",
+    "date": "2024-09-09",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which chip powers the iPhone 16?",
+    "gold": "a18",
+    "answer": "I do not know, as the iPhone 16 has not been officially released yet.",
+    "status": "abstain"
+   },
+   {
+    "id": "c3",
+    "date": "2024-10-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who shared the 2024 Nobel Prize in Physics with John Hopfield?",
+    "gold": "hinton",
+    "answer": "Manjit Kumar shared the 2024 Nobel Prize in Physics with John Hopfield.",
+    "status": "wrong"
+   },
+   {
+    "id": "c4",
+    "date": "2024-10-30",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which team won the 2024 World Series in baseball?",
+    "gold": "dodgers",
+    "answer": "The Texas Rangers won the 2024 World Series.",
+    "status": "wrong"
+   },
+   {
+    "id": "c5",
+    "date": "2024-11-05",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 United States presidential election?",
+    "gold": "trump",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "c6",
+    "date": "2024-11-23",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 Formula 1 drivers' championship?",
+    "gold": "verstappen",
+    "answer": "Max Verstappen won the 2024 Formula 1 drivers' championship.",
+    "status": "correct"
+   },
+   {
+    "id": "d1",
+    "date": "2025-01-26",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2025 Australian Open?",
+    "gold": "sinner",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d2",
+    "date": "2025-02-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won Super Bowl LIX in February 2025?",
+    "gold": "eagles|philadelphia",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d3",
+    "date": "2025-03-02",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which film won the Academy Award for Best Picture at the March 2025 ceremony?",
+    "gold": "anora",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d4",
+    "date": "2025-04-13",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the 2025 Masters golf tournament?",
+    "gold": "mcilroy",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d5",
+    "date": "2025-05-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who was elected pope in May 2025?",
+    "gold": "leo|prevost",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d6",
+    "date": "2025-06-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the men's singles title at the 2025 French Open?",
+    "gold": "alcaraz",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d7",
+    "date": "2025-06-22",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won the 2025 NBA Finals?",
+    "gold": "thunder|oklahoma",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d8",
+    "date": "2025-06-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "What name did Apple give to its new software design language at WWDC in June 2025?",
+    "gold": "liquid glass",
+    "answer": "I do not know.",
+    "status": "abstain"
+   }
+  ]
+ },
+ "dated_guess": {
+  "rows": [
+   {
+    "id": "a1",
+    "date": "2022-12-18",
+    "group": "anchor",
+    "q": "Which country won the 2022 FIFA World Cup?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2022 FIFA World Cup.",
+    "status": "correct"
+   },
+   {
+    "id": "a2",
+    "date": "2023-10-28",
+    "group": "anchor",
+    "q": "Which country won the 2023 Rugby World Cup final?",
+    "gold": "south africa",
+    "answer": "South Africa won the 2023 Rugby World Cup final.",
+    "status": "correct"
+   },
+   {
+    "id": "a3",
+    "date": "2023-03-14",
+    "group": "anchor",
+    "q": "Which company released GPT-4 in March 2023?",
+    "gold": "openai",
+    "answer": "OpenAI released GPT-4 in March 2023.",
+    "status": "correct"
+   },
+   {
+    "id": "b1",
+    "date": "2024-02-11",
+    "group": "before Sep 2024",
+    "q": "Which team won Super Bowl LVIII in February 2024?",
+    "gold": "chiefs|kansas city",
+    "answer": "The Kansas City Chiefs won Super Bowl LVIII in February 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b2",
+    "date": "2024-03-10",
+    "group": "before Sep 2024",
+    "q": "Which film won the Academy Award for Best Picture at the ceremony held in March 2024?",
+    "gold": "oppenheimer",
+    "answer": "“Oppenheimer” won the Academy Award for Best Picture at the ceremony held in March 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b3",
+    "date": "2024-04-08",
+    "group": "before Sep 2024",
+    "q": "Which university won the 2024 NCAA men's basketball national championship?",
+    "gold": "uconn|connecticut",
+    "answer": "The University of Connecticut won the 2024 NCAA men’s basketball national championship.",
+    "status": "correct"
+   },
+   {
+    "id": "b4",
+    "date": "2024-05-11",
+    "group": "before Sep 2024",
+    "q": "Which country won the Eurovision Song Contest in May 2024?",
+    "gold": "switzerland",
+    "answer": "Sweden won the Eurovision Song Contest in May 2024 with the song \"Tattoo.\"",
+    "status": "wrong"
+   },
+   {
+    "id": "b5",
+    "date": "2024-06-10",
+    "group": "before Sep 2024",
+    "q": "What name did Apple give to macOS 15 when it announced it at WWDC in June 2024?",
+    "gold": "sequoia",
+    "answer": "Apple announced macOS 15 as “Sonoma.”",
+    "status": "wrong"
+   },
+   {
+    "id": "b6",
+    "date": "2024-06-17",
+    "group": "before Sep 2024",
+    "q": "Which team won the 2024 NBA Finals?",
+    "gold": "celtics|boston",
+    "answer": "The Boston Celtics won the 2024 NBA Finals.",
+    "status": "correct"
+   },
+   {
+    "id": "b7",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the men's UEFA Euro 2024 football tournament?",
+    "gold": "spain",
+    "answer": "Germany won the men’s UEFA Euro 2024 football tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "b8",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the 2024 Copa América?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2024 Copa América.",
+    "status": "correct"
+   },
+   {
+    "id": "b9",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Who won the men's singles title at Wimbledon in 2024?",
+    "gold": "alcaraz",
+    "answer": "Carlos Alcaraz won the men's singles title at Wimbledon in 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b10",
+    "date": "2024-07-21",
+    "group": "before Sep 2024",
+    "q": "Which US president announced in July 2024 that he would not seek re-election?",
+    "gold": "biden",
+    "answer": "President James Ellis announced in July 2024 that he would not seek re-election.",
+    "status": "wrong"
+   },
+   {
+    "id": "b11",
+    "date": "2024-08-04",
+    "group": "before Sep 2024",
+    "q": "Who won the men's 100 metres at the 2024 Paris Olympics?",
+    "gold": "lyles",
+    "answer": "Joshua Cheptegei of Uganda won the men's 100 metres at the 2024 Paris Olympics.",
+    "status": "wrong"
+   },
+   {
+    "id": "c1",
+    "date": "2024-09-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2024 US Open tennis tournament?",
+    "gold": "sinner",
+    "answer": "Novak Djokovic won the men's singles title at the 2024 US Open.",
+    "status": "wrong"
+   },
+   {
+    "id": "c2",
+    "date": "2024-09-09",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which chip powers the iPhone 16?",
+    "gold": "a18",
+    "answer": "The iPhone 16 is powered by Apple's A18 Bionic chip.",
+    "status": "correct"
+   },
+   {
+    "id": "c3",
+    "date": "2024-10-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who shared the 2024 Nobel Prize in Physics with John Hopfield?",
+    "gold": "hinton",
+    "answer": "Leo Kouwenhoven shared the 2024 Nobel Prize in Physics with John Hopfield.",
+    "status": "wrong"
+   },
+   {
+    "id": "c4",
+    "date": "2024-10-30",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which team won the 2024 World Series in baseball?",
+    "gold": "dodgers",
+    "answer": "The Texas Rangers won the 2024 World Series.",
+    "status": "wrong"
+   },
+   {
+    "id": "c5",
+    "date": "2024-11-05",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 United States presidential election?",
+    "gold": "trump",
+    "answer": "As of today, November 3, 2024, the 2024 United States presidential election is still in progress and the winner has not yet been determined.",
+    "status": "wrong"
+   },
+   {
+    "id": "c6",
+    "date": "2024-11-23",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 Formula 1 drivers' championship?",
+    "gold": "verstappen",
+    "answer": "Max Verstappen won the 2024 Formula 1 drivers' championship.",
+    "status": "correct"
+   },
+   {
+    "id": "d1",
+    "date": "2025-01-26",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2025 Australian Open?",
+    "gold": "sinner",
+    "answer": "Novak Djokovic won the men's singles title at the 2025 Australian Open.",
+    "status": "wrong"
+   },
+   {
+    "id": "d2",
+    "date": "2025-02-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won Super Bowl LIX in February 2025?",
+    "gold": "eagles|philadelphia",
+    "answer": "The Kansas City Chiefs won Super Bowl LIX in February 2025.",
+    "status": "wrong"
+   },
+   {
+    "id": "d3",
+    "date": "2025-03-02",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which film won the Academy Award for Best Picture at the March 2025 ceremony?",
+    "gold": "anora",
+    "answer": "I do not have access to future events, so I cannot tell you which film will win the Academy Award for Best Picture at the March 2025 ceremony.",
+    "status": "abstain"
+   },
+   {
+    "id": "d4",
+    "date": "2025-04-13",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the 2025 Masters golf tournament?",
+    "gold": "mcilroy",
+    "answer": "As of today, November 2, 2023, the 2025 Masters tournament has not yet been held, so the winner is currently unknown.",
+    "status": "wrong"
+   },
+   {
+    "id": "d5",
+    "date": "2025-05-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who was elected pope in May 2025?",
+    "gold": "leo|prevost",
+    "answer": "As of today, November 2, 2023, no pope has been elected for May 2025 yet.",
+    "status": "wrong"
+   },
+   {
+    "id": "d6",
+    "date": "2025-06-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the men's singles title at the 2025 French Open?",
+    "gold": "alcaraz",
+    "answer": "Novak Djokovic won the men's singles title at the 2025 French Open.",
+    "status": "wrong"
+   },
+   {
+    "id": "d7",
+    "date": "2025-06-22",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won the 2025 NBA Finals?",
+    "gold": "thunder|oklahoma",
+    "answer": "The Boston Celtics won the 2025 NBA Finals.",
+    "status": "wrong"
+   },
+   {
+    "id": "d8",
+    "date": "2025-06-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "What name did Apple give to its new software design language at WWDC in June 2025?",
+    "gold": "liquid glass",
+    "answer": "Apple unveiled “SwiftUI Plus” as its new software design language at WWDC in June 2025.",
+    "status": "wrong"
+   }
+  ]
+ },
+ "total_seconds": 367
+}

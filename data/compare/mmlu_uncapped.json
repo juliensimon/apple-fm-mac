@@ -1,0 +1,66 @@
+{
+ "mlx-community/Qwen3-4B-Instruct-2507-8bit:2243": {
+  "subject": "elementary_mathematics",
+  "gold": "B",
+  "pred": "B",
+  "right": true,
+  "tokens": 190,
+  "tail": "simplify $\\frac{20}{14}$:\n\nDivide both numerator and denominator by 2:\n\n$$\n\\frac{20 \\div 2}{14 \\div 2} = \\frac{10}{7}\n$$\n\nNow convert $\\frac{10}{7}$ to a mixed number:\n\n$$\n10 \\div 7 = 1 \\text{ remainder } 3 \\Rightarrow 1 \\frac{3}{7}\n$$\n\nSo the correct answer is:\n\n**B. 1 and 3 over 7**\n\nAnswer: **B**"
+ },
+ "mlx-community/Qwen3-4B-Instruct-2507-8bit:2478": {
+  "subject": "formal_logic",
+  "gold": "C",
+  "pred": "C",
+  "right": true,
+  "tokens": 1233,
+  "tail": " = T $, $ R = T $ → $ T \\lor T = T $ → $ \\neg T = F $ → premise 3 is false → ❌\n\nInvalid model → not a valid counterexample.\n\n---\n\n✅ Only **C** gives a model where:\n- All premises are true\n- Conclusion is false\n\nThus, the argument is invalid, and C provides a valid counterexample.\n\n---\n\n**Answer: C**"
+ },
+ "mlx-community/Qwen3-4B-Instruct-2507-8bit:1152": {
+  "subject": "college_mathematics",
+  "gold": "B",
+  "pred": "B",
+  "right": true,
+  "tokens": 652,
+  "tail": "$ → $ c = -a $\n\nSo the general solution is:\n\n- $ b = 0 $\n- $ c = -a $\n- $ d = 0 $\n\nSo $ p(x) = a x^3 - a x = a(x^3 - x) $\n\nThus, the space $ W $ is spanned by $ x^3 - x $, so:\n\n$$\n\\dim W = 1\n$$\n\n---\n\n**Step 3: Compute $ \\dim V + \\dim W $**\n\n$$\n\\dim V + \\dim W = 4 + 1 = 5\n$$\n\n---\n\n**Answer: B. 5**\n\nB"
+ },
+ "mlx-community/Qwen3-4B-Instruct-2507-8bit:4337": {
+  "subject": "high_school_mathematics",
+  "gold": "D",
+  "pred": "D",
+  "right": true,
+  "tokens": 234,
+  "tail": "7\\ldots\n$$\n\nNow subtract the original equation:\n\n$$\n10x - x = 7.777\\ldots - 0.777\\ldots\n$$\n$$\n9x = 7\n$$\n$$\nx = \\frac{7}{9}\n$$\n\nSo, $ 0.\\overline{7} = \\frac{7}{9} $\n\n---\n\n### Step 2: Find the reciprocal\n\nThe reciprocal of $ \\frac{7}{9} $ is:\n\n$$\n\\frac{9}{7}\n$$\n\n---\n\n### Final Answer:\n\n$$\n\\boxed{D}\n$$"
+ },
+ "mlx-community/Qwen3-4B-Instruct-2507-8bit:4278": {
+  "subject": "high_school_mathematics",
+  "gold": "D",
+  "pred": "D",
+  "right": true,
+  "tokens": 331,
+  "tail": "ultiply 10 by **a single fraction** and get the **same result**.\n\nSo we want a single fraction $ \\frac{a}{b} $ such that:\n\n$$\n10 \\times \\frac{a}{b} = \\frac{10}{243}\n$$\n\nDivide both sides by 10:\n\n$$\n\\frac{a}{b} = \\frac{1}{243}\n$$\n\nSo the single fraction is $ \\frac{1}{243} $.\n\nAnswer: **D**\n\n\\boxed{D}"
+ },
+ "mlx-community/Qwen3-4B-Instruct-2507-8bit:4246": {
+  "subject": "high_school_mathematics",
+  "gold": "A",
+  "pred": "A",
+  "right": true,
+  "tokens": 406,
+  "tail": ") = (a x^6 - b x^4 - 1) + x\n$$\n\nTherefore, $ f(-x) = f(x) - 2x $\n\nAlternatively, we can write:\n\n$$\nf(-x) = f(x) - 2x\n$$\n\nThis is a key identity.\n\n---\n\n### Step 2: Use $ f(2) = 5 $ to find $ f(-2) $\n\nUsing the identity:\n\n$$\nf(-2) = f(2) - 2(2) = 5 - 4 = 1\n$$\n\n---\n\n### ✅ Final Answer:\n\n$$\n\\boxed{A}\n$$"
+ },
+ "mlx-community/gemma-4-e4b-it-8bit:457": {
+  "subject": "business_ethics",
+  "gold": "B",
+  "pred": "",
+  "right": false,
+  "tokens": 39,
+  "tail": "Please provide the question and the list of statements (1, 2, 3, 4) that the multiple-choice options refer to. I need the context to answer the question."
+ },
+ "mlx-community/gemma-4-e4b-it-8bit:4246": {
+  "subject": "high_school_mathematics",
+  "gold": "A",
+  "pred": "A",
+  "right": true,
+  "tokens": 793,
+  "tail": "= h(2) + 2$$\n$$f(-2) = h(-2) + (-2) = h(-2) - 2$$\nSince $h(2) = h(-2)$, we have:\n$$f(2) = h(-2) + 2$$\nWe are given $f(2) = 5$, so:\n$$5 = h(-2) + 2$$\n$$h(-2) = 3$$\nNow substitute this into the expression for $f(-2)$:\n$$f(-2) = h(-2) - 2$$\n$$f(-2) = 3 - 2$$\n$$f(-2) = 1$$\n\nThe value of $f(-2)$ is 1.\n\nA"
+ }
+}

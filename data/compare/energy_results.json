@@ -1,0 +1,70 @@
+{
+ "idle_baseline_mw": 185.2,
+ "baseline_samples": 57,
+ "models": {
+  "apple": {
+   "model": "apple",
+   "problems": 20,
+   "solved": 13,
+   "window_s": 91.8,
+   "samples": 177,
+   "mean_combined_mw": 5294,
+   "mean_ane_mw": 4046,
+   "mean_gpu_mw": 13,
+   "mean_cpu_mw": 1235,
+   "request_errors": 1,
+   "energy_j": 481.4,
+   "energy_above_idle_j": 464.6,
+   "j_per_solved_above_idle": 35.7,
+   "j_per_problem_above_idle": 23.2
+  },
+  "gemma3-4b-8bit": {
+   "model": "gemma3-4b-8bit",
+   "problems": 20,
+   "solved": 19,
+   "window_s": 78.8,
+   "samples": 154,
+   "mean_combined_mw": 20361,
+   "mean_ane_mw": 0,
+   "mean_gpu_mw": 18754,
+   "mean_cpu_mw": 1606,
+   "request_errors": 0,
+   "energy_j": 1609.9,
+   "energy_above_idle_j": 1595.3,
+   "j_per_solved_above_idle": 84.0,
+   "j_per_problem_above_idle": 79.8
+  },
+  "gemma4-e4b-8bit": {
+   "model": "gemma4-e4b-8bit",
+   "problems": 20,
+   "solved": 19,
+   "window_s": 121.4,
+   "samples": 236,
+   "mean_combined_mw": 16180,
+   "mean_ane_mw": 0,
+   "mean_gpu_mw": 14849,
+   "mean_cpu_mw": 1332,
+   "request_errors": 0,
+   "energy_j": 1964.2,
+   "energy_above_idle_j": 1941.7,
+   "j_per_solved_above_idle": 102.2,
+   "j_per_problem_above_idle": 97.1
+  },
+  "qwen3-4b-8bit": {
+   "model": "qwen3-4b-8bit",
+   "problems": 20,
+   "solved": 20,
+   "window_s": 84.0,
+   "samples": 163,
+   "mean_combined_mw": 15317,
+   "mean_ane_mw": 0,
+   "mean_gpu_mw": 14290,
+   "mean_cpu_mw": 1028,
+   "request_errors": 0,
+   "energy_j": 1288.5,
+   "energy_above_idle_j": 1272.9,
+   "j_per_solved_above_idle": 63.6,
+   "j_per_problem_above_idle": 63.6
+  }
+ }
+}

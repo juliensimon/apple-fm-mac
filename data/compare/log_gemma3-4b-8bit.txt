@@ -1,0 +1,22 @@
+Fetching 13 files:   0%|          | 0/13 [00:00<?, ?it/s]Fetching 13 files: 100%|██████████| 13/13 [00:00<00:00, 2417.25it/s]
+loaded mlx-community/gemma-3-4b-it-8bit 2.7 s
+gsm8k 20/100 correct so far 19
+gsm8k 40/100 correct so far 36
+gsm8k 60/100 correct so far 54
+gsm8k 80/100 correct so far 69
+gsm8k 100/100 correct so far 89
+GSM8K 89 / 100 (81.4, 93.7)
+mmlu 50/200 correct so far 28
+mmlu 100/200 correct so far 55
+mmlu 150/200 correct so far 88
+mmlu 200/200 correct so far 118
+MMLU 118 / 200 (52.1, 65.6) unparsed 0
+dated abstain  anchor                 correct 3/3  wrong 0  abstain 0
+dated abstain  before Sep 2024        correct 5/11  wrong 5  abstain 1
+dated abstain  Sep 2024 to Jan 2025   correct 1/7  wrong 3  abstain 3
+dated abstain  Feb 2025 to Jun 2025   correct 0/7  wrong 0  abstain 7
+dated guess    anchor                 correct 3/3  wrong 0  abstain 0
+dated guess    before Sep 2024        correct 6/11  wrong 5  abstain 0
+dated guess    Sep 2024 to Jan 2025   correct 2/7  wrong 5  abstain 0
+dated guess    Feb 2025 to Jun 2025   correct 0/7  wrong 6  abstain 1
+done gemma3-4b-8bit 367 s

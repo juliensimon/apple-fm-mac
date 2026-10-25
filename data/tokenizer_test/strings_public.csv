@@ -1,0 +1,258 @@
+id,category,characters,text,apple_fm,gemma3,gemma3n_e4b,gemma3n_e2b,gemma4_e4b,gemma4_e2b,gemma4_26b_a4b,gemma2,mistral_nemo,qwen2_5,gpt4o_o200k,deepseek_v3,llama3_1,gpt4_cl100k,gpt2,phi3_5_mini,google_gemini_3_flash_preview,google_gemini_3_1_pro_preview,google_gemini_3_8_flash,google_gemma_4_31b_it
+171,multilingual,85,"Il fait beau aujourd'hui, alors nous allons nous promener dans le parc avec nos amis.",20,20,20,20,20,20,20,20,19,20,19,21,20,20,34,23,20,20,20,20
+172,multilingual,104,Le gouvernement a annoncé de nouvelles mesures pour soutenir les petites entreprises face à l'inflation.,18,18,18,18,18,18,18,18,19,23,19,21,23,23,33,26,18,18,18,18
+173,multilingual,99,"L'intelligence artificielle transforme la manière dont nous travaillons, apprenons et communiquons.",18,18,18,18,18,18,18,19,21,25,21,23,25,25,28,24,18,18,18,18
+174,multilingual,85,"Das Wetter ist heute schön, deshalb gehen wir mit unseren Freunden im Park spazieren.",17,17,17,17,17,17,17,17,20,21,17,21,21,21,31,25,17,17,17,17
+175,multilingual,89,Die Bundesregierung hat neue Maßnahmen zur Unterstützung kleiner Unternehmen beschlossen.,13,13,13,13,13,13,13,12,12,18,11,16,20,20,33,19,13,13,13,13
+176,multilingual,70,"Künstliche Intelligenz verändert die Art, wie wir arbeiten und lernen.",15,15,15,15,15,15,15,15,17,21,16,18,21,21,28,23,15,15,15,15
+177,multilingual,79,"Hoy hace buen tiempo, así que vamos a pasear por el parque con nuestros amigos.",18,18,18,18,18,18,18,18,19,21,18,20,21,21,31,26,18,18,18,18
+178,multilingual,93,El gobierno anunció nuevas medidas para apoyar a las pequeñas empresas frente a la inflación.,16,16,16,16,16,16,16,16,17,21,16,20,21,21,34,25,16,16,16,16
+179,multilingual,82,La inteligencia artificial está cambiando la forma en que trabajamos y aprendemos.,15,15,15,15,15,15,15,15,16,17,16,17,17,17,27,21,15,15,15,15
+180,multilingual,81,"Oggi il tempo è bello, quindi andiamo a passeggiare nel parco con i nostri amici.",21,21,21,21,21,21,21,19,22,27,22,24,27,27,33,26,21,21,21,21
+181,multilingual,71,Il governo ha annunciato nuove misure per sostenere le piccole imprese.,14,14,14,14,14,14,14,14,16,20,17,18,20,20,24,20,14,14,14,14
+182,multilingual,78,L'intelligenza artificiale sta cambiando il modo in cui lavoriamo e impariamo.,19,19,19,19,19,19,19,20,20,22,19,21,22,22,29,25,19,19,19,19
+183,multilingual,74,"Hoje o tempo está bom, então vamos passear no parque com os nossos amigos.",17,17,17,17,17,17,17,17,18,20,17,19,20,20,29,23,17,17,17,17
+184,multilingual,66,O governo anunciou novas medidas para apoiar as pequenas empresas.,12,12,12,12,12,12,12,12,12,16,11,15,16,16,23,19,12,12,12,12
+185,multilingual,79,A inteligência artificial está mudando a maneira como trabalhamos e aprendemos.,16,16,16,16,16,16,16,16,17,18,15,17,18,18,27,22,16,16,16,16
+186,multilingual,77,"Het weer is vandaag mooi, dus we gaan met onze vrienden in het park wandelen.",19,19,19,19,19,19,19,18,23,22,17,23,22,22,31,25,19,19,19,19
+187,multilingual,81,De regering heeft nieuwe maatregelen aangekondigd om kleine bedrijven te steunen.,16,16,16,16,16,16,16,16,20,25,14,21,25,25,33,26,16,16,16,16
+188,multilingual,26,今日は天気がいいので、友達と一緒に公園を散歩します。,14,14,14,14,14,14,14,13,20,15,20,19,18,30,36,33,14,14,14,14
+189,multilingual,28,政府は中小企業を支援するための新しい対策を発表しました。,12,12,12,12,12,12,12,12,19,19,20,14,17,31,47,37,12,12,12,12
+190,multilingual,24,人工知能は私たちの働き方や学び方を変えています。,13,13,13,13,13,13,13,13,21,15,20,17,19,25,37,29,13,13,13,13
+191,multilingual,33,오늘은 날씨가 좋아서 친구들과 함께 공원에서 산책할 거예요.,16,16,16,16,16,16,16,22,18,25,20,23,21,40,76,54,16,16,16,16
+192,multilingual,33,정부는 중소기업을 지원하기 위한 새로운 대책을 발표했습니다.,16,16,16,16,16,16,16,19,15,17,16,19,16,31,73,50,16,16,16,16
+193,multilingual,24,"今天天气很好,所以我们要和朋友们一起去公园散步。",15,15,15,15,15,15,15,14,20,12,18,12,19,28,45,37,15,15,15,15
+194,multilingual,16,政府宣布了支持中小企业的新措施。,9,9,9,9,9,9,9,9,14,8,10,8,12,20,33,25,9,9,9,9
+195,multilingual,19,人工智能正在改变我们工作和学习的方式。,9,9,9,9,9,9,9,9,16,9,11,8,12,18,36,22,9,9,9,9
+196,multilingual,59,الطقس جميل اليوم، لذلك سنذهب للتنزه في الحديقة مع أصدقائنا.,23,23,23,23,23,23,23,22,18,23,20,24,27,44,64,54,23,23,23,23
+197,multilingual,52,أعلنت الحكومة عن إجراءات جديدة لدعم الشركات الصغيرة.,13,13,13,13,13,13,13,14,11,17,11,17,17,37,54,47,13,13,13,13
+198,multilingual,70,"आज मौसम अच्छा है, इसलिए हम अपने दोस्तों के साथ पार्क में टहलने जाएंगे।",18,18,18,18,18,18,18,26,26,65,18,40,36,70,109,81,18,18,18,18
+199,multilingual,68,सरकार ने छोटे व्यवसायों का समर्थन करने के लिए नए उपायों की घोषणा की।,16,16,16,16,16,16,16,26,27,62,18,37,33,68,105,79,16,16,16,16
+200,multilingual,67,"Сегодня хорошая погода, поэтому мы пойдём гулять в парк с друзьями.",18,18,18,18,18,18,18,16,21,25,19,24,23,37,74,28,18,18,18,18
+201,multilingual,62,Правительство объявило о новых мерах поддержки малого бизнеса.,13,13,13,13,13,13,13,13,17,19,12,18,18,29,69,20,13,13,13,13
+202,multilingual,71,"Bugün hava güzel, bu yüzden arkadaşlarımızla parkta yürüyüşe çıkacağız.",19,19,19,19,19,19,19,20,25,21,19,34,18,33,42,41,19,19,19,19
+203,multilingual,66,Hükümet küçük işletmeleri desteklemek için yeni önlemler açıkladı.,18,18,18,18,18,18,18,17,21,23,18,29,19,27,36,36,18,18,18,18
+204,multilingual,78,"Hôm nay thời tiết đẹp, vì vậy chúng tôi sẽ đi dạo trong công viên cùng bạn bè.",22,22,22,22,22,22,22,22,24,23,22,33,23,40,68,54,22,22,22,22
+205,multilingual,70,Chính phủ đã công bố các biện pháp mới để hỗ trợ các doanh nghiệp nhỏ.,18,18,18,18,18,18,18,19,19,19,19,31,18,31,65,46,18,18,18,18
+206,multilingual,55,วันนี้อากาศดี เราจึงจะไปเดินเล่นในสวนสาธารณะกับเพื่อน ๆ,17,17,17,17,17,17,17,21,28,26,22,23,27,53,108,62,17,17,17,17
+207,multilingual,64,"מזג האוויר יפה היום, אז אנחנו הולכים לטייל בפארק עם החברים שלנו.",26,26,26,26,26,26,26,23,31,20,22,29,64,64,79,65,26,26,26,26
+208,multilingual,66,"Vädret är fint idag, så vi ska promenera i parken med våra vänner.",21,21,21,21,21,21,21,19,24,23,20,26,23,23,32,26,21,21,21,21
+209,multilingual,71,"Dziś jest ładna pogoda, więc idziemy na spacer do parku z przyjaciółmi.",22,22,22,22,22,22,22,21,26,25,25,26,26,26,36,28,22,22,22,22
+210,code,64,"b4.append(text(x + 25, sy4(v) - 5, f""{v:,.0f}"", ""bl"", ""middle""))",36,36,36,36,36,36,36,36,32,32,31,31,31,31,35,37,36,36,36,36
+211,code,16,first = now - t0,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+212,code,33,"phase[0] = ""idle2""; time.sleep(2)",15,15,15,15,15,15,15,15,15,14,14,15,14,14,16,16,15,15,15,15
+213,code,81,"return time.perf_counter() - t, {""HTTP"": e.code, ""body"": e.read().decode()[:300]}",31,31,31,31,31,31,31,31,28,28,26,26,26,26,32,32,31,31,31,31
+214,code,124,"return 0 if i <= 0 else cs[-1] if i >= len(ts) else cs[i-1] + (cs[i] - cs[i-1]) * (t - ts[i-1]) / max(ts[i] - ts[i-1], 1e-9)",70,70,70,70,70,70,70,70,64,62,62,64,62,62,68,70,70,70,70,70
+215,code,43,sx = lambda v: l + (v / xmax) * (w - l - r),21,21,21,21,21,21,21,20,22,20,20,22,20,20,22,22,21,21,21,21
+216,code,92,"print(""turn"", i, round(dt, 2), u[""prompt_tokens""], u[""prompt_tokens_details""], repr(a[:40]))",34,34,34,34,34,34,34,34,29,29,28,33,28,28,40,38,34,34,34,34
+217,code,34,<h1>Apple On-Device Model Map</h1>,8,8,8,8,14,14,14,8,13,13,13,13,13,13,14,15,8,8,8,8
+218,code,26,for l in out.splitlines():,8,8,8,8,8,8,8,7,7,7,7,7,7,7,8,8,8,8,8,8
+219,code,66,p = int(pos_at(c[0] - 0.25)); nxt = [h for h in heads if h[1] > p],36,36,36,36,36,36,36,35,33,32,31,32,31,31,34,36,36,36,36,36
+220,code,155,"bars9.append(f'<rect x=""{sx9(t) - 3:.1f}"" y=""{sy9(n):.1f}"" width=""6"" height=""{sy9(0) - sy9(n):.1f}"" class=""{""bar-inferred"" if big else ""bar-measured""}""/>')",72,72,72,72,72,72,72,72,67,66,66,69,66,66,78,79,72,72,72,72
+221,code,37,"if l.startswith(""==== Legend""): break",9,9,9,9,9,9,9,9,9,8,8,10,8,8,12,12,9,9,9,9
+222,code,32,gx = 70 + i * (W4 - 90) / 3 + 14,23,23,23,23,23,23,23,23,24,23,20,21,20,20,17,24,23,23,23,23
+223,code,78,"q = [{""role"": ""user"", ""content"": long + ""\nReply with the single word DONE.""}]",23,23,23,23,23,23,23,24,25,23,23,25,23,23,26,26,23,23,23,23
+224,code,41,<h2>The Neural Engine runs the model</h2>,8,8,8,8,14,14,14,8,12,12,12,12,12,12,14,15,8,8,8,8
+225,code,53,"gp = [r[""gpu""] for r in rows if r[""gpu""] is not None]",20,20,20,20,20,20,20,20,22,20,20,22,20,20,20,23,20,20,20,20
+226,code,112,.ln-ane2 {{ stroke: var(--inferred); stroke-width: 2.4; fill: none; }} .ln-ane2-dot {{ fill: var(--inferred); }},43,43,43,43,43,43,43,43,42,41,41,42,41,41,44,45,43,43,43,43
+227,code,58,"{box(10, 62, 150, 76, ""Your code"", ""fm CLI or Swift API"")}",30,30,30,30,30,30,30,30,31,30,25,26,25,25,23,31,30,30,30,30
+228,code,101,"s = [respond_text(""Give me a one-sentence fact about octopuses."", greedy=False)[1] for _ in range(3)]",32,32,32,32,32,32,32,32,31,30,30,30,30,30,33,35,32,32,32,32
+229,code,30,figure {{ margin: 12px 0 0; }},14,14,14,14,14,14,14,14,14,14,13,13,13,13,10,14,14,14,14,14
+230,code,29,"BASE_IDS = {""0x17a"", ""0x179""}",18,18,18,18,18,18,18,18,18,17,14,15,14,14,16,20,18,18,18,18
+231,code,45,"{arrow(390, 90, 470, 78, ""1 check"", 430, 74)}",33,33,33,33,33,33,33,33,33,33,24,24,24,24,19,33,33,33,33,33
+232,code,48,from coremltools.converters.mil.mil import types,13,13,13,13,13,13,13,12,14,12,12,13,12,12,15,15,13,13,13,13
+233,code,53,"{arrow(302, 138, 302, 250, ""asset lookup"", 345, 198)}",36,36,36,36,36,36,36,36,36,36,24,24,24,24,20,36,36,36,36,36
+234,code,27,elif res >= 250: big += res,11,11,11,11,11,11,11,11,11,11,9,9,9,9,9,11,11,11,11,11
+235,code,76,"dt, out, err = respond_text(prompt + ""\n\nReply with the single word DONE."")",23,23,23,23,23,23,23,23,23,20,20,23,20,20,25,26,23,23,23,23
+236,code,155,"write(""ifp_essay_clusters.csv"", [""seconds_into_phase"", ""reads_in_cluster"", ""text_char_position"", ""next_section_heading"", ""chars_until_that_heading""], rows)",50,50,50,50,50,50,50,49,46,37,37,47,37,37,54,57,50,50,50,50
+237,code,98,"rows.append([round(c[0], 2), len(c), p, nxt[0][0] if nxt else """", (nxt[0][1] - p) if nxt else """"])",47,47,47,47,47,47,47,44,45,42,42,45,42,42,49,48,47,47,47,47
+238,code,33,gx = 70 + gi * (W7 - 90) / 5 + 10,23,23,23,23,23,23,23,23,24,23,20,21,20,20,18,24,23,23,23,23
+239,code,27,"cmd += [""-i"", instructions]",8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+240,code,104,"labs = [(""idle"", ""idle""), (""prefill_5k"", ""prefill, 5,000 tokens""), (""decode_400w"", ""decode, 400 words"")]",45,45,45,45,45,45,45,45,49,44,39,43,38,38,43,50,45,45,45,45
+241,code,69,"io = [r for r in rows(""iosurface_regions.csv"") if r[""pid""] == ""9704""]",28,28,28,28,28,28,28,28,27,26,24,25,24,24,28,30,28,28,28,28
+242,code,94,".t-u {{ color: var(--muted); background: color-mix(in srgb, var(--muted) 16%, transparent); }}",32,32,32,32,32,32,32,32,31,31,30,30,30,30,34,36,32,32,32,32
+243,code,17,"for by in (1, 2):",9,9,9,9,9,9,9,9,9,9,9,9,9,9,8,9,9,9,9,9
+244,code,160,.box {{ fill: var(--surface); stroke: var(--rule); stroke-width: 1.2; }} .box.strong {{ fill: var(--strong-fill); stroke: var(--measured); stroke-width: 1.5; }},54,54,54,54,54,54,54,54,50,51,51,51,51,51,57,61,54,54,54,54
+245,code,33,"<h2>One request, five models</h2>",7,7,7,7,13,13,13,7,12,12,12,12,12,12,13,13,7,7,7,7
+246,code,95,"pf = m([x[""ttft_s""] for x in r[""prefill_2k""]]); lt = m([x[""ttft_s""] for x in r[""long_decode""]])",43,43,43,43,43,43,43,44,41,41,41,42,41,41,47,47,43,43,43,43
+247,code,67,"def arrow(x1, y1, x2, y2, label=None, lx=None, ly=None, cls=""arr""):",31,31,31,31,31,31,31,31,29,27,27,29,27,27,34,34,31,31,31,31
+248,code,92,"k = x[""type""].strip(); a[k][0] += 1; a[k][1] += x[""v""]; a[k][2] += x[""r""]; a[k][3] += x[""d""]",51,51,51,51,51,51,51,51,49,47,47,49,47,47,53,51,51,51,51,51
+249,code,52,"def respond(prompt, greedy=True, instructions=None):",13,13,13,13,13,13,13,13,11,10,10,11,10,10,14,15,13,13,13,13
+250,code,31,"if r[""snapshot""] != t: continue",9,9,9,9,9,9,9,9,9,9,9,10,9,9,10,10,9,9,9,9
+251,code,108,"th, td {{ text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--rule); vertical-align: top; }}",39,39,39,39,39,39,39,39,36,36,35,35,35,35,36,40,39,39,39,39
+252,code,134,"def chart_frame(w, h, l, r, t, b, xmax, ymin, ymax, xticks, yticks, xlabel, ylabel, fmtx=lambda v: f""{v:g}"", fmty=lambda v: f""{v:g}""):",61,61,61,61,61,61,61,60,61,52,52,60,52,52,69,68,61,61,61,61
+253,code,59,"return first, total, chunks, p.stderr.read().decode()[:300]",20,20,20,20,20,20,20,20,19,18,16,17,16,16,22,22,20,20,20,20
+254,code,73,"import bisect, csv, datetime, json, os, re, collections, statistics as st",19,19,19,19,19,19,19,18,19,19,19,19,19,19,21,19,19,19,19,19
+255,code,96,"""prefill_2k_ttft_s"", ""prefill_2k_change_pct"", ""prefill_4p7k_ttft_s"", ""prefill_4p7k_change_pct""])",50,50,50,50,50,50,50,50,46,42,42,46,42,42,53,56,50,50,50,50
+256,code,84,"(""primes"", ""List the first 60 prime numbers separated by commas and nothing else.""),",19,19,19,19,19,19,19,19,22,20,20,20,19,19,20,22,19,19,19,19
+257,code,45,<h2>What is known about the architecture</h2>,8,8,8,8,14,14,14,8,13,13,13,13,13,13,14,14,8,8,8,8
+258,code,17,if first is None:,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+259,code,100,"""""""Build the Apple on-device model map page (HTML with inline SVG) from the plot-ready CSV files.""""""",24,24,24,24,24,24,24,24,25,22,22,24,22,22,25,26,24,24,24,24
+260,code,56,w = csv.writer(f); w.writerow(header); w.writerows(rows),21,21,21,21,21,21,21,21,16,15,15,21,15,15,23,22,21,21,21,21
+261,code,39,.fig.narrow svg {{ min-width: 480px; }},17,17,17,17,17,17,17,17,16,15,13,15,13,13,16,18,17,17,17,17
+262,code,44,"m = re.match(r""([\d.]+)([KMG]?)"", s.strip())",21,21,21,21,21,21,21,23,21,20,20,21,20,20,24,24,21,21,21,21
+263,code,66,"print(""snap"", {k: [round(x) for x in v] for k, v in snap.items()})",27,27,27,27,27,27,27,27,26,25,25,26,25,25,27,28,27,27,27,27
+264,code,135,"write(""decode_bucket_fit.csv"", [""model"", ""prompt_tokens"", ""mean_x_during_decode"", ""measured_ms_per_token"", ""fitted_ms_per_token""], out)",47,47,47,47,47,47,47,47,36,37,37,40,37,37,54,53,47,47,47,47
+265,code,57,from coremltools.models.compute_plan import MLComputePlan,14,14,14,14,14,14,14,14,12,11,11,13,11,11,18,16,14,14,14,14
+266,code,77,"filler = ""The quick brown fox jumps over the lazy dog near the quiet river. """,18,18,18,18,18,18,18,18,19,19,19,19,19,19,19,21,18,18,18,18
+267,code,57,"v = [r[""prov""][pid][0] for r in rows if pid in r[""prov""]]",22,22,22,22,22,22,22,22,23,22,22,24,22,22,24,24,22,22,22,22
+268,code,44,"if not ts: print(label, ""no rows""); continue",13,13,13,13,13,13,13,13,12,12,12,12,12,12,13,13,13,13,13,13
+269,code,96,secs = float(parts[-1]) + 60 * int(parts[-2]) + (3600 * int(parts[-3]) if len(parts) > 2 else 0),44,44,44,44,44,44,44,44,45,40,37,42,37,37,42,45,44,44,44,44
+270,code,38,"import json, os, subprocess, sys, time",10,10,10,10,10,10,10,10,10,10,10,11,10,10,11,11,10,10,10,10
+271,code,106,"out = subprocess.run([""ps"", ""-axo"", ""pid=,cputime=,rss=,command=""], capture_output=True, text=True).stdout",37,37,37,37,37,37,37,34,36,34,33,37,34,34,41,41,37,37,37,37
+272,code,24,t0 = time.perf_counter(),9,9,9,9,9,9,9,9,8,8,8,8,8,8,10,10,9,9,9,9
+273,code,132,.chip {{ fill: var(--bg); stroke: var(--rule); stroke-width: 1; }} .chip.strong {{ fill: var(--surface); stroke: var(--measured); }},41,41,41,41,41,41,41,41,40,41,41,40,41,41,45,50,41,41,41,41
+274,code,24,t0 = time.perf_counter(),9,9,9,9,9,9,9,9,8,8,8,8,8,8,10,10,9,9,9,9
+275,code,32,sizes = [len(g) for g in groups],12,12,12,12,12,12,12,12,12,11,11,12,11,11,13,12,12,12,12,12
+276,code,146,"S = json.load(open(os.path.join(HERE, ""essay_stream.json""))); text = S[""text""]; ts = [c[0] for c in S[""chunks""]]; cs = [c[1] for c in S[""chunks""]]",58,58,58,58,58,58,58,57,57,51,51,59,51,51,65,63,58,58,58,58
+277,code,132,"size = int([x for x in p if x.startswith(""B="")][0][2:], 16); off = int([x for x in p if x.startswith(""O="")][0][2:], 16) & 0xFFFFFFFF",55,55,55,55,55,55,55,54,58,52,51,57,50,50,59,62,55,55,55,55
+278,code,41,"A = {t: agg(r) for t, r in snaps.items()}",18,18,18,18,18,18,18,18,17,16,16,16,16,16,19,20,18,18,18,18
+279,code,92,"dt, r = call(msgs, temperature=0); a = r[""choices""][0][""message""][""content""]; u = r[""usage""]",30,30,30,30,30,30,30,30,32,30,30,33,30,30,37,35,30,30,30,30
+280,code,49,"ENV = dict(os.environ, NO_COLOR=""1"", TERM=""dumb"")",18,18,18,18,18,18,18,18,17,16,16,20,16,16,22,23,18,18,18,18
+281,code,74,"g.append(f'<line x1=""{l}"" x2=""{w-r}"" y1=""{h-b}"" y2=""{h-b}"" class=""axl""/>')",39,39,39,39,39,39,39,38,34,34,34,35,34,34,44,40,39,39,39,39
+282,code,56,"f2.append(text(lw + v / 5000 * bw + 8, y + 17, vt, ""l""))",33,33,33,33,33,33,33,33,32,31,28,28,28,28,29,36,33,33,33,33
+283,code,70,"g.append(f'<line x1=""{l}"" x2=""{l}"" y1=""{t}"" y2=""{h-b}"" class=""axl""/>')",35,35,35,35,35,35,35,34,32,32,32,33,32,32,40,36,35,35,35,35
+284,code,105,"pl = '<polyline points=""' + "" "".join(f""{sx8(a):.1f},{sy8(b):.1f}"" for a, b in pts) + f'"" class=""{cls}""/>'",46,46,46,46,46,46,46,47,46,45,45,47,45,45,55,53,46,46,46,46
+285,code,87,"g = [respond_text(""Give me a one-sentence fact about octopuses."")[1] for _ in range(3)]",29,29,29,29,29,29,29,29,29,28,28,28,28,28,30,31,29,29,29,29
+286,code,51,"{arrow(390, 118, 470, 250, ""2 generate"", 396, 214)}",36,36,36,36,36,36,36,36,36,36,24,24,24,24,19,36,36,36,36,36
+287,code,116,.key {{ display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 14px 0 34px; font-size: 14px; color: var(--muted); }},52,52,52,52,52,52,52,52,50,50,46,46,46,46,44,54,52,52,52,52
+288,code,137,"for name, units in ((""CPU_AND_NE"", ct.ComputeUnit.CPU_AND_NE), (""CPU_AND_GPU"", ct.ComputeUnit.CPU_AND_GPU), (""ALL"", ct.ComputeUnit.ALL)):",52,52,52,52,52,52,52,52,49,39,40,53,39,39,59,64,52,52,52,52
+289,code,59,"for mode in (""greedy"", ""temp:0.7"", ""temp:1.5"", ""temp:3.0""):",27,27,27,27,27,27,27,27,29,28,28,30,28,28,29,29,27,27,27,27
+290,numbers urls emoji,16,3.14159265358979,16,16,16,16,16,16,16,16,16,16,7,7,7,7,8,17,16,16,16,16
+291,numbers urls emoji,12,"1,284,500.75",12,12,12,12,12,12,12,12,12,12,7,7,7,7,7,13,12,12,12,12
+292,numbers urls emoji,25,2026-10-24T14:22:13+02:00,25,25,25,25,25,25,25,25,25,25,16,16,16,16,16,26,25,25,25,25
+293,numbers urls emoji,14,0xDEADBEEFCAFE,8,8,8,8,8,8,8,6,9,7,7,9,7,7,9,10,8,8,8,8
+295,numbers urls emoji,27,user.name+tag@example.co.uk,11,11,11,11,11,11,11,11,7,7,7,8,7,7,11,11,11,11,11,11
+296,numbers urls emoji,15,192.168.100.254,15,15,15,15,15,15,15,15,15,15,7,7,7,7,7,16,15,15,15,15
+297,numbers urls emoji,25,x = 3 * (y ** 2) - 17 / z,17,17,17,17,17,17,17,17,17,17,16,16,16,16,13,17,17,17,17,17
+298,numbers urls emoji,32,∑_{i=1}^{n} i^2 = n(n+1)(2n+1)/6,24,24,24,24,24,24,24,24,24,24,24,23,25,25,26,25,24,24,24,24
+299,numbers urls emoji,5,😀🚀🎉👍🔥,5,5,5,5,5,5,5,5,20,5,7,8,14,14,13,21,5,5,5,5
+300,numbers urls emoji,22,⚡ fast ✅ done ❌ failed,7,7,7,7,7,7,7,7,11,8,8,8,10,10,10,13,7,7,7,7
+301,numbers urls emoji,19,1234567890123456789,19,19,19,19,19,19,19,19,19,19,7,7,7,7,9,20,19,19,19,19
+302,numbers urls emoji,56,"SELECT id, name FROM users WHERE age > 30 ORDER BY name;",16,16,16,16,16,16,16,16,16,16,15,15,15,15,14,16,16,16,16,16
+304,numbers urls emoji,43,"{""key"": [1, 2, 3], ""ok"": true, ""name"": ""x""}",23,23,23,23,23,23,23,23,23,23,23,23,23,23,21,23,23,23,23,23
+305,numbers urls emoji,18,#include <stdio.h>,7,7,7,7,7,7,7,7,5,5,5,5,5,5,8,7,7,7,7,7
+306,numbers urls emoji,39,"git commit -m ""fix: handle empty input""",11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11
+307,numbers urls emoji,37,$ ls -la /usr/local/bin | grep python,13,13,13,13,13,13,13,13,11,11,11,11,11,11,13,13,13,13,13,13
+308,numbers urls emoji,24,AAAAAAAAAAAAAAAAAAAAAAAA,2,2,2,2,2,2,2,2,12,3,3,3,3,3,3,8,2,2,2,2
+309,numbers urls emoji,31,a b c d e f g h i j k l m n o p,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16
+310,rare words,22,The word is polycracy.,7,7,7,7,7,7,7,6,7,8,7,7,8,8,7,7,7,7,7,7
+311,rare words,27,The word is sulfophthalein.,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,10,9,9,9,9
+312,rare words,26,The word is unfamiliarity.,6,6,6,6,6,6,6,7,6,6,6,6,6,6,6,8,6,6,6,6
+313,rare words,24,The word is seismologic.,6,6,6,6,6,6,6,6,7,7,7,6,7,7,6,8,6,6,6,6
+314,rare words,23,The word is unbegirded.,8,8,8,8,8,8,8,7,8,8,8,8,8,8,9,8,8,8,8,8
+315,rare words,23,The word is ditrochean.,8,8,8,8,8,8,8,8,8,8,8,8,8,8,9,8,8,8,8,8
+316,rare words,25,The word is unrecognized.,5,5,5,5,5,5,5,5,6,5,6,6,5,5,6,7,5,5,5,5
+317,rare words,24,The word is Eurypterida.,7,7,7,7,7,7,7,8,8,8,7,9,8,8,8,8,7,7,7,7
+318,rare words,27,The word is universityless.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+319,rare words,23,The word is underporch.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+320,rare words,25,The word is aneurysmally.,6,6,6,6,6,6,6,6,6,9,7,6,9,9,9,9,6,6,6,6
+321,rare words,22,The word is sphericle.,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,6,6,6,6,6
+322,rare words,24,The word is gutturality.,7,7,7,7,7,7,7,7,8,7,7,8,7,7,7,8,7,7,7,7
+323,rare words,22,The word is acritical.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,6,6,6,6
+324,rare words,26,The word is esophagoscopy.,7,7,7,7,7,7,7,8,8,8,8,7,8,8,9,9,7,7,7,7
+325,rare words,22,The word is gascoigny.,7,7,7,7,7,7,7,7,7,8,7,7,8,8,8,7,7,7,7,7
+326,rare words,26,The word is encephalotomy.,6,6,6,6,6,6,6,8,6,8,7,6,8,8,7,9,6,6,6,6
+327,rare words,24,The word is tenebricose.,8,8,8,8,8,8,8,7,8,9,8,8,9,9,9,8,8,8,8,8
+328,rare words,22,The word is devonport.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+329,rare words,22,The word is wiremaker.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+330,rare words,26,The word is Calcispongiae.,8,8,8,8,8,8,8,8,8,9,8,9,9,9,9,9,8,8,8,8
+331,rare words,28,The word is parliamentarily.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+332,rare words,23,The word is unfriended.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+333,rare words,26,The word is unprotectable.,7,7,7,7,7,7,7,7,8,7,7,8,7,7,7,8,7,7,7,7
+334,rare words,26,The word is whithersoever.,9,9,9,9,9,9,9,8,9,9,8,7,9,9,7,9,9,9,9,9
+335,rare words,22,The word is tinkerdom.,6,6,6,6,6,6,6,6,8,7,7,7,7,7,7,8,6,6,6,6
+336,rare words,23,The word is cuckoomaid.,9,9,9,9,9,9,9,6,8,7,7,9,7,7,8,9,9,9,9,9
+337,rare words,26,The word is Zingiberaceae.,7,7,7,7,7,7,7,7,8,9,8,8,8,9,8,8,7,7,7,7
+338,rare words,25,The word is brevicaudate.,8,8,8,8,8,8,8,8,8,9,8,8,9,9,8,9,8,8,8,8
+339,rare words,22,The word is Loxodonta.,8,8,8,8,8,8,8,8,8,8,8,8,8,8,9,9,8,8,8,8
+340,rare words,22,The word is herbarism.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+341,rare words,26,The word is multipersonal.,6,6,6,6,6,6,6,6,6,7,6,6,7,7,7,7,6,6,6,6
+342,rare words,29,The word is balanophoraceous.,8,8,8,8,8,8,8,7,9,9,8,9,9,9,9,10,8,8,8,8
+343,rare words,23,The word is coreplasty.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,7,7,7,7
+344,rare words,26,The word is undecayedness.,7,7,7,7,7,7,7,8,9,8,7,8,8,8,8,9,7,7,7,7
+345,rare words,23,The word is subalmoner.,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+346,rare words,26,The word is apodictically.,7,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,7,7,7,7
+347,rare words,23,The word is candelabra.,7,7,7,7,7,7,7,6,7,7,7,7,7,7,8,8,7,7,7,7
+348,rare words,23,The word is spridhogue.,8,8,8,8,8,8,8,8,8,8,7,8,8,8,8,9,8,8,8,8
+349,rare words,27,The word is parenchymatous.,8,8,8,8,8,8,8,7,8,9,9,8,9,9,10,10,8,8,8,8
+350,rare words,31,The word is unconfidentialness.,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,9,8,8,8,8
+351,rare words,25,The word is undesponding.,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,8,6,6,6,6
+352,rare words,22,The word is houseward.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+353,rare words,27,The word is multistaminate.,6,6,6,6,6,6,6,8,8,8,8,8,8,8,8,8,6,6,6,6
+354,rare words,25,The word is subarrhation.,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+355,rare words,23,The word is undefrayed.,7,7,7,7,7,7,7,6,8,7,7,8,7,7,8,7,7,7,7,7
+356,rare words,27,The word is unrespectively.,6,6,6,6,6,6,6,6,7,7,7,7,7,7,7,8,6,6,6,6
+357,rare words,25,The word is theosophical.,8,8,8,8,8,8,8,8,7,7,8,8,7,7,7,7,8,8,8,8
+358,rare words,24,The word is undeceiving.,7,7,7,7,7,7,7,7,7,6,7,7,6,6,7,8,7,7,7,7
+359,rare words,23,The word is logomacher.,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7,7,7,7,7,7
+360,rare words,23,The word is uniseriate.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+361,rare words,33,The word is meningoencephalocele.,10,10,10,10,10,10,10,10,11,10,10,10,10,10,10,11,10,10,10,10
+362,rare words,23,The word is yellowseed.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+363,rare words,28,The word is hygrometrically.,7,7,7,7,7,7,7,8,8,9,8,8,9,9,9,9,7,7,7,7
+364,rare words,27,The word is sternofacialis.,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,9,7,7,7,7
+365,rare words,26,The word is effectualness.,6,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,6,6,6,6
+366,rare words,26,The word is schweizerkase.,8,8,8,8,8,8,8,8,8,9,8,9,9,9,9,9,8,8,8,8
+367,rare words,22,The word is diarchial.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+368,rare words,22,The word is realistic.,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,5,5,5,5
+369,rare words,22,The word is spleuchan.,8,8,8,8,8,8,8,7,7,7,7,8,7,7,8,8,8,8,8,8
+370,rare words,25,The word is oversmoothly.,7,7,7,7,7,7,7,7,7,8,7,7,8,8,8,9,7,7,7,7
+371,rare words,22,The word is chameleon.,5,5,5,5,5,5,5,5,8,6,6,7,6,6,7,8,5,5,5,5
+372,rare words,26,The word is larrikinalian.,8,8,8,8,8,8,8,8,8,8,9,8,8,8,8,8,8,8,8,8
+373,rare words,23,The word is sheetflood.,6,6,6,6,6,6,6,6,7,7,7,7,7,7,7,8,6,6,6,6
+374,rare words,23,The word is charadrine.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+375,rare words,27,The word is inacquaintance.,8,8,8,8,8,8,8,8,9,9,8,8,9,9,8,9,8,8,8,8
+376,rare words,24,The word is ominousness.,6,6,6,6,6,6,6,6,8,6,7,6,6,6,6,8,6,6,6,6
+377,rare words,26,The word is Dicotyledones.,8,8,8,8,8,8,8,8,8,8,8,8,8,8,10,8,8,8,8,8
+378,rare words,22,The word is exogenous.,5,5,5,5,5,5,5,5,5,6,6,5,6,6,6,7,5,5,5,5
+379,rare words,26,The word is prematuration.,6,6,6,6,6,6,6,6,6,7,6,6,7,7,6,7,6,6,6,6
+380,rare words,28,The word is endotheliolysin.,8,8,8,8,8,8,8,8,10,9,8,10,9,9,9,10,8,8,8,8
+381,rare words,22,The word is mammalgia.,6,6,6,6,6,6,6,6,7,7,6,7,7,7,6,8,6,6,6,6
+382,rare words,23,The word is effloresce.,7,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,7,7,7,7
+383,rare words,22,The word is synochoid.,7,7,7,7,7,7,7,7,8,7,8,7,7,7,8,8,7,7,7,7
+384,rare words,22,The word is inglenook.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+385,rare words,24,The word is constabless.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+386,rare words,24,The word is reintroduce.,6,6,6,6,6,6,6,6,6,6,7,6,6,6,6,8,6,6,6,6
+387,rare words,29,The word is transitionalness.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,6,6,6,6
+388,rare words,29,The word is flagellariaceous.,8,8,8,8,8,8,8,8,9,8,8,9,8,8,9,9,8,8,8,8
+389,rare words,27,The word is intercommunity.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+390,rare words,25,The word is fierasferoid.,8,8,8,8,8,8,8,8,8,8,8,8,8,8,9,8,8,8,8,8
+391,rare words,22,The word is sincerely.,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,7,5,5,5,5
+392,rare words,27,The word is uneventfulness.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,7,7,7,7
+393,rare words,25,The word is retrieverish.,6,6,6,6,6,6,6,6,8,7,7,8,7,7,7,8,6,6,6,6
+394,rare words,22,The word is phenology.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+395,rare words,23,The word is semianimal.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+396,rare words,22,The word is Hittitics.,6,6,6,6,6,6,6,7,8,7,8,8,7,7,8,8,6,6,6,6
+397,rare words,25,The word is pornographic.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,7,6,6,6,6
+398,rare words,22,The word is packstaff.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,6,6,6,6
+399,rare words,23,The word is confounded.,5,5,5,5,5,5,5,5,6,6,6,6,6,6,6,6,5,5,5,5
+400,rare words,24,The word is prelibation.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+401,rare words,25,The word is angusticlave.,7,7,7,7,7,7,7,7,8,8,7,8,8,8,9,8,7,7,7,7
+402,rare words,25,The word is phalloplasty.,7,7,7,7,7,7,7,8,8,8,7,7,8,8,8,9,7,7,7,7
+403,rare words,25,The word is weightometer.,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+404,rare words,29,The word is sulphoichthyolic.,9,9,9,9,9,9,9,10,9,9,9,9,9,9,9,11,9,9,9,9
+405,rare words,24,The word is spicigerous.,7,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,7,7,7,7
+406,rare words,25,The word is Ancylostomum.,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+407,rare words,23,The word is punitional.,6,6,6,6,6,6,6,6,6,6,6,7,6,6,6,6,6,6,6,6
+408,rare words,23,The word is pentatonic.,6,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,6,6,6,6
+409,rare words,23,The word is unfittable.,7,7,7,7,7,7,7,6,7,7,7,7,7,7,7,7,7,7,7,7
+410,rare words,25,The word is nonspillable.,8,8,8,8,8,8,8,7,8,8,7,7,8,8,7,9,8,8,8,8
+411,rare words,26,The word is undethronable.,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+412,rare words,23,The word is capitellar.,6,6,6,6,6,6,6,7,6,6,6,6,6,6,8,7,6,6,6,6
+413,rare words,24,The word is decurvation.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,7,7,7,7
+414,rare words,25,The word is intriguingly.,7,7,7,7,7,7,7,6,6,6,6,6,6,6,6,7,7,7,7,7
+415,rare words,24,The word is crotcheteer.,9,9,9,9,9,9,9,8,9,8,8,9,8,8,9,9,9,9,9,9
+416,rare words,24,The word is cobblerfish.,7,7,7,7,7,7,7,7,8,8,7,8,8,8,8,8,7,7,7,7
+417,rare words,24,The word is Micronesian.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+418,rare words,24,The word is monkeyshine.,7,7,7,7,7,7,7,6,7,6,6,7,6,6,7,8,7,7,7,7
+419,rare words,28,The word is autoserotherapy.,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,7,7,7,7
+420,rare words,22,The word is Grevillea.,7,7,7,7,7,7,7,7,7,8,7,7,8,8,7,7,7,7,7,7
+421,rare words,24,The word is mixtilineal.,7,7,7,7,7,7,7,8,7,8,7,8,8,8,9,9,7,7,7,7
+422,rare words,26,The word is dissemilative.,8,8,8,8,8,8,8,8,8,8,8,7,8,8,7,8,8,8,8,8
+423,rare words,24,The word is semiellipse.,6,6,6,6,6,6,6,7,7,6,6,7,6,6,9,7,6,6,6,6
+424,rare words,25,The word is melanotekite.,7,7,7,7,7,7,7,7,8,8,7,7,8,8,8,9,7,7,7,7
+425,rare words,24,The word is rhinorrheal.,7,7,7,7,7,7,7,7,9,9,7,8,9,9,9,9,7,7,7,7
+426,rare words,27,The word is erythrophleine.,7,7,7,7,7,7,7,7,7,8,7,7,8,8,10,9,7,7,7,7
+427,rare words,24,The word is unsoberness.,8,8,8,8,8,8,8,7,8,8,8,8,8,8,8,8,8,8,8,8
+428,rare words,24,The word is unenfeebled.,8,8,8,8,8,8,8,7,9,9,8,9,9,9,8,9,8,8,8,8
+429,rare words,24,The word is tuberculide.,6,6,6,6,6,6,6,7,6,7,7,7,7,7,7,8,6,6,6,6

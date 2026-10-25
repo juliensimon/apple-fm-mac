@@ -1,0 +1,2355 @@
+{
+ "strings": [
+  {
+   "category": "multilingual",
+   "string": "Il fait beau aujourd'hui, alors nous allons nous promener dans le parc avec nos amis.",
+   "apple": 20
+  },
+  {
+   "category": "multilingual",
+   "string": "Le gouvernement a annoncé de nouvelles mesures pour soutenir les petites entreprises face à l'inflation.",
+   "apple": 18
+  },
+  {
+   "category": "multilingual",
+   "string": "L'intelligence artificielle transforme la manière dont nous travaillons, apprenons et communiquons.",
+   "apple": 18
+  },
+  {
+   "category": "multilingual",
+   "string": "Das Wetter ist heute schön, deshalb gehen wir mit unseren Freunden im Park spazieren.",
+   "apple": 17
+  },
+  {
+   "category": "multilingual",
+   "string": "Die Bundesregierung hat neue Maßnahmen zur Unterstützung kleiner Unternehmen beschlossen.",
+   "apple": 13
+  },
+  {
+   "category": "multilingual",
+   "string": "Künstliche Intelligenz verändert die Art, wie wir arbeiten und lernen.",
+   "apple": 15
+  },
+  {
+   "category": "multilingual",
+   "string": "Hoy hace buen tiempo, así que vamos a pasear por el parque con nuestros amigos.",
+   "apple": 18
+  },
+  {
+   "category": "multilingual",
+   "string": "El gobierno anunció nuevas medidas para apoyar a las pequeñas empresas frente a la inflación.",
+   "apple": 16
+  },
+  {
+   "category": "multilingual",
+   "string": "La inteligencia artificial está cambiando la forma en que trabajamos y aprendemos.",
+   "apple": 15
+  },
+  {
+   "category": "multilingual",
+   "string": "Oggi il tempo è bello, quindi andiamo a passeggiare nel parco con i nostri amici.",
+   "apple": 21
+  },
+  {
+   "category": "multilingual",
+   "string": "Il governo ha annunciato nuove misure per sostenere le piccole imprese.",
+   "apple": 14
+  },
+  {
+   "category": "multilingual",
+   "string": "L'intelligenza artificiale sta cambiando il modo in cui lavoriamo e impariamo.",
+   "apple": 19
+  },
+  {
+   "category": "multilingual",
+   "string": "Hoje o tempo está bom, então vamos passear no parque com os nossos amigos.",
+   "apple": 17
+  },
+  {
+   "category": "multilingual",
+   "string": "O governo anunciou novas medidas para apoiar as pequenas empresas.",
+   "apple": 12
+  },
+  {
+   "category": "multilingual",
+   "string": "A inteligência artificial está mudando a maneira como trabalhamos e aprendemos.",
+   "apple": 16
+  },
+  {
+   "category": "multilingual",
+   "string": "Het weer is vandaag mooi, dus we gaan met onze vrienden in het park wandelen.",
+   "apple": 19
+  },
+  {
+   "category": "multilingual",
+   "string": "De regering heeft nieuwe maatregelen aangekondigd om kleine bedrijven te steunen.",
+   "apple": 16
+  },
+  {
+   "category": "multilingual",
+   "string": "今日は天気がいいので、友達と一緒に公園を散歩します。",
+   "apple": 14
+  },
+  {
+   "category": "multilingual",
+   "string": "政府は中小企業を支援するための新しい対策を発表しました。",
+   "apple": 12
+  },
+  {
+   "category": "multilingual",
+   "string": "人工知能は私たちの働き方や学び方を変えています。",
+   "apple": 13
+  },
+  {
+   "category": "multilingual",
+   "string": "오늘은 날씨가 좋아서 친구들과 함께 공원에서 산책할 거예요.",
+   "apple": 16
+  },
+  {
+   "category": "multilingual",
+   "string": "정부는 중소기업을 지원하기 위한 새로운 대책을 발표했습니다.",
+   "apple": 16
+  },
+  {
+   "category": "multilingual",
+   "string": "今天天气很好,所以我们要和朋友们一起去公园散步。",
+   "apple": 15
+  },
+  {
+   "category": "multilingual",
+   "string": "政府宣布了支持中小企业的新措施。",
+   "apple": 9
+  },
+  {
+   "category": "multilingual",
+   "string": "人工智能正在改变我们工作和学习的方式。",
+   "apple": 9
+  },
+  {
+   "category": "multilingual",
+   "string": "الطقس جميل اليوم، لذلك سنذهب للتنزه في الحديقة مع أصدقائنا.",
+   "apple": 23
+  },
+  {
+   "category": "multilingual",
+   "string": "أعلنت الحكومة عن إجراءات جديدة لدعم الشركات الصغيرة.",
+   "apple": 13
+  },
+  {
+   "category": "multilingual",
+   "string": "आज मौसम अच्छा है, इसलिए हम अपने दोस्तों के साथ पार्क में टहलने जाएंगे।",
+   "apple": 18
+  },
+  {
+   "category": "multilingual",
+   "string": "सरकार ने छोटे व्यवसायों का समर्थन करने के लिए नए उपायों की घोषणा की।",
+   "apple": 16
+  },
+  {
+   "category": "multilingual",
+   "string": "Сегодня хорошая погода, поэтому мы пойдём гулять в парк с друзьями.",
+   "apple": 18
+  },
+  {
+   "category": "multilingual",
+   "string": "Правительство объявило о новых мерах поддержки малого бизнеса.",
+   "apple": 13
+  },
+  {
+   "category": "multilingual",
+   "string": "Bugün hava güzel, bu yüzden arkadaşlarımızla parkta yürüyüşe çıkacağız.",
+   "apple": 19
+  },
+  {
+   "category": "multilingual",
+   "string": "Hükümet küçük işletmeleri desteklemek için yeni önlemler açıkladı.",
+   "apple": 18
+  },
+  {
+   "category": "multilingual",
+   "string": "Hôm nay thời tiết đẹp, vì vậy chúng tôi sẽ đi dạo trong công viên cùng bạn bè.",
+   "apple": 22
+  },
+  {
+   "category": "multilingual",
+   "string": "Chính phủ đã công bố các biện pháp mới để hỗ trợ các doanh nghiệp nhỏ.",
+   "apple": 18
+  },
+  {
+   "category": "multilingual",
+   "string": "วันนี้อากาศดี เราจึงจะไปเดินเล่นในสวนสาธารณะกับเพื่อน ๆ",
+   "apple": 17
+  },
+  {
+   "category": "multilingual",
+   "string": "מזג האוויר יפה היום, אז אנחנו הולכים לטייל בפארק עם החברים שלנו.",
+   "apple": 26
+  },
+  {
+   "category": "multilingual",
+   "string": "Vädret är fint idag, så vi ska promenera i parken med våra vänner.",
+   "apple": 21
+  },
+  {
+   "category": "multilingual",
+   "string": "Dziś jest ładna pogoda, więc idziemy na spacer do parku z przyjaciółmi.",
+   "apple": 22
+  },
+  {
+   "category": "code",
+   "string": "b4.append(text(x + 25, sy4(v) - 5, f\"{v:,.0f}\", \"bl\", \"middle\"))",
+   "apple": 36
+  },
+  {
+   "category": "code",
+   "string": "first = now - t0",
+   "apple": 6
+  },
+  {
+   "category": "code",
+   "string": "phase[0] = \"idle2\"; time.sleep(2)",
+   "apple": 15
+  },
+  {
+   "category": "code",
+   "string": "return time.perf_counter() - t, {\"HTTP\": e.code, \"body\": e.read().decode()[:300]}",
+   "apple": 31
+  },
+  {
+   "category": "code",
+   "string": "return 0 if i <= 0 else cs[-1] if i >= len(ts) else cs[i-1] + (cs[i] - cs[i-1]) * (t - ts[i-1]) / max(ts[i] - ts[i-1], 1e-9)",
+   "apple": 70
+  },
+  {
+   "category": "code",
+   "string": "sx = lambda v: l + (v / xmax) * (w - l - r)",
+   "apple": 21
+  },
+  {
+   "category": "code",
+   "string": "print(\"turn\", i, round(dt, 2), u[\"prompt_tokens\"], u[\"prompt_tokens_details\"], repr(a[:40]))",
+   "apple": 34
+  },
+  {
+   "category": "code",
+   "string": "<h1>Apple On-Device Model Map</h1>",
+   "apple": 8
+  },
+  {
+   "category": "code",
+   "string": "for l in out.splitlines():",
+   "apple": 8
+  },
+  {
+   "category": "code",
+   "string": "p = int(pos_at(c[0] - 0.25)); nxt = [h for h in heads if h[1] > p]",
+   "apple": 36
+  },
+  {
+   "category": "code",
+   "string": "bars9.append(f'<rect x=\"{sx9(t) - 3:.1f}\" y=\"{sy9(n):.1f}\" width=\"6\" height=\"{sy9(0) - sy9(n):.1f}\" class=\"{\"bar-inferred\" if big else \"bar-measured\"}\"/>')",
+   "apple": 72
+  },
+  {
+   "category": "code",
+   "string": "if l.startswith(\"==== Legend\"): break",
+   "apple": 9
+  },
+  {
+   "category": "code",
+   "string": "gx = 70 + i * (W4 - 90) / 3 + 14",
+   "apple": 23
+  },
+  {
+   "category": "code",
+   "string": "q = [{\"role\": \"user\", \"content\": long + \"\\nReply with the single word DONE.\"}]",
+   "apple": 23
+  },
+  {
+   "category": "code",
+   "string": "<h2>The Neural Engine runs the model</h2>",
+   "apple": 8
+  },
+  {
+   "category": "code",
+   "string": "gp = [r[\"gpu\"] for r in rows if r[\"gpu\"] is not None]",
+   "apple": 20
+  },
+  {
+   "category": "code",
+   "string": ".ln-ane2 {{ stroke: var(--inferred); stroke-width: 2.4; fill: none; }} .ln-ane2-dot {{ fill: var(--inferred); }}",
+   "apple": 43
+  },
+  {
+   "category": "code",
+   "string": "{box(10, 62, 150, 76, \"Your code\", \"fm CLI or Swift API\")}",
+   "apple": 30
+  },
+  {
+   "category": "code",
+   "string": "s = [respond_text(\"Give me a one-sentence fact about octopuses.\", greedy=False)[1] for _ in range(3)]",
+   "apple": 32
+  },
+  {
+   "category": "code",
+   "string": "figure {{ margin: 12px 0 0; }}",
+   "apple": 14
+  },
+  {
+   "category": "code",
+   "string": "BASE_IDS = {\"0x17a\", \"0x179\"}",
+   "apple": 18
+  },
+  {
+   "category": "code",
+   "string": "{arrow(390, 90, 470, 78, \"1 check\", 430, 74)}",
+   "apple": 33
+  },
+  {
+   "category": "code",
+   "string": "from coremltools.converters.mil.mil import types",
+   "apple": 13
+  },
+  {
+   "category": "code",
+   "string": "{arrow(302, 138, 302, 250, \"asset lookup\", 345, 198)}",
+   "apple": 36
+  },
+  {
+   "category": "code",
+   "string": "elif res >= 250: big += res",
+   "apple": 11
+  },
+  {
+   "category": "code",
+   "string": "dt, out, err = respond_text(prompt + \"\\n\\nReply with the single word DONE.\")",
+   "apple": 23
+  },
+  {
+   "category": "code",
+   "string": "write(\"ifp_essay_clusters.csv\", [\"seconds_into_phase\", \"reads_in_cluster\", \"text_char_position\", \"next_section_heading\", \"chars_until_that_heading\"], rows)",
+   "apple": 50
+  },
+  {
+   "category": "code",
+   "string": "rows.append([round(c[0], 2), len(c), p, nxt[0][0] if nxt else \"\", (nxt[0][1] - p) if nxt else \"\"])",
+   "apple": 47
+  },
+  {
+   "category": "code",
+   "string": "gx = 70 + gi * (W7 - 90) / 5 + 10",
+   "apple": 23
+  },
+  {
+   "category": "code",
+   "string": "cmd += [\"-i\", instructions]",
+   "apple": 8
+  },
+  {
+   "category": "code",
+   "string": "labs = [(\"idle\", \"idle\"), (\"prefill_5k\", \"prefill, 5,000 tokens\"), (\"decode_400w\", \"decode, 400 words\")]",
+   "apple": 45
+  },
+  {
+   "category": "code",
+   "string": "io = [r for r in rows(\"iosurface_regions.csv\") if r[\"pid\"] == \"9704\"]",
+   "apple": 28
+  },
+  {
+   "category": "code",
+   "string": ".t-u {{ color: var(--muted); background: color-mix(in srgb, var(--muted) 16%, transparent); }}",
+   "apple": 32
+  },
+  {
+   "category": "code",
+   "string": "for by in (1, 2):",
+   "apple": 9
+  },
+  {
+   "category": "code",
+   "string": ".box {{ fill: var(--surface); stroke: var(--rule); stroke-width: 1.2; }} .box.strong {{ fill: var(--strong-fill); stroke: var(--measured); stroke-width: 1.5; }}",
+   "apple": 54
+  },
+  {
+   "category": "code",
+   "string": "<h2>One request, five models</h2>",
+   "apple": 7
+  },
+  {
+   "category": "code",
+   "string": "pf = m([x[\"ttft_s\"] for x in r[\"prefill_2k\"]]); lt = m([x[\"ttft_s\"] for x in r[\"long_decode\"]])",
+   "apple": 43
+  },
+  {
+   "category": "code",
+   "string": "def arrow(x1, y1, x2, y2, label=None, lx=None, ly=None, cls=\"arr\"):",
+   "apple": 31
+  },
+  {
+   "category": "code",
+   "string": "k = x[\"type\"].strip(); a[k][0] += 1; a[k][1] += x[\"v\"]; a[k][2] += x[\"r\"]; a[k][3] += x[\"d\"]",
+   "apple": 51
+  },
+  {
+   "category": "code",
+   "string": "def respond(prompt, greedy=True, instructions=None):",
+   "apple": 13
+  },
+  {
+   "category": "code",
+   "string": "if r[\"snapshot\"] != t: continue",
+   "apple": 9
+  },
+  {
+   "category": "code",
+   "string": "th, td {{ text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--rule); vertical-align: top; }}",
+   "apple": 39
+  },
+  {
+   "category": "code",
+   "string": "def chart_frame(w, h, l, r, t, b, xmax, ymin, ymax, xticks, yticks, xlabel, ylabel, fmtx=lambda v: f\"{v:g}\", fmty=lambda v: f\"{v:g}\"):",
+   "apple": 61
+  },
+  {
+   "category": "code",
+   "string": "return first, total, chunks, p.stderr.read().decode()[:300]",
+   "apple": 20
+  },
+  {
+   "category": "code",
+   "string": "import bisect, csv, datetime, json, os, re, collections, statistics as st",
+   "apple": 19
+  },
+  {
+   "category": "code",
+   "string": "\"prefill_2k_ttft_s\", \"prefill_2k_change_pct\", \"prefill_4p7k_ttft_s\", \"prefill_4p7k_change_pct\"])",
+   "apple": 50
+  },
+  {
+   "category": "code",
+   "string": "(\"primes\", \"List the first 60 prime numbers separated by commas and nothing else.\"),",
+   "apple": 19
+  },
+  {
+   "category": "code",
+   "string": "<h2>What is known about the architecture</h2>",
+   "apple": 8
+  },
+  {
+   "category": "code",
+   "string": "if first is None:",
+   "apple": 5
+  },
+  {
+   "category": "code",
+   "string": "\"\"\"Build the Apple on-device model map page (HTML with inline SVG) from the plot-ready CSV files.\"\"\"",
+   "apple": 24
+  },
+  {
+   "category": "code",
+   "string": "w = csv.writer(f); w.writerow(header); w.writerows(rows)",
+   "apple": 21
+  },
+  {
+   "category": "code",
+   "string": ".fig.narrow svg {{ min-width: 480px; }}",
+   "apple": 17
+  },
+  {
+   "category": "code",
+   "string": "m = re.match(r\"([\\d.]+)([KMG]?)\", s.strip())",
+   "apple": 21
+  },
+  {
+   "category": "code",
+   "string": "print(\"snap\", {k: [round(x) for x in v] for k, v in snap.items()})",
+   "apple": 27
+  },
+  {
+   "category": "code",
+   "string": "write(\"decode_bucket_fit.csv\", [\"model\", \"prompt_tokens\", \"mean_x_during_decode\", \"measured_ms_per_token\", \"fitted_ms_per_token\"], out)",
+   "apple": 47
+  },
+  {
+   "category": "code",
+   "string": "from coremltools.models.compute_plan import MLComputePlan",
+   "apple": 14
+  },
+  {
+   "category": "code",
+   "string": "filler = \"The quick brown fox jumps over the lazy dog near the quiet river. \"",
+   "apple": 18
+  },
+  {
+   "category": "code",
+   "string": "v = [r[\"prov\"][pid][0] for r in rows if pid in r[\"prov\"]]",
+   "apple": 22
+  },
+  {
+   "category": "code",
+   "string": "if not ts: print(label, \"no rows\"); continue",
+   "apple": 13
+  },
+  {
+   "category": "code",
+   "string": "secs = float(parts[-1]) + 60 * int(parts[-2]) + (3600 * int(parts[-3]) if len(parts) > 2 else 0)",
+   "apple": 44
+  },
+  {
+   "category": "code",
+   "string": "import json, os, subprocess, sys, time",
+   "apple": 10
+  },
+  {
+   "category": "code",
+   "string": "out = subprocess.run([\"ps\", \"-axo\", \"pid=,cputime=,rss=,command=\"], capture_output=True, text=True).stdout",
+   "apple": 37
+  },
+  {
+   "category": "code",
+   "string": "t0 = time.perf_counter()",
+   "apple": 9
+  },
+  {
+   "category": "code",
+   "string": ".chip {{ fill: var(--bg); stroke: var(--rule); stroke-width: 1; }} .chip.strong {{ fill: var(--surface); stroke: var(--measured); }}",
+   "apple": 41
+  },
+  {
+   "category": "code",
+   "string": "t0 = time.perf_counter()",
+   "apple": 9
+  },
+  {
+   "category": "code",
+   "string": "sizes = [len(g) for g in groups]",
+   "apple": 12
+  },
+  {
+   "category": "code",
+   "string": "S = json.load(open(os.path.join(HERE, \"essay_stream.json\"))); text = S[\"text\"]; ts = [c[0] for c in S[\"chunks\"]]; cs = [c[1] for c in S[\"chunks\"]]",
+   "apple": 58
+  },
+  {
+   "category": "code",
+   "string": "size = int([x for x in p if x.startswith(\"B=\")][0][2:], 16); off = int([x for x in p if x.startswith(\"O=\")][0][2:], 16) & 0xFFFFFFFF",
+   "apple": 55
+  },
+  {
+   "category": "code",
+   "string": "A = {t: agg(r) for t, r in snaps.items()}",
+   "apple": 18
+  },
+  {
+   "category": "code",
+   "string": "dt, r = call(msgs, temperature=0); a = r[\"choices\"][0][\"message\"][\"content\"]; u = r[\"usage\"]",
+   "apple": 30
+  },
+  {
+   "category": "code",
+   "string": "ENV = dict(os.environ, NO_COLOR=\"1\", TERM=\"dumb\")",
+   "apple": 18
+  },
+  {
+   "category": "code",
+   "string": "g.append(f'<line x1=\"{l}\" x2=\"{w-r}\" y1=\"{h-b}\" y2=\"{h-b}\" class=\"axl\"/>')",
+   "apple": 39
+  },
+  {
+   "category": "code",
+   "string": "f2.append(text(lw + v / 5000 * bw + 8, y + 17, vt, \"l\"))",
+   "apple": 33
+  },
+  {
+   "category": "code",
+   "string": "g.append(f'<line x1=\"{l}\" x2=\"{l}\" y1=\"{t}\" y2=\"{h-b}\" class=\"axl\"/>')",
+   "apple": 35
+  },
+  {
+   "category": "code",
+   "string": "pl = '<polyline points=\"' + \" \".join(f\"{sx8(a):.1f},{sy8(b):.1f}\" for a, b in pts) + f'\" class=\"{cls}\"/>'",
+   "apple": 46
+  },
+  {
+   "category": "code",
+   "string": "g = [respond_text(\"Give me a one-sentence fact about octopuses.\")[1] for _ in range(3)]",
+   "apple": 29
+  },
+  {
+   "category": "code",
+   "string": "{arrow(390, 118, 470, 250, \"2 generate\", 396, 214)}",
+   "apple": 36
+  },
+  {
+   "category": "code",
+   "string": ".key {{ display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 14px 0 34px; font-size: 14px; color: var(--muted); }}",
+   "apple": 52
+  },
+  {
+   "category": "code",
+   "string": "for name, units in ((\"CPU_AND_NE\", ct.ComputeUnit.CPU_AND_NE), (\"CPU_AND_GPU\", ct.ComputeUnit.CPU_AND_GPU), (\"ALL\", ct.ComputeUnit.ALL)):",
+   "apple": 52
+  },
+  {
+   "category": "code",
+   "string": "for mode in (\"greedy\", \"temp:0.7\", \"temp:1.5\", \"temp:3.0\"):",
+   "apple": 27
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "3.14159265358979",
+   "apple": 16
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "1,284,500.75",
+   "apple": 12
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "2026-10-24T14:22:13+02:00",
+   "apple": 25
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "0xDEADBEEFCAFE",
+   "apple": 8
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "user.name+tag@example.co.uk",
+   "apple": 11
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "192.168.100.254",
+   "apple": 15
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "x = 3 * (y ** 2) - 17 / z",
+   "apple": 17
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "∑_{i=1}^{n} i^2 = n(n+1)(2n+1)/6",
+   "apple": 24
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "😀🚀🎉👍🔥",
+   "apple": 5
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "⚡ fast ✅ done ❌ failed",
+   "apple": 7
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "1234567890123456789",
+   "apple": 19
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "SELECT id, name FROM users WHERE age > 30 ORDER BY name;",
+   "apple": 16
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "{\"key\": [1, 2, 3], \"ok\": true, \"name\": \"x\"}",
+   "apple": 23
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "#include <stdio.h>",
+   "apple": 7
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "git commit -m \"fix: handle empty input\"",
+   "apple": 11
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "$ ls -la /usr/local/bin | grep python",
+   "apple": 13
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "AAAAAAAAAAAAAAAAAAAAAAAA",
+   "apple": 2
+  },
+  {
+   "category": "numbers urls emoji",
+   "string": "a b c d e f g h i j k l m n o p",
+   "apple": 16
+  },
+  {
+   "category": "rare words",
+   "string": "The word is polycracy.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is sulfophthalein.",
+   "apple": 9
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unfamiliarity.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is seismologic.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unbegirded.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is ditrochean.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unrecognized.",
+   "apple": 5
+  },
+  {
+   "category": "rare words",
+   "string": "The word is Eurypterida.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is universityless.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is underporch.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is aneurysmally.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is sphericle.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is gutturality.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is acritical.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is esophagoscopy.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is gascoigny.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is encephalotomy.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is tenebricose.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is devonport.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is wiremaker.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is Calcispongiae.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is parliamentarily.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unfriended.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unprotectable.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is whithersoever.",
+   "apple": 9
+  },
+  {
+   "category": "rare words",
+   "string": "The word is tinkerdom.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is cuckoomaid.",
+   "apple": 9
+  },
+  {
+   "category": "rare words",
+   "string": "The word is Zingiberaceae.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is brevicaudate.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is Loxodonta.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is herbarism.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is multipersonal.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is balanophoraceous.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is coreplasty.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is undecayedness.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is subalmoner.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is apodictically.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is candelabra.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is spridhogue.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is parenchymatous.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unconfidentialness.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is undesponding.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is houseward.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is multistaminate.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is subarrhation.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is undefrayed.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unrespectively.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is theosophical.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is undeceiving.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is logomacher.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is uniseriate.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is meningoencephalocele.",
+   "apple": 10
+  },
+  {
+   "category": "rare words",
+   "string": "The word is yellowseed.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is hygrometrically.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is sternofacialis.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is effectualness.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is schweizerkase.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is diarchial.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is realistic.",
+   "apple": 5
+  },
+  {
+   "category": "rare words",
+   "string": "The word is spleuchan.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is oversmoothly.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is chameleon.",
+   "apple": 5
+  },
+  {
+   "category": "rare words",
+   "string": "The word is larrikinalian.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is sheetflood.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is charadrine.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is inacquaintance.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is ominousness.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is Dicotyledones.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is exogenous.",
+   "apple": 5
+  },
+  {
+   "category": "rare words",
+   "string": "The word is prematuration.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is endotheliolysin.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is mammalgia.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is effloresce.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is synochoid.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is inglenook.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is constabless.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is reintroduce.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is transitionalness.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is flagellariaceous.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is intercommunity.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is fierasferoid.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is sincerely.",
+   "apple": 5
+  },
+  {
+   "category": "rare words",
+   "string": "The word is uneventfulness.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is retrieverish.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is phenology.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is semianimal.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is Hittitics.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is pornographic.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is packstaff.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is confounded.",
+   "apple": 5
+  },
+  {
+   "category": "rare words",
+   "string": "The word is prelibation.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is angusticlave.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is phalloplasty.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is weightometer.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is sulphoichthyolic.",
+   "apple": 9
+  },
+  {
+   "category": "rare words",
+   "string": "The word is spicigerous.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is Ancylostomum.",
+   "apple": 9
+  },
+  {
+   "category": "rare words",
+   "string": "The word is punitional.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is pentatonic.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unfittable.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is nonspillable.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is undethronable.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is capitellar.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is decurvation.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is intriguingly.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is crotcheteer.",
+   "apple": 9
+  },
+  {
+   "category": "rare words",
+   "string": "The word is cobblerfish.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is Micronesian.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is monkeyshine.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is autoserotherapy.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is Grevillea.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is mixtilineal.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is dissemilative.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is semiellipse.",
+   "apple": 6
+  },
+  {
+   "category": "rare words",
+   "string": "The word is melanotekite.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is rhinorrheal.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is erythrophleine.",
+   "apple": 7
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unsoberness.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is unenfeebled.",
+   "apple": 8
+  },
+  {
+   "category": "rare words",
+   "string": "The word is tuberculide.",
+   "apple": 6
+  }
+ ],
+ "models": {
+  "gemini-3-flash-preview": {
+   "counts": [
+    20,
+    18,
+    18,
+    17,
+    13,
+    15,
+    18,
+    16,
+    15,
+    21,
+    14,
+    19,
+    17,
+    12,
+    16,
+    19,
+    16,
+    14,
+    12,
+    13,
+    16,
+    16,
+    15,
+    9,
+    9,
+    23,
+    13,
+    18,
+    16,
+    18,
+    13,
+    19,
+    18,
+    22,
+    18,
+    17,
+    26,
+    21,
+    22,
+    36,
+    6,
+    15,
+    31,
+    70,
+    21,
+    34,
+    8,
+    8,
+    36,
+    72,
+    9,
+    23,
+    23,
+    8,
+    20,
+    43,
+    30,
+    32,
+    14,
+    18,
+    33,
+    13,
+    36,
+    11,
+    23,
+    50,
+    47,
+    23,
+    8,
+    45,
+    28,
+    32,
+    9,
+    54,
+    7,
+    43,
+    31,
+    51,
+    13,
+    9,
+    39,
+    61,
+    20,
+    19,
+    50,
+    19,
+    8,
+    5,
+    24,
+    21,
+    17,
+    21,
+    27,
+    47,
+    14,
+    18,
+    22,
+    13,
+    44,
+    10,
+    37,
+    9,
+    41,
+    9,
+    12,
+    58,
+    55,
+    18,
+    30,
+    18,
+    39,
+    33,
+    35,
+    46,
+    29,
+    36,
+    52,
+    52,
+    27,
+    16,
+    12,
+    25,
+    8,
+    11,
+    15,
+    17,
+    24,
+    5,
+    7,
+    19,
+    16,
+    23,
+    7,
+    11,
+    13,
+    2,
+    16,
+    7,
+    9,
+    6,
+    6,
+    8,
+    8,
+    5,
+    7,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    7,
+    7,
+    6,
+    8,
+    7,
+    6,
+    8,
+    6,
+    7,
+    7,
+    9,
+    6,
+    9,
+    7,
+    8,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7,
+    8,
+    7,
+    7,
+    8,
+    8,
+    8,
+    6,
+    6,
+    6,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7,
+    7,
+    10,
+    6,
+    7,
+    7,
+    6,
+    8,
+    7,
+    5,
+    8,
+    7,
+    5,
+    8,
+    6,
+    7,
+    8,
+    6,
+    8,
+    5,
+    6,
+    8,
+    6,
+    7,
+    7,
+    7,
+    7,
+    6,
+    6,
+    8,
+    6,
+    8,
+    5,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    6,
+    5,
+    7,
+    7,
+    7,
+    6,
+    9,
+    7,
+    9,
+    6,
+    6,
+    7,
+    8,
+    8,
+    6,
+    7,
+    7,
+    9,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    8,
+    6,
+    7,
+    7,
+    7,
+    8,
+    8,
+    6
+   ],
+   "answered": 257,
+   "exact_match_with_apple": 257,
+   "difference_histogram": {
+    "0": 257
+   }
+  },
+  "gemini-3.1-pro-preview": {
+   "counts": [
+    20,
+    18,
+    18,
+    17,
+    13,
+    15,
+    18,
+    16,
+    15,
+    21,
+    14,
+    19,
+    17,
+    12,
+    16,
+    19,
+    16,
+    14,
+    12,
+    13,
+    16,
+    16,
+    15,
+    9,
+    9,
+    23,
+    13,
+    18,
+    16,
+    18,
+    13,
+    19,
+    18,
+    22,
+    18,
+    17,
+    26,
+    21,
+    22,
+    36,
+    6,
+    15,
+    31,
+    70,
+    21,
+    34,
+    8,
+    8,
+    36,
+    72,
+    9,
+    23,
+    23,
+    8,
+    20,
+    43,
+    30,
+    32,
+    14,
+    18,
+    33,
+    13,
+    36,
+    11,
+    23,
+    50,
+    47,
+    23,
+    8,
+    45,
+    28,
+    32,
+    9,
+    54,
+    7,
+    43,
+    31,
+    51,
+    13,
+    9,
+    39,
+    61,
+    20,
+    19,
+    50,
+    19,
+    8,
+    5,
+    24,
+    21,
+    17,
+    21,
+    27,
+    47,
+    14,
+    18,
+    22,
+    13,
+    44,
+    10,
+    37,
+    9,
+    41,
+    9,
+    12,
+    58,
+    55,
+    18,
+    30,
+    18,
+    39,
+    33,
+    35,
+    46,
+    29,
+    36,
+    52,
+    52,
+    27,
+    16,
+    12,
+    25,
+    8,
+    11,
+    15,
+    17,
+    24,
+    5,
+    7,
+    19,
+    16,
+    23,
+    7,
+    11,
+    13,
+    2,
+    16,
+    7,
+    9,
+    6,
+    6,
+    8,
+    8,
+    5,
+    7,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    7,
+    7,
+    6,
+    8,
+    7,
+    6,
+    8,
+    6,
+    7,
+    7,
+    9,
+    6,
+    9,
+    7,
+    8,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7,
+    8,
+    7,
+    7,
+    8,
+    8,
+    8,
+    6,
+    6,
+    6,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7,
+    7,
+    10,
+    6,
+    7,
+    7,
+    6,
+    8,
+    7,
+    5,
+    8,
+    7,
+    5,
+    8,
+    6,
+    7,
+    8,
+    6,
+    8,
+    5,
+    6,
+    8,
+    6,
+    7,
+    7,
+    7,
+    7,
+    6,
+    6,
+    8,
+    6,
+    8,
+    5,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    6,
+    5,
+    7,
+    7,
+    7,
+    6,
+    9,
+    7,
+    9,
+    6,
+    6,
+    7,
+    8,
+    8,
+    6,
+    7,
+    7,
+    9,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    8,
+    6,
+    7,
+    7,
+    7,
+    8,
+    8,
+    6
+   ],
+   "answered": 257,
+   "exact_match_with_apple": 257,
+   "difference_histogram": {
+    "0": 257
+   }
+  },
+  "gemini-3.8-flash": {
+   "counts": [
+    20,
+    18,
+    18,
+    17,
+    13,
+    15,
+    18,
+    16,
+    15,
+    21,
+    14,
+    19,
+    17,
+    12,
+    16,
+    19,
+    16,
+    14,
+    12,
+    13,
+    16,
+    16,
+    15,
+    9,
+    9,
+    23,
+    13,
+    18,
+    16,
+    18,
+    13,
+    19,
+    18,
+    22,
+    18,
+    17,
+    26,
+    21,
+    22,
+    36,
+    6,
+    15,
+    31,
+    70,
+    21,
+    34,
+    8,
+    8,
+    36,
+    72,
+    9,
+    23,
+    23,
+    8,
+    20,
+    43,
+    30,
+    32,
+    14,
+    18,
+    33,
+    13,
+    36,
+    11,
+    23,
+    50,
+    47,
+    23,
+    8,
+    45,
+    28,
+    32,
+    9,
+    54,
+    7,
+    43,
+    31,
+    51,
+    13,
+    9,
+    39,
+    61,
+    20,
+    19,
+    50,
+    19,
+    8,
+    5,
+    24,
+    21,
+    17,
+    21,
+    27,
+    47,
+    14,
+    18,
+    22,
+    13,
+    44,
+    10,
+    37,
+    9,
+    41,
+    9,
+    12,
+    58,
+    55,
+    18,
+    30,
+    18,
+    39,
+    33,
+    35,
+    46,
+    29,
+    36,
+    52,
+    52,
+    27,
+    16,
+    12,
+    25,
+    8,
+    11,
+    15,
+    17,
+    24,
+    5,
+    7,
+    19,
+    16,
+    23,
+    7,
+    11,
+    13,
+    2,
+    16,
+    7,
+    9,
+    6,
+    6,
+    8,
+    8,
+    5,
+    7,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    7,
+    7,
+    6,
+    8,
+    7,
+    6,
+    8,
+    6,
+    7,
+    7,
+    9,
+    6,
+    9,
+    7,
+    8,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7,
+    8,
+    7,
+    7,
+    8,
+    8,
+    8,
+    6,
+    6,
+    6,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7,
+    7,
+    10,
+    6,
+    7,
+    7,
+    6,
+    8,
+    7,
+    5,
+    8,
+    7,
+    5,
+    8,
+    6,
+    7,
+    8,
+    6,
+    8,
+    5,
+    6,
+    8,
+    6,
+    7,
+    7,
+    7,
+    7,
+    6,
+    6,
+    8,
+    6,
+    8,
+    5,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    6,
+    5,
+    7,
+    7,
+    7,
+    6,
+    9,
+    7,
+    9,
+    6,
+    6,
+    7,
+    8,
+    8,
+    6,
+    7,
+    7,
+    9,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    8,
+    6,
+    7,
+    7,
+    7,
+    8,
+    8,
+    6
+   ],
+   "answered": 257,
+   "exact_match_with_apple": 257,
+   "difference_histogram": {
+    "0": 257
+   }
+  },
+  "gemma-4-31b-it": {
+   "counts": [
+    20,
+    18,
+    18,
+    17,
+    13,
+    15,
+    18,
+    16,
+    15,
+    21,
+    14,
+    19,
+    17,
+    12,
+    16,
+    19,
+    16,
+    14,
+    12,
+    13,
+    16,
+    16,
+    15,
+    9,
+    9,
+    23,
+    13,
+    18,
+    16,
+    18,
+    13,
+    19,
+    18,
+    22,
+    18,
+    17,
+    26,
+    21,
+    22,
+    36,
+    6,
+    15,
+    31,
+    70,
+    21,
+    34,
+    8,
+    8,
+    36,
+    72,
+    9,
+    23,
+    23,
+    8,
+    20,
+    43,
+    30,
+    32,
+    14,
+    18,
+    33,
+    13,
+    36,
+    11,
+    23,
+    50,
+    47,
+    23,
+    8,
+    45,
+    28,
+    32,
+    9,
+    54,
+    7,
+    43,
+    31,
+    51,
+    13,
+    9,
+    39,
+    61,
+    20,
+    19,
+    50,
+    19,
+    8,
+    5,
+    24,
+    21,
+    17,
+    21,
+    27,
+    47,
+    14,
+    18,
+    22,
+    13,
+    44,
+    10,
+    37,
+    9,
+    41,
+    9,
+    12,
+    58,
+    55,
+    18,
+    30,
+    18,
+    39,
+    33,
+    35,
+    46,
+    29,
+    36,
+    52,
+    52,
+    27,
+    16,
+    12,
+    25,
+    8,
+    11,
+    15,
+    17,
+    24,
+    5,
+    7,
+    19,
+    16,
+    23,
+    7,
+    11,
+    13,
+    2,
+    16,
+    7,
+    9,
+    6,
+    6,
+    8,
+    8,
+    5,
+    7,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    7,
+    7,
+    6,
+    8,
+    7,
+    6,
+    8,
+    6,
+    7,
+    7,
+    9,
+    6,
+    9,
+    7,
+    8,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7,
+    8,
+    7,
+    7,
+    8,
+    8,
+    8,
+    6,
+    6,
+    6,
+    8,
+    7,
+    6,
+    8,
+    7,
+    7,
+    7,
+    10,
+    6,
+    7,
+    7,
+    6,
+    8,
+    7,
+    5,
+    8,
+    7,
+    5,
+    8,
+    6,
+    7,
+    8,
+    6,
+    8,
+    5,
+    6,
+    8,
+    6,
+    7,
+    7,
+    7,
+    7,
+    6,
+    6,
+    8,
+    6,
+    8,
+    5,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    6,
+    5,
+    7,
+    7,
+    7,
+    6,
+    9,
+    7,
+    9,
+    6,
+    6,
+    7,
+    8,
+    8,
+    6,
+    7,
+    7,
+    9,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    8,
+    6,
+    7,
+    7,
+    7,
+    8,
+    8,
+    6
+   ],
+   "answered": 257,
+   "exact_match_with_apple": 257,
+   "difference_histogram": {
+    "0": 257
+   }
+  }
+ }
+}

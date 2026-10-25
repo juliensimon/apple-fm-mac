@@ -1,0 +1,11 @@
+test,call,prompt_tokens,seconds,cached_tokens
+same_prompt,0,2024,2.01,0
+same_prompt,1,2024,1.41,0
+same_prompt,2,2024,1.41,0
+same_prompt,3,2024,1.41,0
+shared_prefix_different_tail,ALPHA,2023,1.41,0
+shared_prefix_different_tail,BETA,2023,1.59,0
+shared_prefix_different_tail,GAMMA,2023,1.48,0
+multi_turn,0,2028,1.77,0
+multi_turn,1,2056,1.66,0
+multi_turn,2,2077,1.67,0

@@ -1,0 +1,182 @@
+snapshot,pid,category,dirty,clean,reclaimable,regions
+idle,9704,IOSurface,406 MB,0 B,0 B,65
+idle,9704,Untagged,28 MB,0 B,701 MB,2626
+idle,9704,Malloc Small,8624 KB,0 B,136 MB,46
+idle,9704,Malloc Large,5136 KB,0 B,0 B,1
+idle,9704,page table,1458 KB,0 B,0 B,1
+idle,9704,__DATA_DIRTY,1441 KB,0 B,0 B,362
+idle,9704,__DATA,1214 KB,0 B,0 B,423
+idle,9704,unused dyld shared cache area,808 KB,0 B,0 B,1276
+idle,9704,Malloc Metadata,752 KB,0 B,336 KB,9
+idle,9704,Stack,560 KB,0 B,64 KB,40
+idle,9704,Dispatch Continuations,384 KB,0 B,128 KB,1
+idle,9704,__AUTH,198 KB,0 B,0 B,230
+idle,9704,Malloc Tiny,176 KB,0 B,0 B,1
+idle,9704,Activity Tracing,64 KB,0 B,0 B,1
+idle,9704,__TPRO_CONST,52 KB,0 B,0 B,4
+idle,9704,__OBJC_RW,47 KB,0 B,0 B,1
+idle,9704,IOKit,16 KB,0 B,0 B,3
+idle,9704,OS Alloc Once,16 KB,0 B,0 B,1
+idle,9704,Owned physical footprint (unmapped) (neural) (nofootprint),0 B,749 MB,424 MB,13
+idle,9704,IOKit (neural) (nofootprint),0 B,355 MB,0 B,1
+idle,9704,mapped file,0 B,310 MB,0 B,19
+idle,9704,__TEXT,0 B,16 KB,0 B,484
+idle,9704,__DATA_CONST,0 B,16 KB,0 B,415
+idle,9704,__LINKEDIT,0 B,16 KB,0 B,2
+idle,9704,__CTF,0 B,0 B,0 B,1
+idle,9704,__AUTH_CONST,0 B,0 B,0 B,417
+idle,9704,__FONT_DATA,0 B,0 B,0 B,1
+idle,9704,__OBJC_RO,0 B,0 B,0 B,1
+idle,9704,Neural Engine,0 B,0 B,0 B,7
+idle,9704,Dyld Private Memory,0 B,0 B,0 B,1
+idle,9704,TOTAL,455 MB,1414 MB,1261 MB,6455
+idle,9700,IOSurface,166 MB,0 B,0 B,34
+idle,9700,Malloc Large,4112 KB,0 B,0 B,1
+idle,9700,Malloc Small,2592 KB,0 B,63 MB,44
+idle,9700,__DATA_DIRTY,1389 KB,0 B,0 B,362
+idle,9700,__DATA,923 KB,0 B,0 B,423
+idle,9700,unused dyld shared cache area,742 KB,0 B,0 B,1276
+idle,9700,Malloc Metadata,672 KB,0 B,224 KB,8
+idle,9700,page table,609 KB,0 B,0 B,1
+idle,9700,Stack,416 KB,0 B,0 B,22
+idle,9700,Dispatch Continuations,336 KB,0 B,176 KB,1
+idle,9700,Malloc Tiny,176 KB,0 B,0 B,1
+idle,9700,Untagged,160 KB,0 B,512 KB,13
+idle,9700,__AUTH,159 KB,0 B,0 B,230
+idle,9700,__TPRO_CONST,52 KB,0 B,0 B,4
+idle,9700,Activity Tracing,48 KB,0 B,0 B,1
+idle,9700,__OBJC_RW,47 KB,0 B,0 B,1
+idle,9700,IOKit,16 KB,0 B,0 B,3
+idle,9700,OS Alloc Once,16 KB,0 B,0 B,1
+idle,9700,Owned physical footprint (unmapped) (neural) (nofootprint),0 B,595 MB,92 MB,12
+idle,9700,mapped file,0 B,136 MB,0 B,17
+idle,9700,__TEXT,0 B,16 KB,0 B,484
+idle,9700,__DATA_CONST,0 B,16 KB,0 B,415
+idle,9700,__LINKEDIT,0 B,16 KB,0 B,2
+idle,9700,__CTF,0 B,0 B,0 B,1
+idle,9700,__AUTH_CONST,0 B,0 B,0 B,417
+idle,9700,__FONT_DATA,0 B,0 B,0 B,1
+idle,9700,__OBJC_RO,0 B,0 B,0 B,1
+idle,9700,Neural Engine,0 B,0 B,0 B,8
+idle,9700,Dyld Private Memory,0 B,0 B,0 B,1
+idle,9700,TOTAL,178 MB,731 MB,156 MB,3787
+during,9704,IOSurface,936 MB,0 B,0 B,101
+during,9704,Untagged,28 MB,0 B,701 MB,2626
+during,9704,Malloc Small,8624 KB,0 B,136 MB,46
+during,9704,Malloc Large,5136 KB,0 B,0 B,1
+during,9704,page table,1506 KB,0 B,0 B,1
+during,9704,__DATA_DIRTY,1441 KB,0 B,0 B,362
+during,9704,__DATA,1214 KB,0 B,0 B,423
+during,9704,unused dyld shared cache area,808 KB,0 B,0 B,1276
+during,9704,Malloc Metadata,752 KB,0 B,336 KB,9
+during,9704,Stack,560 KB,0 B,0 B,40
+during,9704,Dispatch Continuations,384 KB,0 B,128 KB,1
+during,9704,__AUTH,198 KB,0 B,0 B,230
+during,9704,Malloc Tiny,176 KB,0 B,0 B,1
+during,9704,Activity Tracing,64 KB,0 B,0 B,1
+during,9704,App-Specific Tag 1,64 KB,0 B,0 B,1
+during,9704,__TPRO_CONST,52 KB,0 B,0 B,4
+during,9704,__OBJC_RW,47 KB,0 B,0 B,1
+during,9704,OS Alloc Once,16 KB,0 B,0 B,1
+during,9704,IOKit,16 KB,0 B,0 B,3
+during,9704,Owned physical footprint (unmapped) (neural) (nofootprint),0 B,717 MB,424 MB,13
+during,9704,IOKit (neural) (nofootprint),0 B,355 MB,0 B,1
+during,9704,mapped file,0 B,311 MB,0 B,19
+during,9704,__LINKEDIT,0 B,16 KB,0 B,2
+during,9704,__DATA_CONST,0 B,16 KB,0 B,415
+during,9704,__TEXT,0 B,16 KB,0 B,484
+during,9704,__OBJC_RO,0 B,0 B,0 B,1
+during,9704,__FONT_DATA,0 B,0 B,0 B,1
+during,9704,Dyld Private Memory,0 B,0 B,0 B,1
+during,9704,__CTF,0 B,0 B,0 B,1
+during,9704,__AUTH_CONST,0 B,0 B,0 B,417
+during,9704,Neural Engine,0 B,0 B,0 B,7
+during,9704,TOTAL,985 MB,1382 MB,1261 MB,6492
+during,9700,IOSurface,257 MB,0 B,0 B,41
+during,9700,Malloc Large,4112 KB,0 B,0 B,1
+during,9700,Malloc Small,2592 KB,0 B,63 MB,44
+during,9700,__DATA_DIRTY,1389 KB,0 B,0 B,362
+during,9700,__DATA,923 KB,0 B,0 B,423
+during,9700,unused dyld shared cache area,742 KB,0 B,0 B,1276
+during,9700,Malloc Metadata,672 KB,0 B,224 KB,8
+during,9700,page table,657 KB,0 B,0 B,1
+during,9700,Stack,352 KB,0 B,32 KB,24
+during,9700,Dispatch Continuations,336 KB,0 B,176 KB,1
+during,9700,Malloc Tiny,176 KB,0 B,0 B,1
+during,9700,Untagged,160 KB,0 B,512 KB,13
+during,9700,__AUTH,159 KB,0 B,0 B,230
+during,9700,__TPRO_CONST,52 KB,0 B,0 B,4
+during,9700,Activity Tracing,48 KB,0 B,0 B,1
+during,9700,__OBJC_RW,47 KB,0 B,0 B,1
+during,9700,IOKit,16 KB,0 B,0 B,3
+during,9700,OS Alloc Once,16 KB,0 B,0 B,1
+during,9700,Owned physical footprint (unmapped) (neural) (nofootprint),0 B,595 MB,92 MB,12
+during,9700,mapped file,0 B,136 MB,0 B,17
+during,9700,__TEXT,0 B,16 KB,0 B,484
+during,9700,__DATA_CONST,0 B,16 KB,0 B,415
+during,9700,__LINKEDIT,0 B,16 KB,0 B,2
+during,9700,__CTF,0 B,0 B,0 B,1
+during,9700,__AUTH_CONST,0 B,0 B,0 B,417
+during,9700,__FONT_DATA,0 B,0 B,0 B,1
+during,9700,__OBJC_RO,0 B,0 B,0 B,1
+during,9700,Neural Engine,0 B,0 B,0 B,8
+during,9700,Dyld Private Memory,0 B,0 B,0 B,1
+during,9700,TOTAL,269 MB,731 MB,156 MB,3796
+after,9704,IOSurface,245 MB,0 B,0 B,11
+after,9704,Untagged,28 MB,0 B,701 MB,2626
+after,9704,Malloc Small,8624 KB,0 B,136 MB,46
+after,9704,Malloc Large,5136 KB,0 B,0 B,1
+after,9704,__DATA_DIRTY,1441 KB,0 B,0 B,362
+after,9704,page table,1218 KB,0 B,0 B,1
+after,9704,__DATA,1214 KB,0 B,0 B,423
+after,9704,unused dyld shared cache area,808 KB,0 B,0 B,1276
+after,9704,Malloc Metadata,752 KB,0 B,336 KB,9
+after,9704,Dispatch Continuations,384 KB,0 B,128 KB,1
+after,9704,Stack,240 KB,0 B,0 B,12
+after,9704,__AUTH,198 KB,0 B,0 B,230
+after,9704,Malloc Tiny,176 KB,0 B,0 B,1
+after,9704,Activity Tracing,64 KB,0 B,0 B,1
+after,9704,__TPRO_CONST,52 KB,0 B,0 B,4
+after,9704,__OBJC_RW,47 KB,0 B,0 B,1
+after,9704,IOKit,16 KB,0 B,0 B,3
+after,9704,OS Alloc Once,16 KB,0 B,0 B,1
+after,9704,Owned physical footprint (unmapped) (neural) (nofootprint),0 B,0 B,1068 MB,7
+after,9704,mapped file,0 B,268 MB,0 B,15
+after,9704,__TEXT,0 B,16 KB,0 B,484
+after,9704,__DATA_CONST,0 B,16 KB,0 B,415
+after,9704,__LINKEDIT,0 B,16 KB,0 B,2
+after,9704,__CTF,0 B,0 B,0 B,1
+after,9704,__AUTH_CONST,0 B,0 B,0 B,417
+after,9704,__FONT_DATA,0 B,0 B,0 B,1
+after,9704,__OBJC_RO,0 B,0 B,0 B,1
+after,9704,Dyld Private Memory,0 B,0 B,0 B,1
+after,9704,TOTAL,293 MB,268 MB,1906 MB,6355
+after,9700,IOSurface,128 MB,0 B,0 B,10
+after,9700,Malloc Large,4112 KB,0 B,0 B,1
+after,9700,Malloc Small,2592 KB,0 B,63 MB,44
+after,9700,__DATA_DIRTY,1389 KB,0 B,0 B,362
+after,9700,__DATA,923 KB,0 B,0 B,423
+after,9700,unused dyld shared cache area,742 KB,0 B,0 B,1276
+after,9700,Malloc Metadata,672 KB,0 B,224 KB,8
+after,9700,page table,593 KB,0 B,0 B,1
+after,9700,Dispatch Continuations,336 KB,0 B,176 KB,1
+after,9700,Malloc Tiny,176 KB,0 B,0 B,1
+after,9700,Untagged,160 KB,0 B,512 KB,13
+after,9700,Stack,160 KB,0 B,32 KB,8
+after,9700,__AUTH,159 KB,0 B,0 B,230
+after,9700,__TPRO_CONST,52 KB,0 B,0 B,4
+after,9700,Activity Tracing,48 KB,0 B,0 B,1
+after,9700,__OBJC_RW,47 KB,0 B,0 B,1
+after,9700,IOKit,16 KB,0 B,0 B,3
+after,9700,OS Alloc Once,16 KB,0 B,0 B,1
+after,9700,Owned physical footprint (unmapped) (neural) (nofootprint),0 B,0 B,535 MB,4
+after,9700,mapped file,0 B,136 MB,0 B,12
+after,9700,__TEXT,0 B,16 KB,0 B,484
+after,9700,__DATA_CONST,0 B,16 KB,0 B,415
+after,9700,__LINKEDIT,0 B,16 KB,0 B,2
+after,9700,__CTF,0 B,0 B,0 B,1
+after,9700,__AUTH_CONST,0 B,0 B,0 B,417
+after,9700,__FONT_DATA,0 B,0 B,0 B,1
+after,9700,__OBJC_RO,0 B,0 B,0 B,1
+after,9700,Dyld Private Memory,0 B,0 B,0 B,1
+after,9700,TOTAL,140 MB,136 MB,599 MB,3728

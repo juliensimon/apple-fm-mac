@@ -1,0 +1,6 @@
+bucket_tokens,bytes_per_tensor,mib_per_tensor,mib_k_plus_v_pair,seen_in_vmmap_as_surface
+512,18350080,17.5,35.0,yes
+1024,36700160,35.0,70.0,inferred from step
+2048,73400320,70.0,140.0,inferred from step
+4096,146800640,140.0,280.0,inferred from step
+8192,293601280,280.0,560.0,yes

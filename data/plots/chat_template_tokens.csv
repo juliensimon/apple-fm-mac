@@ -1,0 +1,15 @@
+case,prompt_tokens_billed,text_tokens,framing_tokens
+user hi,56,1,55
+user x10,66,11,55
+user x40,96,41,55
+system + user,60,4,56
+system long + user,72,16,56
+"user, assistant, user",69,4,65
+"system, user, assistant, user",73,7,66
+"user, assistant, user, assistant, user",82,7,75
+user empty-ish,56,1,55
+control string in user: <start_of_turn>,60,1,59
+control string in user: <end_of_turn>,60,1,59
+plain words start_of_turn,58,3,55
+one letter x,56,1,55
+control: <start_of_turn>user,61,2,59

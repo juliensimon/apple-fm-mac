@@ -1,0 +1,25 @@
+# Model and asset identifiers seen in unified log, 2026-10-24
+ 347 com.apple.fm.language.instruct_300m.safety
+ 300 com.apple.fm.language.instruct_300m.tokenizer
+ 300 com.apple.fm.language.instruct_300m.base
+ 207 com.apple.safety.output.configuration
+ 137 com.apple.fm.language.instruct_300m.mm_guard
+ 106 com.apple.fm.language.instruct_3b.fm_api_generic.draft
+ 106 com.apple.fm.language.instruct_3b.fm_api_generic_3b
+  98 com.apple.fm.language.instruct_3b.base
+  91 com.apple.fm.language.instruct_3b.shared_experts_cost_placeholder_3b
+  87 com.apple.fm.language.instruct_3b.tokenizer
+  68 com.apple.fm.language.instruct_300m.image_tokenizer
+  36 com.apple.fm.language.instruct_3b.fm_api_generic
+  26 com.apple.fm.language.instruct_300m.base.generic
+  24 com.apple.fm.language.instruct_3b.image_encoder
+  21 com.apple.tokenoutputdenylist.template
+   6 com.apple.tokenoutputdenylist.template.
+   6 com.apple.safety.output.configuration.
+   6 com.apple.fm.language.instruct_3b.fm_api_generic.
+   4 com.apple.fm.language.instruct_3b.fm_api_generic.draft.generic_sparse
+   4 com.apple.fm.language.instruct_3b.fm_api_generic_3b.generic_sparse
+   4 com.apple.fm.language.instruct_3b.base.generic_sparse
+   4 com.apple.fm.language.instruct_300m.safety.generic
+   4 com.apple.fm.language.instruct_300m.mm_guard.generic
+   2 com.apple.fm.language.instruct_300m.image_tokenizer.generic

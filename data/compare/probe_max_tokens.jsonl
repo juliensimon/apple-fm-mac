@@ -1,0 +1,4 @@
+{"params": {}, "completion_tokens": 73, "finish_reason": "stop", "chars": 346, "seconds": 2.17}
+{"params": {"max_tokens": 5}, "completion_tokens": 73, "finish_reason": "stop", "chars": 346, "seconds": 1.6}
+{"params": {"max_completion_tokens": 5}, "completion_tokens": 10, "finish_reason": "stop", "chars": 26, "seconds": 0.3}
+{"params": {"max_completion_tokens": 20}, "completion_tokens": 20, "finish_reason": "stop", "chars": 113, "seconds": 0.57}

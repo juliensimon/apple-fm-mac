@@ -1,0 +1,56 @@
+[
+ {
+  "repo": "mlx-community/Qwen3-4B-Instruct-2507-4bit",
+  "label": "qwen3-4b-4bit",
+  "date": "2026-10-24",
+  "footprint_mib_before_request": 82.0,
+  "footprint_mib_after_request": 4131.0,
+  "footprint_mib_ten_seconds_later": 3950.0,
+  "reply_tokens": 96
+ },
+ {
+  "repo": "mlx-community/gemma-3-4b-it-4bit",
+  "label": "gemma3-4b-4bit",
+  "date": "2026-10-24",
+  "footprint_mib_before_request": 75.0,
+  "footprint_mib_after_request": 3129.0,
+  "footprint_mib_ten_seconds_later": 2948.0,
+  "reply_tokens": 64
+ },
+ {
+  "repo": "mlx-community/Qwen3-4B-Instruct-2507-8bit",
+  "label": "qwen3-4b-8bit",
+  "date": "2026-10-24",
+  "footprint_mib_before_request": 4358.0,
+  "footprint_mib_after_request": 4624.0,
+  "footprint_mib_ten_seconds_later": 4444.0,
+  "reply_tokens": 123
+ },
+ {
+  "repo": "mlx-community/gemma-3-4b-it-8bit",
+  "label": "gemma3-4b-8bit",
+  "date": "2026-10-24",
+  "footprint_mib_before_request": 5243.0,
+  "footprint_mib_after_request": 5295.0,
+  "footprint_mib_ten_seconds_later": 5115.0,
+  "reply_tokens": 94
+ },
+ {
+  "repo": "mlx-community/gemma-4-e4b-it-8bit",
+  "label": "gemma4-e4b-8bit",
+  "date": "2026-10-24",
+  "footprint_mib_before_request": 5860.0,
+  "footprint_mib_after_request": 8215.0,
+  "footprint_mib_ten_seconds_later": 8033.0,
+  "reply_tokens": 195
+ },
+ {
+  "repo": "mlx-community/gemma-4-e4b-it-4bit",
+  "label": "gemma4-e4b-4bit",
+  "date": "2026-10-24",
+  "footprint_mib_before_request": 4214.0,
+  "footprint_mib_after_request": 4660.0,
+  "footprint_mib_ten_seconds_later": 4478.0,
+  "reply_tokens": 157
+ }
+]

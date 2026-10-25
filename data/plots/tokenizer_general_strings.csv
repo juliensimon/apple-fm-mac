@@ -1,0 +1,10 @@
+label,characters,tokens
+hello,5,1
+Hello world,11,2
+digits x10,10,10
+digits x40,40,40
+emoji x10,10,10
+spaces x64,64,3
+hex64,64,44
+german compound,42,14
+url,49,21

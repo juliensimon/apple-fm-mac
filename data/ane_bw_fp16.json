@@ -1,0 +1,170 @@
+[
+ {
+  "format": "fp16",
+  "layers": 1,
+  "package_mib": 32.0,
+  "fp16_equiv_mib": 32.0,
+  "units": "ANE",
+  "median_ms": 0.6101,
+  "min_ms": 0.54,
+  "p90_ms": 0.8982,
+  "devices_preferred": [
+   "NeuralEngine"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 1,
+  "package_mib": 32.0,
+  "fp16_equiv_mib": 32.0,
+  "units": "GPU",
+  "median_ms": 0.3572,
+  "min_ms": 0.2817,
+  "p90_ms": 0.4792,
+  "devices_preferred": [
+   "GPU"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 1,
+  "package_mib": 32.0,
+  "fp16_equiv_mib": 32.0,
+  "units": "CPU",
+  "median_ms": 0.4893,
+  "min_ms": 0.4593,
+  "p90_ms": 0.5358,
+  "devices_preferred": [
+   "CPU"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 2,
+  "package_mib": 64.0,
+  "fp16_equiv_mib": 64.0,
+  "units": "ANE",
+  "median_ms": 1.208,
+  "min_ms": 0.7504,
+  "p90_ms": 1.5056,
+  "devices_preferred": [
+   "NeuralEngine"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 2,
+  "package_mib": 64.0,
+  "fp16_equiv_mib": 64.0,
+  "units": "GPU",
+  "median_ms": 0.4799,
+  "min_ms": 0.429,
+  "p90_ms": 0.5921,
+  "devices_preferred": [
+   "GPU"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 2,
+  "package_mib": 64.0,
+  "fp16_equiv_mib": 64.0,
+  "units": "CPU",
+  "median_ms": 1.0031,
+  "min_ms": 0.9349,
+  "p90_ms": 1.0655,
+  "devices_preferred": [
+   "CPU"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 4,
+  "package_mib": 128.0,
+  "fp16_equiv_mib": 128.0,
+  "units": "ANE",
+  "median_ms": 1.4306,
+  "min_ms": 1.2958,
+  "p90_ms": 1.4829,
+  "devices_preferred": [
+   "NeuralEngine"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 4,
+  "package_mib": 128.0,
+  "fp16_equiv_mib": 128.0,
+  "units": "GPU",
+  "median_ms": 0.697,
+  "min_ms": 0.6558,
+  "p90_ms": 0.7844,
+  "devices_preferred": [
+   "GPU"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 4,
+  "package_mib": 128.0,
+  "fp16_equiv_mib": 128.0,
+  "units": "CPU",
+  "median_ms": 1.9733,
+  "min_ms": 1.8623,
+  "p90_ms": 2.0898,
+  "devices_preferred": [
+   "CPU"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 8,
+  "package_mib": 256.0,
+  "fp16_equiv_mib": 256.0,
+  "units": "ANE",
+  "median_ms": 2.429,
+  "min_ms": 2.3615,
+  "p90_ms": 2.4649,
+  "devices_preferred": [
+   "NeuralEngine"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 8,
+  "package_mib": 256.0,
+  "fp16_equiv_mib": 256.0,
+  "units": "GPU",
+  "median_ms": 1.2159,
+  "min_ms": 1.1102,
+  "p90_ms": 1.395,
+  "devices_preferred": [
+   "GPU"
+  ],
+  "all_on_requested_unit": true
+ },
+ {
+  "format": "fp16",
+  "layers": 8,
+  "package_mib": 256.0,
+  "fp16_equiv_mib": 256.0,
+  "units": "CPU",
+  "median_ms": 4.0188,
+  "min_ms": 3.8599,
+  "p90_ms": 4.1386,
+  "devices_preferred": [
+   "CPU"
+  ],
+  "all_on_requested_unit": true
+ }
+]

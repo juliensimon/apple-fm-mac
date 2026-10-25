@@ -1,0 +1,2939 @@
+{
+ "repo": "mlx-community/Qwen3-4B-Instruct-2507-8bit",
+ "slug": "qwen3-4b-8bit",
+ "date": "2026-10-24",
+ "gsm8k": {
+  "n": 100,
+  "correct": 93,
+  "ci95": [
+   86.3,
+   96.6
+  ],
+  "rows": [
+   {
+    "i": 663,
+    "gold": "193",
+    "pred": "193",
+    "right": true,
+    "seconds": 2.34,
+    "out_tokens": 143
+   },
+   {
+    "i": 308,
+    "gold": "6",
+    "pred": "6",
+    "right": true,
+    "seconds": 2.3,
+    "out_tokens": 169
+   },
+   {
+    "i": 808,
+    "gold": "12",
+    "pred": "12",
+    "right": true,
+    "seconds": 3.1,
+    "out_tokens": 230
+   },
+   {
+    "i": 98,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 3.86,
+    "out_tokens": 284
+   },
+   {
+    "i": 148,
+    "gold": "30",
+    "pred": "30",
+    "right": true,
+    "seconds": 2.19,
+    "out_tokens": 159
+   },
+   {
+    "i": 1097,
+    "gold": "480",
+    "pred": "3",
+    "right": false,
+    "seconds": 13.37,
+    "out_tokens": 1000
+   },
+   {
+    "i": 192,
+    "gold": "91",
+    "pred": "91",
+    "right": true,
+    "seconds": 3.43,
+    "out_tokens": 255
+   },
+   {
+    "i": 748,
+    "gold": "336",
+    "pred": "336",
+    "right": true,
+    "seconds": 3.96,
+    "out_tokens": 296
+   },
+   {
+    "i": 1193,
+    "gold": "9",
+    "pred": "9.00",
+    "right": true,
+    "seconds": 4.26,
+    "out_tokens": 314
+   },
+   {
+    "i": 118,
+    "gold": "4",
+    "pred": "4",
+    "right": true,
+    "seconds": 2.44,
+    "out_tokens": 178
+   },
+   {
+    "i": 1039,
+    "gold": "160",
+    "pred": "160",
+    "right": true,
+    "seconds": 2.97,
+    "out_tokens": 220
+   },
+   {
+    "i": 439,
+    "gold": "17",
+    "pred": "17",
+    "right": true,
+    "seconds": 5.0,
+    "out_tokens": 371
+   },
+   {
+    "i": 76,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 5.76,
+    "out_tokens": 431
+   },
+   {
+    "i": 176,
+    "gold": "100",
+    "pred": "100",
+    "right": true,
+    "seconds": 2.57,
+    "out_tokens": 190
+   },
+   {
+    "i": 888,
+    "gold": "10",
+    "pred": "10",
+    "right": true,
+    "seconds": 1.63,
+    "out_tokens": 118
+   },
+   {
+    "i": 856,
+    "gold": "7",
+    "pred": "7",
+    "right": true,
+    "seconds": 4.41,
+    "out_tokens": 328
+   },
+   {
+    "i": 143,
+    "gold": "16",
+    "pred": "16",
+    "right": true,
+    "seconds": 4.69,
+    "out_tokens": 352
+   },
+   {
+    "i": 492,
+    "gold": "32",
+    "pred": "32",
+    "right": true,
+    "seconds": 1.91,
+    "out_tokens": 139
+   },
+   {
+    "i": 185,
+    "gold": "30",
+    "pred": "30",
+    "right": true,
+    "seconds": 1.83,
+    "out_tokens": 133
+   },
+   {
+    "i": 1128,
+    "gold": "9",
+    "pred": "9",
+    "right": true,
+    "seconds": 3.06,
+    "out_tokens": 227
+   },
+   {
+    "i": 869,
+    "gold": "500",
+    "pred": "500",
+    "right": true,
+    "seconds": 1.86,
+    "out_tokens": 135
+   },
+   {
+    "i": 121,
+    "gold": "27",
+    "pred": "27",
+    "right": true,
+    "seconds": 3.51,
+    "out_tokens": 261
+   },
+   {
+    "i": 1158,
+    "gold": "7300",
+    "pred": "7300",
+    "right": true,
+    "seconds": 3.47,
+    "out_tokens": 257
+   },
+   {
+    "i": 253,
+    "gold": "18",
+    "pred": "18",
+    "right": true,
+    "seconds": 2.07,
+    "out_tokens": 151
+   },
+   {
+    "i": 457,
+    "gold": "45",
+    "pred": "45",
+    "right": true,
+    "seconds": 2.84,
+    "out_tokens": 208
+   },
+   {
+    "i": 1291,
+    "gold": "27",
+    "pred": "27",
+    "right": true,
+    "seconds": 1.96,
+    "out_tokens": 143
+   },
+   {
+    "i": 1284,
+    "gold": "25",
+    "pred": "25",
+    "right": true,
+    "seconds": 3.97,
+    "out_tokens": 293
+   },
+   {
+    "i": 126,
+    "gold": "82",
+    "pred": "82",
+    "right": true,
+    "seconds": 2.17,
+    "out_tokens": 159
+   },
+   {
+    "i": 1181,
+    "gold": "20",
+    "pred": "20",
+    "right": true,
+    "seconds": 5.78,
+    "out_tokens": 434
+   },
+   {
+    "i": 1199,
+    "gold": "2",
+    "pred": "2",
+    "right": true,
+    "seconds": 2.66,
+    "out_tokens": 189
+   },
+   {
+    "i": 812,
+    "gold": "79",
+    "pred": "79",
+    "right": true,
+    "seconds": 6.2,
+    "out_tokens": 462
+   },
+   {
+    "i": 101,
+    "gold": "6",
+    "pred": "6",
+    "right": true,
+    "seconds": 2.85,
+    "out_tokens": 209
+   },
+   {
+    "i": 452,
+    "gold": "50",
+    "pred": "50",
+    "right": true,
+    "seconds": 3.01,
+    "out_tokens": 224
+   },
+   {
+    "i": 95,
+    "gold": "40",
+    "pred": "40",
+    "right": true,
+    "seconds": 3.09,
+    "out_tokens": 230
+   },
+   {
+    "i": 1140,
+    "gold": "27",
+    "pred": "27",
+    "right": true,
+    "seconds": 4.21,
+    "out_tokens": 315
+   },
+   {
+    "i": 272,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 2.26,
+    "out_tokens": 166
+   },
+   {
+    "i": 593,
+    "gold": "3",
+    "pred": "3",
+    "right": true,
+    "seconds": 5.73,
+    "out_tokens": 431
+   },
+   {
+    "i": 858,
+    "gold": "3430",
+    "pred": "3430",
+    "right": true,
+    "seconds": 4.16,
+    "out_tokens": 308
+   },
+   {
+    "i": 295,
+    "gold": "370",
+    "pred": "370",
+    "right": true,
+    "seconds": 2.85,
+    "out_tokens": 209
+   },
+   {
+    "i": 1107,
+    "gold": "360",
+    "pred": "360",
+    "right": true,
+    "seconds": 2.75,
+    "out_tokens": 205
+   },
+   {
+    "i": 241,
+    "gold": "6",
+    "pred": "6",
+    "right": true,
+    "seconds": 4.2,
+    "out_tokens": 314
+   },
+   {
+    "i": 1169,
+    "gold": "2",
+    "pred": "2",
+    "right": true,
+    "seconds": 4.21,
+    "out_tokens": 315
+   },
+   {
+    "i": 631,
+    "gold": "4800",
+    "pred": "4800",
+    "right": true,
+    "seconds": 3.58,
+    "out_tokens": 265
+   },
+   {
+    "i": 1147,
+    "gold": "22",
+    "pred": "22",
+    "right": true,
+    "seconds": 3.6,
+    "out_tokens": 265
+   },
+   {
+    "i": 370,
+    "gold": "320",
+    "pred": "320",
+    "right": true,
+    "seconds": 2.39,
+    "out_tokens": 176
+   },
+   {
+    "i": 211,
+    "gold": "4",
+    "pred": "4",
+    "right": true,
+    "seconds": 3.66,
+    "out_tokens": 273
+   },
+   {
+    "i": 1191,
+    "gold": "100",
+    "pred": "100",
+    "right": true,
+    "seconds": 2.2,
+    "out_tokens": 161
+   },
+   {
+    "i": 1308,
+    "gold": "30",
+    "pred": "30",
+    "right": true,
+    "seconds": 1.47,
+    "out_tokens": 106
+   },
+   {
+    "i": 384,
+    "gold": "32",
+    "pred": "32",
+    "right": true,
+    "seconds": 2.79,
+    "out_tokens": 207
+   },
+   {
+    "i": 762,
+    "gold": "85",
+    "pred": "85",
+    "right": true,
+    "seconds": 2.7,
+    "out_tokens": 199
+   },
+   {
+    "i": 199,
+    "gold": "7500",
+    "pred": "7500",
+    "right": true,
+    "seconds": 4.34,
+    "out_tokens": 323
+   },
+   {
+    "i": 1121,
+    "gold": "35",
+    "pred": "35",
+    "right": true,
+    "seconds": 3.13,
+    "out_tokens": 233
+   },
+   {
+    "i": 128,
+    "gold": "880",
+    "pred": "880",
+    "right": true,
+    "seconds": 4.02,
+    "out_tokens": 298
+   },
+   {
+    "i": 1155,
+    "gold": "13",
+    "pred": "13",
+    "right": true,
+    "seconds": 2.1,
+    "out_tokens": 154
+   },
+   {
+    "i": 122,
+    "gold": "48",
+    "pred": "48",
+    "right": true,
+    "seconds": 3.84,
+    "out_tokens": 285
+   },
+   {
+    "i": 1267,
+    "gold": "40",
+    "pred": "40",
+    "right": true,
+    "seconds": 2.95,
+    "out_tokens": 219
+   },
+   {
+    "i": 421,
+    "gold": "12",
+    "pred": "12",
+    "right": true,
+    "seconds": 3.13,
+    "out_tokens": 233
+   },
+   {
+    "i": 1016,
+    "gold": "138",
+    "pred": "139",
+    "right": false,
+    "seconds": 3.92,
+    "out_tokens": 291
+   },
+   {
+    "i": 1088,
+    "gold": "30",
+    "pred": "28.33",
+    "right": false,
+    "seconds": 7.34,
+    "out_tokens": 550
+   },
+   {
+    "i": 875,
+    "gold": "60",
+    "pred": "60",
+    "right": true,
+    "seconds": 1.89,
+    "out_tokens": 135
+   },
+   {
+    "i": 643,
+    "gold": "840",
+    "pred": "840",
+    "right": true,
+    "seconds": 3.27,
+    "out_tokens": 240
+   },
+   {
+    "i": 953,
+    "gold": "452",
+    "pred": "452",
+    "right": true,
+    "seconds": 10.78,
+    "out_tokens": 795
+   },
+   {
+    "i": 928,
+    "gold": "60",
+    "pred": "60",
+    "right": true,
+    "seconds": 3.98,
+    "out_tokens": 290
+   },
+   {
+    "i": 740,
+    "gold": "25",
+    "pred": "25",
+    "right": true,
+    "seconds": 3.59,
+    "out_tokens": 263
+   },
+   {
+    "i": 613,
+    "gold": "93000",
+    "pred": "93000",
+    "right": true,
+    "seconds": 2.37,
+    "out_tokens": 172
+   },
+   {
+    "i": 508,
+    "gold": "120",
+    "pred": "120",
+    "right": true,
+    "seconds": 4.28,
+    "out_tokens": 317
+   },
+   {
+    "i": 368,
+    "gold": "18",
+    "pred": "10",
+    "right": false,
+    "seconds": 3.11,
+    "out_tokens": 228
+   },
+   {
+    "i": 499,
+    "gold": "10",
+    "pred": "10",
+    "right": true,
+    "seconds": 3.06,
+    "out_tokens": 221
+   },
+   {
+    "i": 167,
+    "gold": "16",
+    "pred": "16",
+    "right": true,
+    "seconds": 4.14,
+    "out_tokens": 305
+   },
+   {
+    "i": 1176,
+    "gold": "2",
+    "pred": "2",
+    "right": true,
+    "seconds": 9.84,
+    "out_tokens": 723
+   },
+   {
+    "i": 614,
+    "gold": "312",
+    "pred": "312",
+    "right": true,
+    "seconds": 2.98,
+    "out_tokens": 218
+   },
+   {
+    "i": 1075,
+    "gold": "16",
+    "pred": "16",
+    "right": true,
+    "seconds": 6.28,
+    "out_tokens": 467
+   },
+   {
+    "i": 1013,
+    "gold": "2",
+    "pred": "2",
+    "right": true,
+    "seconds": 3.78,
+    "out_tokens": 277
+   },
+   {
+    "i": 703,
+    "gold": "50",
+    "pred": "4",
+    "right": false,
+    "seconds": 4.82,
+    "out_tokens": 356
+   },
+   {
+    "i": 919,
+    "gold": "90",
+    "pred": "90",
+    "right": true,
+    "seconds": 3.24,
+    "out_tokens": 236
+   },
+   {
+    "i": 589,
+    "gold": "15",
+    "pred": "15",
+    "right": true,
+    "seconds": 4.25,
+    "out_tokens": 312
+   },
+   {
+    "i": 1247,
+    "gold": "7",
+    "pred": "7",
+    "right": true,
+    "seconds": 3.17,
+    "out_tokens": 230
+   },
+   {
+    "i": 149,
+    "gold": "16",
+    "pred": "16",
+    "right": true,
+    "seconds": 2.88,
+    "out_tokens": 211
+   },
+   {
+    "i": 1048,
+    "gold": "7400",
+    "pred": "9860.78",
+    "right": false,
+    "seconds": 5.32,
+    "out_tokens": 395
+   },
+   {
+    "i": 337,
+    "gold": "1",
+    "pred": "1",
+    "right": true,
+    "seconds": 2.28,
+    "out_tokens": 166
+   },
+   {
+    "i": 700,
+    "gold": "135",
+    "pred": "135",
+    "right": true,
+    "seconds": 4.48,
+    "out_tokens": 330
+   },
+   {
+    "i": 311,
+    "gold": "91",
+    "pred": "91",
+    "right": true,
+    "seconds": 2.58,
+    "out_tokens": 188
+   },
+   {
+    "i": 1001,
+    "gold": "2",
+    "pred": "200",
+    "right": false,
+    "seconds": 3.52,
+    "out_tokens": 254
+   },
+   {
+    "i": 863,
+    "gold": "110",
+    "pred": "110",
+    "right": true,
+    "seconds": 2.42,
+    "out_tokens": 176
+   },
+   {
+    "i": 80,
+    "gold": "10",
+    "pred": "10",
+    "right": true,
+    "seconds": 2.54,
+    "out_tokens": 185
+   },
+   {
+    "i": 158,
+    "gold": "34",
+    "pred": "34",
+    "right": true,
+    "seconds": 2.71,
+    "out_tokens": 198
+   },
+   {
+    "i": 1142,
+    "gold": "9",
+    "pred": "9",
+    "right": true,
+    "seconds": 2.18,
+    "out_tokens": 156
+   },
+   {
+    "i": 1173,
+    "gold": "10",
+    "pred": "10",
+    "right": true,
+    "seconds": 4.18,
+    "out_tokens": 309
+   },
+   {
+    "i": 642,
+    "gold": "10800",
+    "pred": "10800",
+    "right": true,
+    "seconds": 4.09,
+    "out_tokens": 300
+   },
+   {
+    "i": 696,
+    "gold": "145",
+    "pred": "145",
+    "right": true,
+    "seconds": 6.64,
+    "out_tokens": 488
+   },
+   {
+    "i": 717,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 2.94,
+    "out_tokens": 215
+   },
+   {
+    "i": 1217,
+    "gold": "75",
+    "pred": "75",
+    "right": true,
+    "seconds": 5.73,
+    "out_tokens": 417
+   },
+   {
+    "i": 1017,
+    "gold": "45",
+    "pred": "45",
+    "right": true,
+    "seconds": 7.17,
+    "out_tokens": 533
+   },
+   {
+    "i": 1187,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 4.94,
+    "out_tokens": 365
+   },
+   {
+    "i": 934,
+    "gold": "410",
+    "pred": "410",
+    "right": true,
+    "seconds": 3.58,
+    "out_tokens": 261
+   },
+   {
+    "i": 140,
+    "gold": "20",
+    "pred": "20",
+    "right": true,
+    "seconds": 2.11,
+    "out_tokens": 153
+   },
+   {
+    "i": 191,
+    "gold": "5",
+    "pred": "5",
+    "right": true,
+    "seconds": 2.45,
+    "out_tokens": 179
+   },
+   {
+    "i": 552,
+    "gold": "450",
+    "pred": "450",
+    "right": true,
+    "seconds": 3.72,
+    "out_tokens": 272
+   },
+   {
+    "i": 970,
+    "gold": "33",
+    "pred": "33",
+    "right": true,
+    "seconds": 1.67,
+    "out_tokens": 119
+   },
+   {
+    "i": 133,
+    "gold": "13",
+    "pred": "13",
+    "right": true,
+    "seconds": 2.96,
+    "out_tokens": 217
+   }
+  ]
+ },
+ "mmlu": {
+  "n": 200,
+  "correct": 144,
+  "ci95": [
+   65.4,
+   77.8
+  ],
+  "unparsed": 6,
+  "rows": [
+   {
+    "i": 994,
+    "subject": "college_chemistry",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. 3"
+   },
+   {
+    "i": 11979,
+    "subject": "professional_law",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 11493,
+    "subject": "professional_law",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D. Yes, because the storage of"
+   },
+   {
+    "i": 5072,
+    "subject": "high_school_psychology",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 10602,
+    "subject": "professional_accounting",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. $10,00"
+   },
+   {
+    "i": 9469,
+    "subject": "nutrition",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 11161,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Yes, because the time limit"
+   },
+   {
+    "i": 13466,
+    "subject": "sociology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. socialization"
+   },
+   {
+    "i": 7301,
+    "subject": "medical_genetics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. 19,00"
+   },
+   {
+    "i": 4662,
+    "subject": "high_school_microeconomics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 11741,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "B",
+    "right": false,
+    "reply": "B. The statement should be allowed,"
+   },
+   {
+    "i": 6320,
+    "subject": "human_sexuality",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. Bruce likely participated in more fem"
+   },
+   {
+    "i": 10955,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 5685,
+    "subject": "high_school_us_history",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 369,
+    "subject": "astronomy",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Leo"
+   },
+   {
+    "i": 7564,
+    "subject": "miscellaneous",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Narrative"
+   },
+   {
+    "i": 5823,
+    "subject": "high_school_us_history",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 2753,
+    "subject": "high_school_biology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. meiosis"
+   },
+   {
+    "i": 10009,
+    "subject": "philosophy",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. representational"
+   },
+   {
+    "i": 1918,
+    "subject": "econometrics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. The variables are not coint"
+   },
+   {
+    "i": 8088,
+    "subject": "miscellaneous",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 965,
+    "subject": "college_chemistry",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C. 2.5R"
+   },
+   {
+    "i": 3575,
+    "subject": "high_school_geography",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 12586,
+    "subject": "professional_psychology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. electrolyte imbalance"
+   },
+   {
+    "i": 4709,
+    "subject": "high_school_microeconomics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. a straight diagonal line sloping"
+   },
+   {
+    "i": 2119,
+    "subject": "elementary_mathematics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. divide both sides by 6"
+   },
+   {
+    "i": 12097,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Yes, for the deaths of"
+   },
+   {
+    "i": 4056,
+    "subject": "high_school_macroeconomics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Deposits"
+   },
+   {
+    "i": 6519,
+    "subject": "international_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 6405,
+    "subject": "human_sexuality",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. civilizational collapse and promisc"
+   },
+   {
+    "i": 8134,
+    "subject": "miscellaneous",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. hoot"
+   },
+   {
+    "i": 1320,
+    "subject": "college_medicine",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. phosphocreatine breakdown."
+   },
+   {
+    "i": 2725,
+    "subject": "high_school_biology",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A. Enhancer"
+   },
+   {
+    "i": 7359,
+    "subject": "medical_genetics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 6580,
+    "subject": "jurisprudence",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 9002,
+    "subject": "moral_scenarios",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B. Wrong, Not wrong"
+   },
+   {
+    "i": 4552,
+    "subject": "high_school_microeconomics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 2243,
+    "subject": "elementary_mathematics",
+    "gold": "B",
+    "pred": "",
+    "right": false,
+    "reply": "We are given the expression:\n\n$$"
+   },
+   {
+    "i": 13423,
+    "subject": "sociology",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 7053,
+    "subject": "marketing",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 9014,
+    "subject": "moral_scenarios",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C. Not wrong, Wrong"
+   },
+   {
+    "i": 4561,
+    "subject": "high_school_microeconomics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 11573,
+    "subject": "professional_law",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. the reserved power of the states"
+   },
+   {
+    "i": 6804,
+    "subject": "logical_fallacies",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 5878,
+    "subject": "high_school_world_history",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 11185,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A. nothing, because the buyer never"
+   },
+   {
+    "i": 6233,
+    "subject": "human_aging",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 3780,
+    "subject": "high_school_government_and_politics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 2472,
+    "subject": "formal_logic",
+    "gold": "A",
+    "pred": "C",
+    "right": false,
+    "reply": "C. Invalid. Counterexample when E"
+   },
+   {
+    "i": 1359,
+    "subject": "college_medicine",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 2887,
+    "subject": "high_school_biology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 2478,
+    "subject": "formal_logic",
+    "gold": "C",
+    "pred": "",
+    "right": false,
+    "reply": "Let's analyze the argument using **ind"
+   },
+   {
+    "i": 3800,
+    "subject": "high_school_government_and_politics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 10789,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. The seller is entitled to $"
+   },
+   {
+    "i": 3822,
+    "subject": "high_school_government_and_politics",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 197,
+    "subject": "anatomy",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 7945,
+    "subject": "miscellaneous",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 13616,
+    "subject": "us_foreign_policy",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. It was the first war won"
+   },
+   {
+    "i": 9652,
+    "subject": "nutrition",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 2987,
+    "subject": "high_school_chemistry",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 4304,
+    "subject": "high_school_mathematics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 4619,
+    "subject": "high_school_microeconomics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. price elasticity of demand is highly"
+   },
+   {
+    "i": 67,
+    "subject": "abstract_algebra",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 2386,
+    "subject": "elementary_mathematics",
+    "gold": "B",
+    "pred": "C",
+    "right": false,
+    "reply": "C. nothing because the portions each cla"
+   },
+   {
+    "i": 6864,
+    "subject": "machine_learning",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D. All of the above"
+   },
+   {
+    "i": 8758,
+    "subject": "moral_scenarios",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. Wrong, Not wrong"
+   },
+   {
+    "i": 6049,
+    "subject": "high_school_world_history",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 9991,
+    "subject": "philosophy",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. substance dualism"
+   },
+   {
+    "i": 9278,
+    "subject": "moral_scenarios",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. Wrong, Not wrong"
+   },
+   {
+    "i": 5220,
+    "subject": "high_school_psychology",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. set point theory"
+   },
+   {
+    "i": 2056,
+    "subject": "electrical_engineering",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. tetravalant"
+   },
+   {
+    "i": 11313,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B. recover, because she would not"
+   },
+   {
+    "i": 8445,
+    "subject": "moral_disputes",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C. both causal and expressive harm"
+   },
+   {
+    "i": 10118,
+    "subject": "prehistory",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 10730,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Yes, because the shutters"
+   },
+   {
+    "i": 11078,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 12120,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 884,
+    "subject": "college_biology",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 7481,
+    "subject": "miscellaneous",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. from many one"
+   },
+   {
+    "i": 12779,
+    "subject": "professional_psychology",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 11150,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 13072,
+    "subject": "public_relations",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. Event"
+   },
+   {
+    "i": 9163,
+    "subject": "moral_scenarios",
+    "gold": "A",
+    "pred": "C",
+    "right": false,
+    "reply": "C. Not wrong, Wrong"
+   },
+   {
+    "i": 6428,
+    "subject": "human_sexuality",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. a and b"
+   },
+   {
+    "i": 6521,
+    "subject": "international_law",
+    "gold": "A",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 6536,
+    "subject": "international_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 6457,
+    "subject": "international_law",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D"
+   },
+   {
+    "i": 1696,
+    "subject": "conceptual_physics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. All of these"
+   },
+   {
+    "i": 7889,
+    "subject": "miscellaneous",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B. May"
+   },
+   {
+    "i": 10392,
+    "subject": "professional_accounting",
+    "gold": "A",
+    "pred": "D",
+    "right": false,
+    "reply": "D. July."
+   },
+   {
+    "i": 6560,
+    "subject": "international_law",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Yes, article 10"
+   },
+   {
+    "i": 1019,
+    "subject": "college_computer_science",
+    "gold": "A",
+    "pred": "B",
+    "right": false,
+    "reply": "B. K-1/K"
+   },
+   {
+    "i": 3122,
+    "subject": "high_school_chemistry",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. 1 and 2 because"
+   },
+   {
+    "i": 1103,
+    "subject": "college_mathematics",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D. 50%"
+   },
+   {
+    "i": 3420,
+    "subject": "high_school_european_history",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. France"
+   },
+   {
+    "i": 7219,
+    "subject": "marketing",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Strategic marketing."
+   },
+   {
+    "i": 2659,
+    "subject": "global_facts",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B. Russia"
+   },
+   {
+    "i": 1801,
+    "subject": "conceptual_physics",
+    "gold": "B",
+    "pred": "C",
+    "right": false,
+    "reply": "C. remains largely unchanged."
+   },
+   {
+    "i": 5571,
+    "subject": "high_school_statistics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 9842,
+    "subject": "philosophy",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. quality."
+   },
+   {
+    "i": 861,
+    "subject": "college_biology",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. High parental investment"
+   },
+   {
+    "i": 1677,
+    "subject": "conceptual_physics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. None of these"
+   },
+   {
+    "i": 3,
+    "subject": "abstract_algebra",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D. False, True"
+   },
+   {
+    "i": 9286,
+    "subject": "moral_scenarios",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B. Wrong, Not wrong"
+   },
+   {
+    "i": 8791,
+    "subject": "moral_scenarios",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. Wrong, Not wrong"
+   },
+   {
+    "i": 1662,
+    "subject": "conceptual_physics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. are included in the wire"
+   },
+   {
+    "i": 5957,
+    "subject": "high_school_world_history",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 10055,
+    "subject": "prehistory",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. was crippled by a volcanic eruption"
+   },
+   {
+    "i": 417,
+    "subject": "business_ethics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 1152,
+    "subject": "college_mathematics",
+    "gold": "B",
+    "pred": "",
+    "right": false,
+    "reply": "We are given:\n\n- $ V $"
+   },
+   {
+    "i": 3407,
+    "subject": "high_school_european_history",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. mercantilism"
+   },
+   {
+    "i": 10060,
+    "subject": "prehistory",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. prognathous"
+   },
+   {
+    "i": 6164,
+    "subject": "human_aging",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Typically less successful"
+   },
+   {
+    "i": 2433,
+    "subject": "elementary_mathematics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 10394,
+    "subject": "professional_accounting",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. Zero."
+   },
+   {
+    "i": 4132,
+    "subject": "high_school_macroeconomics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. $3,000"
+   },
+   {
+    "i": 5691,
+    "subject": "high_school_us_history",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 9867,
+    "subject": "philosophy",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 5966,
+    "subject": "high_school_world_history",
+    "gold": "A",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 7768,
+    "subject": "miscellaneous",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Sensation'"
+   },
+   {
+    "i": 2012,
+    "subject": "electrical_engineering",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D. infinity."
+   },
+   {
+    "i": 1889,
+    "subject": "econometrics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 13908,
+    "subject": "world_religions",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. Rabi'a"
+   },
+   {
+    "i": 7996,
+    "subject": "miscellaneous",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. Eros"
+   },
+   {
+    "i": 7634,
+    "subject": "miscellaneous",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. OverCat"
+   },
+   {
+    "i": 7870,
+    "subject": "miscellaneous",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. eye"
+   },
+   {
+    "i": 7927,
+    "subject": "miscellaneous",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. potato"
+   },
+   {
+    "i": 5109,
+    "subject": "high_school_psychology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. generalization"
+   },
+   {
+    "i": 1407,
+    "subject": "college_physics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 2361,
+    "subject": "elementary_mathematics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. 11^8"
+   },
+   {
+    "i": 1674,
+    "subject": "conceptual_physics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. 20 years."
+   },
+   {
+    "i": 12282,
+    "subject": "professional_medicine",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Statistically significant overall inc"
+   },
+   {
+    "i": 5613,
+    "subject": "high_school_statistics",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 12129,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "C",
+    "right": false,
+    "reply": "C. The performances of the homeowner and"
+   },
+   {
+    "i": 4337,
+    "subject": "high_school_mathematics",
+    "gold": "D",
+    "pred": "",
+    "right": false,
+    "reply": "We are given the repeating decimal $"
+   },
+   {
+    "i": 7841,
+    "subject": "miscellaneous",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. print lock"
+   },
+   {
+    "i": 13579,
+    "subject": "sociology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 11338,
+    "subject": "professional_law",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. recover, because the businessman is"
+   },
+   {
+    "i": 2645,
+    "subject": "global_facts",
+    "gold": "C",
+    "pred": "B",
+    "right": false,
+    "reply": "B. 2%"
+   },
+   {
+    "i": 8459,
+    "subject": "moral_disputes",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 378,
+    "subject": "astronomy",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 3362,
+    "subject": "high_school_european_history",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. an inevitable result of fundamental e"
+   },
+   {
+    "i": 8654,
+    "subject": "moral_scenarios",
+    "gold": "A",
+    "pred": "B",
+    "right": false,
+    "reply": "B. Wrong, Not wrong"
+   },
+   {
+    "i": 5926,
+    "subject": "high_school_world_history",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 2401,
+    "subject": "elementary_mathematics",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. Quadrant II"
+   },
+   {
+    "i": 11306,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Compensatory"
+   },
+   {
+    "i": 8899,
+    "subject": "moral_scenarios",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Not wrong, Wrong"
+   },
+   {
+    "i": 443,
+    "subject": "business_ethics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Corporate political activity, Lobbyin"
+   },
+   {
+    "i": 12421,
+    "subject": "professional_medicine",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Treat the symptoms"
+   },
+   {
+    "i": 8652,
+    "subject": "moral_scenarios",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Not wrong, Wrong"
+   },
+   {
+    "i": 4883,
+    "subject": "high_school_physics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. The acceleration of the balls varies"
+   },
+   {
+    "i": 10533,
+    "subject": "professional_accounting",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. Theory of constraints."
+   },
+   {
+    "i": 1491,
+    "subject": "computer_security",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 11406,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D. The contract is voidable at"
+   },
+   {
+    "i": 13851,
+    "subject": "virology",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 4278,
+    "subject": "high_school_mathematics",
+    "gold": "D",
+    "pred": "",
+    "right": false,
+    "reply": "We are told that Mrs. Busywork"
+   },
+   {
+    "i": 8493,
+    "subject": "moral_disputes",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D. reinforces gender roles."
+   },
+   {
+    "i": 6008,
+    "subject": "high_school_world_history",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. religious regulation of personal beha"
+   },
+   {
+    "i": 2736,
+    "subject": "high_school_biology",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Smaller cells have a larger"
+   },
+   {
+    "i": 5827,
+    "subject": "high_school_us_history",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 12647,
+    "subject": "professional_psychology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 3650,
+    "subject": "high_school_government_and_politics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 8725,
+    "subject": "moral_scenarios",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. Wrong, Not wrong"
+   },
+   {
+    "i": 8873,
+    "subject": "moral_scenarios",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C. Not wrong, Wrong"
+   },
+   {
+    "i": 12764,
+    "subject": "professional_psychology",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B"
+   },
+   {
+    "i": 8236,
+    "subject": "moral_disputes",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 5401,
+    "subject": "high_school_psychology",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D. a multiple approach-avoidance"
+   },
+   {
+    "i": 10427,
+    "subject": "professional_accounting",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 3654,
+    "subject": "high_school_government_and_politics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Judicial review"
+   },
+   {
+    "i": 10047,
+    "subject": "prehistory",
+    "gold": "D",
+    "pred": "B",
+    "right": false,
+    "reply": "B. trowels"
+   },
+   {
+    "i": 13295,
+    "subject": "security_studies",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 12917,
+    "subject": "professional_psychology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. allow the student to withdraw from"
+   },
+   {
+    "i": 12424,
+    "subject": "professional_medicine",
+    "gold": "D",
+    "pred": "C",
+    "right": false,
+    "reply": "C. beneficence overrides autonomy"
+   },
+   {
+    "i": 13969,
+    "subject": "world_religions",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. 3–6 a.m"
+   },
+   {
+    "i": 3197,
+    "subject": "high_school_computer_science",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 13206,
+    "subject": "security_studies",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 3922,
+    "subject": "high_school_macroeconomics",
+    "gold": "B",
+    "pred": "D",
+    "right": false,
+    "reply": "D. Net exports fall and there is"
+   },
+   {
+    "i": 13407,
+    "subject": "sociology",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 6564,
+    "subject": "jurisprudence",
+    "gold": "D",
+    "pred": "A",
+    "right": false,
+    "reply": "A"
+   },
+   {
+    "i": 12122,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. No, the Court applied the"
+   },
+   {
+    "i": 13161,
+    "subject": "security_studies",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 3714,
+    "subject": "high_school_government_and_politics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. Entitlement programs"
+   },
+   {
+    "i": 3275,
+    "subject": "high_school_computer_science",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. During run time"
+   },
+   {
+    "i": 8480,
+    "subject": "moral_disputes",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. an action Mary performed."
+   },
+   {
+    "i": 8073,
+    "subject": "miscellaneous",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B. chicken"
+   },
+   {
+    "i": 5825,
+    "subject": "high_school_us_history",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A"
+   },
+   {
+    "i": 11976,
+    "subject": "professional_law",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. Yes, because the usage of"
+   },
+   {
+    "i": 474,
+    "subject": "business_ethics",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. Supermarket industry"
+   },
+   {
+    "i": 457,
+    "subject": "business_ethics",
+    "gold": "B",
+    "pred": "C",
+    "right": false,
+    "reply": "C"
+   },
+   {
+    "i": 12945,
+    "subject": "professional_psychology",
+    "gold": "A",
+    "pred": "B",
+    "right": false,
+    "reply": "B. CS"
+   },
+   {
+    "i": 4577,
+    "subject": "high_school_microeconomics",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 7737,
+    "subject": "miscellaneous",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. radishes"
+   },
+   {
+    "i": 4246,
+    "subject": "high_school_mathematics",
+    "gold": "A",
+    "pred": "",
+    "right": false,
+    "reply": "We are given a function:\n\n$$"
+   },
+   {
+    "i": 3172,
+    "subject": "high_school_chemistry",
+    "gold": "A",
+    "pred": "A",
+    "right": true,
+    "reply": "A. LiOH(aq)"
+   },
+   {
+    "i": 11346,
+    "subject": "professional_law",
+    "gold": "B",
+    "pred": "B",
+    "right": true,
+    "reply": "B"
+   },
+   {
+    "i": 9914,
+    "subject": "philosophy",
+    "gold": "C",
+    "pred": "D",
+    "right": false,
+    "reply": "D. Immanuel Kant."
+   },
+   {
+    "i": 5640,
+    "subject": "high_school_statistics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D. 423"
+   },
+   {
+    "i": 7327,
+    "subject": "medical_genetics",
+    "gold": "D",
+    "pred": "D",
+    "right": true,
+    "reply": "D"
+   },
+   {
+    "i": 13247,
+    "subject": "security_studies",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C"
+   },
+   {
+    "i": 11847,
+    "subject": "professional_law",
+    "gold": "C",
+    "pred": "C",
+    "right": true,
+    "reply": "C. The contract price was $4"
+   }
+  ]
+ },
+ "dated_abstain": {
+  "rows": [
+   {
+    "id": "a1",
+    "date": "2022-12-18",
+    "group": "anchor",
+    "q": "Which country won the 2022 FIFA World Cup?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2022 FIFA World Cup.",
+    "status": "correct"
+   },
+   {
+    "id": "a2",
+    "date": "2023-10-28",
+    "group": "anchor",
+    "q": "Which country won the 2023 Rugby World Cup final?",
+    "gold": "south africa",
+    "answer": "New Zealand won the 2023 Rugby World Cup final.",
+    "status": "wrong"
+   },
+   {
+    "id": "a3",
+    "date": "2023-03-14",
+    "group": "anchor",
+    "q": "Which company released GPT-4 in March 2023?",
+    "gold": "openai",
+    "answer": "OpenAI released GPT-4 in March 2023.",
+    "status": "correct"
+   },
+   {
+    "id": "b1",
+    "date": "2024-02-11",
+    "group": "before Sep 2024",
+    "q": "Which team won Super Bowl LVIII in February 2024?",
+    "gold": "chiefs|kansas city",
+    "answer": "The Kansas City Chiefs won Super Bowl LVIII in February 2024.",
+    "status": "correct"
+   },
+   {
+    "id": "b2",
+    "date": "2024-03-10",
+    "group": "before Sep 2024",
+    "q": "Which film won the Academy Award for Best Picture at the ceremony held in March 2024?",
+    "gold": "oppenheimer",
+    "answer": "The film *Everything Everywhere All At Once* won the Academy Award for Best Picture at the ceremony held in March 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b3",
+    "date": "2024-04-08",
+    "group": "before Sep 2024",
+    "q": "Which university won the 2024 NCAA men's basketball national championship?",
+    "gold": "uconn|connecticut",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b4",
+    "date": "2024-05-11",
+    "group": "before Sep 2024",
+    "q": "Which country won the Eurovision Song Contest in May 2024?",
+    "gold": "switzerland",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b5",
+    "date": "2024-06-10",
+    "group": "before Sep 2024",
+    "q": "What name did Apple give to macOS 15 when it announced it at WWDC in June 2024?",
+    "gold": "sequoia",
+    "answer": "Apple named macOS 15 \"Sonoma\" when it announced it at WWDC in June 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b6",
+    "date": "2024-06-17",
+    "group": "before Sep 2024",
+    "q": "Which team won the 2024 NBA Finals?",
+    "gold": "celtics|boston",
+    "answer": "The Denver Nuggets won the 2024 NBA Finals.",
+    "status": "wrong"
+   },
+   {
+    "id": "b7",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the men's UEFA Euro 2024 football tournament?",
+    "gold": "spain",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b8",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the 2024 Copa América?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2024 Copa América.",
+    "status": "correct"
+   },
+   {
+    "id": "b9",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Who won the men's singles title at Wimbledon in 2024?",
+    "gold": "alcaraz",
+    "answer": "Novak Djokovic won the men's singles title at Wimbledon in 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b10",
+    "date": "2024-07-21",
+    "group": "before Sep 2024",
+    "q": "Which US president announced in July 2024 that he would not seek re-election?",
+    "gold": "biden",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "b11",
+    "date": "2024-08-04",
+    "group": "before Sep 2024",
+    "q": "Who won the men's 100 metres at the 2024 Paris Olympics?",
+    "gold": "lyles",
+    "answer": "The men's 100 metres at the 2024 Paris Olympics was won by Fred Kerley of the United States.",
+    "status": "wrong"
+   },
+   {
+    "id": "c1",
+    "date": "2024-09-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2024 US Open tennis tournament?",
+    "gold": "sinner",
+    "answer": "Novak Djokovic won the men's singles title at the 2024 US Open tennis tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "c2",
+    "date": "2024-09-09",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which chip powers the iPhone 16?",
+    "gold": "a18",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "c3",
+    "date": "2024-10-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who shared the 2024 Nobel Prize in Physics with John Hopfield?",
+    "gold": "hinton",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "c4",
+    "date": "2024-10-30",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which team won the 2024 World Series in baseball?",
+    "gold": "dodgers",
+    "answer": "The Houston Astros won the 2024 World Series in baseball.",
+    "status": "wrong"
+   },
+   {
+    "id": "c5",
+    "date": "2024-11-05",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 United States presidential election?",
+    "gold": "trump",
+    "answer": "As of now, the 2024 United States presidential election has not yet taken place, so no winner has been determined.",
+    "status": "wrong"
+   },
+   {
+    "id": "c6",
+    "date": "2024-11-23",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 Formula 1 drivers' championship?",
+    "gold": "verstappen",
+    "answer": "Max Verstappen won the 2024 Formula 1 drivers' championship.",
+    "status": "correct"
+   },
+   {
+    "id": "d1",
+    "date": "2025-01-26",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2025 Australian Open?",
+    "gold": "sinner",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d2",
+    "date": "2025-02-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won Super Bowl LIX in February 2025?",
+    "gold": "eagles|philadelphia",
+    "answer": "Super Bowl LIX was not played in February 2025; it took place on February 7, 2025, and the Kansas City Chiefs won against the Philadelphia Eagles.",
+    "status": "correct"
+   },
+   {
+    "id": "d3",
+    "date": "2025-03-02",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which film won the Academy Award for Best Picture at the March 2025 ceremony?",
+    "gold": "anora",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d4",
+    "date": "2025-04-13",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the 2025 Masters golf tournament?",
+    "gold": "mcilroy",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d5",
+    "date": "2025-05-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who was elected pope in May 2025?",
+    "gold": "leo|prevost",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d6",
+    "date": "2025-06-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the men's singles title at the 2025 French Open?",
+    "gold": "alcaraz",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d7",
+    "date": "2025-06-22",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won the 2025 NBA Finals?",
+    "gold": "thunder|oklahoma",
+    "answer": "I do not know.",
+    "status": "abstain"
+   },
+   {
+    "id": "d8",
+    "date": "2025-06-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "What name did Apple give to its new software design language at WWDC in June 2025?",
+    "gold": "liquid glass",
+    "answer": "I do not know.",
+    "status": "abstain"
+   }
+  ]
+ },
+ "dated_guess": {
+  "rows": [
+   {
+    "id": "a1",
+    "date": "2022-12-18",
+    "group": "anchor",
+    "q": "Which country won the 2022 FIFA World Cup?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2022 FIFA World Cup.",
+    "status": "correct"
+   },
+   {
+    "id": "a2",
+    "date": "2023-10-28",
+    "group": "anchor",
+    "q": "Which country won the 2023 Rugby World Cup final?",
+    "gold": "south africa",
+    "answer": "New Zealand won the 2023 Rugby World Cup final.",
+    "status": "wrong"
+   },
+   {
+    "id": "a3",
+    "date": "2023-03-14",
+    "group": "anchor",
+    "q": "Which company released GPT-4 in March 2023?",
+    "gold": "openai",
+    "answer": "OpenAI released GPT-4 in March 2023.",
+    "status": "correct"
+   },
+   {
+    "id": "b1",
+    "date": "2024-02-11",
+    "group": "before Sep 2024",
+    "q": "Which team won Super Bowl LVIII in February 2024?",
+    "gold": "chiefs|kansas city",
+    "answer": "The Kansas City Chiefs won Super Bowl LVIII in February 2024, defeating the Philadelphia Eagles 38–35.",
+    "status": "correct"
+   },
+   {
+    "id": "b2",
+    "date": "2024-03-10",
+    "group": "before Sep 2024",
+    "q": "Which film won the Academy Award for Best Picture at the ceremony held in March 2024?",
+    "gold": "oppenheimer",
+    "answer": "The film *Everything Everywhere All At Once* won the Academy Award for Best Picture at the ceremony held in March 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b3",
+    "date": "2024-04-08",
+    "group": "before Sep 2024",
+    "q": "Which university won the 2024 NCAA men's basketball national championship?",
+    "gold": "uconn|connecticut",
+    "answer": "The University of Texas won the 2024 NCAA men's basketball national championship.",
+    "status": "wrong"
+   },
+   {
+    "id": "b4",
+    "date": "2024-05-11",
+    "group": "before Sep 2024",
+    "q": "Which country won the Eurovision Song Contest in May 2024?",
+    "gold": "switzerland",
+    "answer": "Sweden won the Eurovision Song Contest in May 2024 with the song \"Tattoo\" by Loreen.",
+    "status": "wrong"
+   },
+   {
+    "id": "b5",
+    "date": "2024-06-10",
+    "group": "before Sep 2024",
+    "q": "What name did Apple give to macOS 15 when it announced it at WWDC in June 2024?",
+    "gold": "sequoia",
+    "answer": "Apple named macOS 15 \"Sonoma\" when it announced it at WWDC in June 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b6",
+    "date": "2024-06-17",
+    "group": "before Sep 2024",
+    "q": "Which team won the 2024 NBA Finals?",
+    "gold": "celtics|boston",
+    "answer": "The Denver Nuggets won the 2024 NBA Finals, defeating the Boston Celtics in six games.",
+    "status": "correct"
+   },
+   {
+    "id": "b7",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the men's UEFA Euro 2024 football tournament?",
+    "gold": "spain",
+    "answer": "Germany won the men's UEFA Euro 2024 football tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "b8",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Which country won the 2024 Copa América?",
+    "gold": "argentina",
+    "answer": "Argentina won the 2024 Copa América.",
+    "status": "correct"
+   },
+   {
+    "id": "b9",
+    "date": "2024-07-14",
+    "group": "before Sep 2024",
+    "q": "Who won the men's singles title at Wimbledon in 2024?",
+    "gold": "alcaraz",
+    "answer": "Novak Djokovic won the men's singles title at Wimbledon in 2024.",
+    "status": "wrong"
+   },
+   {
+    "id": "b10",
+    "date": "2024-07-21",
+    "group": "before Sep 2024",
+    "q": "Which US president announced in July 2024 that he would not seek re-election?",
+    "gold": "biden",
+    "answer": "As of now, no U.S. president has announced in July 2024 that they would not seek re-election.",
+    "status": "wrong"
+   },
+   {
+    "id": "b11",
+    "date": "2024-08-04",
+    "group": "before Sep 2024",
+    "q": "Who won the men's 100 metres at the 2024 Paris Olympics?",
+    "gold": "lyles",
+    "answer": "Fred Kerley won the men's 100 metres at the 2024 Paris Olympics.",
+    "status": "wrong"
+   },
+   {
+    "id": "c1",
+    "date": "2024-09-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2024 US Open tennis tournament?",
+    "gold": "sinner",
+    "answer": "Novak Djokovic won the men's singles title at the 2024 US Open tennis tournament.",
+    "status": "wrong"
+   },
+   {
+    "id": "c2",
+    "date": "2024-09-09",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which chip powers the iPhone 16?",
+    "gold": "a18",
+    "answer": "As of now, there is no official information about the iPhone 16, so the specific chip powering it has not been revealed.",
+    "status": "wrong"
+   },
+   {
+    "id": "c3",
+    "date": "2024-10-08",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who shared the 2024 Nobel Prize in Physics with John Hopfield?",
+    "gold": "hinton",
+    "answer": "John Hopfield shared the 2024 Nobel Prize in Physics with Geoffrey Hinton.",
+    "status": "correct"
+   },
+   {
+    "id": "c4",
+    "date": "2024-10-30",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Which team won the 2024 World Series in baseball?",
+    "gold": "dodgers",
+    "answer": "The Houston Astros won the 2024 World Series in baseball.",
+    "status": "wrong"
+   },
+   {
+    "id": "c5",
+    "date": "2024-11-05",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 United States presidential election?",
+    "gold": "trump",
+    "answer": "As of now, the 2024 United States presidential election has not yet taken place, so no winner has been determined.",
+    "status": "wrong"
+   },
+   {
+    "id": "c6",
+    "date": "2024-11-23",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the 2024 Formula 1 drivers' championship?",
+    "gold": "verstappen",
+    "answer": "Max Verstappen won the 2024 Formula 1 drivers' championship.",
+    "status": "correct"
+   },
+   {
+    "id": "d1",
+    "date": "2025-01-26",
+    "group": "Sep 2024 to Jan 2025",
+    "q": "Who won the men's singles title at the 2025 Australian Open?",
+    "gold": "sinner",
+    "answer": "As of now, the 2025 Australian Open has not taken place, so no men's singles champion has been determined.",
+    "status": "wrong"
+   },
+   {
+    "id": "d2",
+    "date": "2025-02-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won Super Bowl LIX in February 2025?",
+    "gold": "eagles|philadelphia",
+    "answer": "As of now, Super Bowl LIX has not taken place in February 2025, as it is scheduled for February 2025, and the game will be played in the winter of 2025. However",
+    "status": "wrong"
+   },
+   {
+    "id": "d3",
+    "date": "2025-03-02",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which film won the Academy Award for Best Picture at the March 2025 ceremony?",
+    "gold": "anora",
+    "answer": "As of now, there is no March 2025 Academy Awards ceremony, as the 97th Academy Awards are scheduled for February 2025, and the results have not been announced y",
+    "status": "wrong"
+   },
+   {
+    "id": "d4",
+    "date": "2025-04-13",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the 2025 Masters golf tournament?",
+    "gold": "mcilroy",
+    "answer": "As of now, the 2025 Masters golf tournament has not taken place, so no winner has been determined.",
+    "status": "wrong"
+   },
+   {
+    "id": "d5",
+    "date": "2025-05-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who was elected pope in May 2025?",
+    "gold": "leo|prevost",
+    "answer": "As of now, no pope has been elected in May 2025, as the papacy has not yet had a conclave or election in that month. The current pope is Pope Francis, who was e",
+    "status": "wrong"
+   },
+   {
+    "id": "d6",
+    "date": "2025-06-08",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Who won the men's singles title at the 2025 French Open?",
+    "gold": "alcaraz",
+    "answer": "As of now, the 2025 French Open has not taken place, so no men's singles champion has been determined.",
+    "status": "wrong"
+   },
+   {
+    "id": "d7",
+    "date": "2025-06-22",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "Which team won the 2025 NBA Finals?",
+    "gold": "thunder|oklahoma",
+    "answer": "The 2025 NBA Finals have not yet occurred, so no team has won it yet.",
+    "status": "wrong"
+   },
+   {
+    "id": "d8",
+    "date": "2025-06-09",
+    "group": "Feb 2025 to Jun 2025",
+    "q": "What name did Apple give to its new software design language at WWDC in June 2025?",
+    "gold": "liquid glass",
+    "answer": "As of now, there is no official information confirming that Apple introduced a new software design language at WWDC in June 2025. Therefore, Apple did not give ",
+    "status": "wrong"
+   }
+  ]
+ },
+ "total_seconds": 429
+}

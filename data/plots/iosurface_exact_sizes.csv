@@ -1,0 +1,11 @@
+bytes,mib,snapshots_seen,divisible_by_8192_tokens,bytes_per_token_at_8192,bytes_per_token_at_512
+293601280,280.0,during,1,35840,573440
+201326592,192.0,after+during+idle,1,24576,393216
+55469670,52.9,after+during+idle,0,,
+33554432,32.0,during+idle,1,4096,65536
+25165824,24.0,during+idle,1,3072,49152
+20761804,19.8,during+idle,0,,
+18350080,17.5,during+idle,1,2240,35840
+12792627,12.2,during+idle,0,,
+9240576,8.812,during+idle,1,1128,18048
+1048576,1.0,during+idle,1,128,2048

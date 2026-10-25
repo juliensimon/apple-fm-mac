@@ -1,0 +1,7 @@
+setting,runs,distinct_outputs
+default,8,7
+temperature 0,8,1
+temperature 1,8,7
+"temperature 1, seeds 1..8",8,8
+"temperature 1, seed 3 repeated",4,1
+"default, seed 3 repeated",4,1

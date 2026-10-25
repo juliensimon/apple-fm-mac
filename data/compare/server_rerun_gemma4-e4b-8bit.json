@@ -1,0 +1,2724 @@
+{
+ "repo": "mlx-community/gemma-4-e4b-it-8bit",
+ "slug": "gemma4-e4b-8bit",
+ "date": "2026-10-24",
+ "api": "mlx_lm.server /v1/chat/completions, client as evals.py",
+ "gsm8k": [
+  {
+   "i": 663,
+   "gold": "193",
+   "pred": "193",
+   "right": true,
+   "seconds": 6.86,
+   "out_tokens": 238,
+   "error": null
+  },
+  {
+   "i": 308,
+   "gold": "6",
+   "pred": "6",
+   "right": true,
+   "seconds": 4.46,
+   "out_tokens": 225,
+   "error": null
+  },
+  {
+   "i": 808,
+   "gold": "12",
+   "pred": "12",
+   "right": true,
+   "seconds": 6.78,
+   "out_tokens": 347,
+   "error": null
+  },
+  {
+   "i": 98,
+   "gold": "5",
+   "pred": "5",
+   "right": true,
+   "seconds": 7.37,
+   "out_tokens": 381,
+   "error": null
+  },
+  {
+   "i": 148,
+   "gold": "30",
+   "pred": "30",
+   "right": true,
+   "seconds": 3.91,
+   "out_tokens": 201,
+   "error": null
+  },
+  {
+   "i": 1097,
+   "gold": "480",
+   "pred": "480",
+   "right": true,
+   "seconds": 6.49,
+   "out_tokens": 340,
+   "error": null
+  },
+  {
+   "i": 192,
+   "gold": "91",
+   "pred": "91",
+   "right": true,
+   "seconds": 5.48,
+   "out_tokens": 291,
+   "error": null
+  },
+  {
+   "i": 748,
+   "gold": "336",
+   "pred": "336",
+   "right": true,
+   "seconds": 4.88,
+   "out_tokens": 259,
+   "error": null
+  },
+  {
+   "i": 1193,
+   "gold": "9",
+   "pred": "9.00",
+   "right": true,
+   "seconds": 7.16,
+   "out_tokens": 379,
+   "error": null
+  },
+  {
+   "i": 118,
+   "gold": "4",
+   "pred": "4",
+   "right": true,
+   "seconds": 4.81,
+   "out_tokens": 254,
+   "error": null
+  },
+  {
+   "i": 1039,
+   "gold": "160",
+   "pred": "160",
+   "right": true,
+   "seconds": 7.67,
+   "out_tokens": 405,
+   "error": null
+  },
+  {
+   "i": 439,
+   "gold": "17",
+   "pred": "17",
+   "right": true,
+   "seconds": 12.85,
+   "out_tokens": 659,
+   "error": null
+  },
+  {
+   "i": 76,
+   "gold": "5",
+   "pred": "5",
+   "right": true,
+   "seconds": 8.36,
+   "out_tokens": 429,
+   "error": null
+  },
+  {
+   "i": 176,
+   "gold": "100",
+   "pred": "100",
+   "right": true,
+   "seconds": 3.43,
+   "out_tokens": 177,
+   "error": null
+  },
+  {
+   "i": 888,
+   "gold": "10",
+   "pred": "6",
+   "right": false,
+   "seconds": 2.79,
+   "out_tokens": 143,
+   "error": null
+  },
+  {
+   "i": 856,
+   "gold": "7",
+   "pred": "7",
+   "right": true,
+   "seconds": 6.73,
+   "out_tokens": 347,
+   "error": null
+  },
+  {
+   "i": 143,
+   "gold": "16",
+   "pred": "16.00",
+   "right": true,
+   "seconds": 6.15,
+   "out_tokens": 316,
+   "error": null
+  },
+  {
+   "i": 492,
+   "gold": "32",
+   "pred": "32",
+   "right": true,
+   "seconds": 3.92,
+   "out_tokens": 202,
+   "error": null
+  },
+  {
+   "i": 185,
+   "gold": "30",
+   "pred": "30",
+   "right": true,
+   "seconds": 3.9,
+   "out_tokens": 201,
+   "error": null
+  },
+  {
+   "i": 1128,
+   "gold": "9",
+   "pred": "9",
+   "right": true,
+   "seconds": 7.2,
+   "out_tokens": 377,
+   "error": null
+  },
+  {
+   "i": 869,
+   "gold": "500",
+   "pred": "500",
+   "right": true,
+   "seconds": 2.81,
+   "out_tokens": 148,
+   "error": null
+  },
+  {
+   "i": 121,
+   "gold": "27",
+   "pred": "27",
+   "right": true,
+   "seconds": 6.88,
+   "out_tokens": 363,
+   "error": null
+  },
+  {
+   "i": 1158,
+   "gold": "7300",
+   "pred": "7300",
+   "right": true,
+   "seconds": 6.37,
+   "out_tokens": 334,
+   "error": null
+  },
+  {
+   "i": 253,
+   "gold": "18",
+   "pred": "18",
+   "right": true,
+   "seconds": 3.85,
+   "out_tokens": 198,
+   "error": null
+  },
+  {
+   "i": 457,
+   "gold": "45",
+   "pred": "45",
+   "right": true,
+   "seconds": 3.93,
+   "out_tokens": 203,
+   "error": null
+  },
+  {
+   "i": 1291,
+   "gold": "27",
+   "pred": "27",
+   "right": true,
+   "seconds": 3.83,
+   "out_tokens": 198,
+   "error": null
+  },
+  {
+   "i": 1284,
+   "gold": "25",
+   "pred": "25",
+   "right": true,
+   "seconds": 5.71,
+   "out_tokens": 292,
+   "error": null
+  },
+  {
+   "i": 126,
+   "gold": "82",
+   "pred": "82",
+   "right": true,
+   "seconds": 3.21,
+   "out_tokens": 165,
+   "error": null
+  },
+  {
+   "i": 1181,
+   "gold": "20",
+   "pred": "20",
+   "right": true,
+   "seconds": 12.4,
+   "out_tokens": 639,
+   "error": null
+  },
+  {
+   "i": 1199,
+   "gold": "2",
+   "pred": "2",
+   "right": true,
+   "seconds": 5.78,
+   "out_tokens": 291,
+   "error": null
+  },
+  {
+   "i": 812,
+   "gold": "79",
+   "pred": "79",
+   "right": true,
+   "seconds": 11.67,
+   "out_tokens": 587,
+   "error": null
+  },
+  {
+   "i": 101,
+   "gold": "6",
+   "pred": "6",
+   "right": true,
+   "seconds": 5.5,
+   "out_tokens": 289,
+   "error": null
+  },
+  {
+   "i": 452,
+   "gold": "50",
+   "pred": "50",
+   "right": true,
+   "seconds": 8.81,
+   "out_tokens": 460,
+   "error": null
+  },
+  {
+   "i": 95,
+   "gold": "40",
+   "pred": "40",
+   "right": true,
+   "seconds": 8.57,
+   "out_tokens": 445,
+   "error": null
+  },
+  {
+   "i": 1140,
+   "gold": "27",
+   "pred": "27",
+   "right": true,
+   "seconds": 8.4,
+   "out_tokens": 443,
+   "error": null
+  },
+  {
+   "i": 272,
+   "gold": "5",
+   "pred": "5.00",
+   "right": true,
+   "seconds": 4.65,
+   "out_tokens": 242,
+   "error": null
+  },
+  {
+   "i": 593,
+   "gold": "3",
+   "pred": "3",
+   "right": true,
+   "seconds": 10.77,
+   "out_tokens": 556,
+   "error": null
+  },
+  {
+   "i": 858,
+   "gold": "3430",
+   "pred": "3430",
+   "right": true,
+   "seconds": 7.52,
+   "out_tokens": 385,
+   "error": null
+  },
+  {
+   "i": 295,
+   "gold": "370",
+   "pred": "370",
+   "right": true,
+   "seconds": 6.09,
+   "out_tokens": 310,
+   "error": null
+  },
+  {
+   "i": 1107,
+   "gold": "360",
+   "pred": "360",
+   "right": true,
+   "seconds": 8.48,
+   "out_tokens": 437,
+   "error": null
+  },
+  {
+   "i": 241,
+   "gold": "6",
+   "pred": "6",
+   "right": true,
+   "seconds": 7.08,
+   "out_tokens": 365,
+   "error": null
+  },
+  {
+   "i": 1169,
+   "gold": "2",
+   "pred": "2",
+   "right": true,
+   "seconds": 5.92,
+   "out_tokens": 304,
+   "error": null
+  },
+  {
+   "i": 631,
+   "gold": "4800",
+   "pred": "4800",
+   "right": true,
+   "seconds": 8.68,
+   "out_tokens": 400,
+   "error": null
+  },
+  {
+   "i": 1147,
+   "gold": "22",
+   "pred": "22",
+   "right": true,
+   "seconds": 7.88,
+   "out_tokens": 393,
+   "error": null
+  },
+  {
+   "i": 370,
+   "gold": "320",
+   "pred": "320",
+   "right": true,
+   "seconds": 5.33,
+   "out_tokens": 269,
+   "error": null
+  },
+  {
+   "i": 211,
+   "gold": "4",
+   "pred": "4",
+   "right": true,
+   "seconds": 9.13,
+   "out_tokens": 453,
+   "error": null
+  },
+  {
+   "i": 1191,
+   "gold": "100",
+   "pred": "100",
+   "right": true,
+   "seconds": 4.06,
+   "out_tokens": 208,
+   "error": null
+  },
+  {
+   "i": 1308,
+   "gold": "30",
+   "pred": "30",
+   "right": true,
+   "seconds": 4.13,
+   "out_tokens": 209,
+   "error": null
+  },
+  {
+   "i": 384,
+   "gold": "32",
+   "pred": "32",
+   "right": true,
+   "seconds": 7.05,
+   "out_tokens": 357,
+   "error": null
+  },
+  {
+   "i": 762,
+   "gold": "85",
+   "pred": "85",
+   "right": true,
+   "seconds": 4.08,
+   "out_tokens": 209,
+   "error": null
+  },
+  {
+   "i": 199,
+   "gold": "7500",
+   "pred": "7500",
+   "right": true,
+   "seconds": 8.58,
+   "out_tokens": 443,
+   "error": null
+  },
+  {
+   "i": 1121,
+   "gold": "35",
+   "pred": "35",
+   "right": true,
+   "seconds": 4.99,
+   "out_tokens": 257,
+   "error": null
+  },
+  {
+   "i": 128,
+   "gold": "880",
+   "pred": "880",
+   "right": true,
+   "seconds": 8.58,
+   "out_tokens": 443,
+   "error": null
+  },
+  {
+   "i": 1155,
+   "gold": "13",
+   "pred": "13",
+   "right": true,
+   "seconds": 4.57,
+   "out_tokens": 237,
+   "error": null
+  },
+  {
+   "i": 122,
+   "gold": "48",
+   "pred": "48",
+   "right": true,
+   "seconds": 10.24,
+   "out_tokens": 526,
+   "error": null
+  },
+  {
+   "i": 1267,
+   "gold": "40",
+   "pred": "40",
+   "right": true,
+   "seconds": 4.95,
+   "out_tokens": 254,
+   "error": null
+  },
+  {
+   "i": 421,
+   "gold": "12",
+   "pred": "12",
+   "right": true,
+   "seconds": 5.27,
+   "out_tokens": 274,
+   "error": null
+  },
+  {
+   "i": 1016,
+   "gold": "138",
+   "pred": "139",
+   "right": false,
+   "seconds": 11.82,
+   "out_tokens": 624,
+   "error": null
+  },
+  {
+   "i": 1088,
+   "gold": "30",
+   "pred": "28.33",
+   "right": false,
+   "seconds": 10.68,
+   "out_tokens": 561,
+   "error": null
+  },
+  {
+   "i": 875,
+   "gold": "60",
+   "pred": "60",
+   "right": true,
+   "seconds": 5.58,
+   "out_tokens": 295,
+   "error": null
+  },
+  {
+   "i": 643,
+   "gold": "840",
+   "pred": "840",
+   "right": true,
+   "seconds": 7.63,
+   "out_tokens": 394,
+   "error": null
+  },
+  {
+   "i": 953,
+   "gold": "452",
+   "pred": "452",
+   "right": true,
+   "seconds": 11.46,
+   "out_tokens": 595,
+   "error": null
+  },
+  {
+   "i": 928,
+   "gold": "60",
+   "pred": "60",
+   "right": true,
+   "seconds": 6.58,
+   "out_tokens": 347,
+   "error": null
+  },
+  {
+   "i": 740,
+   "gold": "25",
+   "pred": "25",
+   "right": true,
+   "seconds": 5.83,
+   "out_tokens": 308,
+   "error": null
+  },
+  {
+   "i": 613,
+   "gold": "93000",
+   "pred": "93000",
+   "right": true,
+   "seconds": 5.28,
+   "out_tokens": 276,
+   "error": null
+  },
+  {
+   "i": 508,
+   "gold": "120",
+   "pred": "120",
+   "right": true,
+   "seconds": 11.04,
+   "out_tokens": 580,
+   "error": null
+  },
+  {
+   "i": 368,
+   "gold": "18",
+   "pred": "10",
+   "right": false,
+   "seconds": 4.22,
+   "out_tokens": 222,
+   "error": null
+  },
+  {
+   "i": 499,
+   "gold": "10",
+   "pred": "10",
+   "right": true,
+   "seconds": 7.62,
+   "out_tokens": 400,
+   "error": null
+  },
+  {
+   "i": 167,
+   "gold": "16",
+   "pred": "16",
+   "right": true,
+   "seconds": 9.08,
+   "out_tokens": 480,
+   "error": null
+  },
+  {
+   "i": 1176,
+   "gold": "2",
+   "pred": "3",
+   "right": false,
+   "seconds": 16.82,
+   "out_tokens": 863,
+   "error": null
+  },
+  {
+   "i": 614,
+   "gold": "312",
+   "pred": "312",
+   "right": true,
+   "seconds": 3.95,
+   "out_tokens": 204,
+   "error": null
+  },
+  {
+   "i": 1075,
+   "gold": "16",
+   "pred": "16",
+   "right": true,
+   "seconds": 11.97,
+   "out_tokens": 620,
+   "error": null
+  },
+  {
+   "i": 1013,
+   "gold": "2",
+   "pred": "2",
+   "right": true,
+   "seconds": 6.16,
+   "out_tokens": 322,
+   "error": null
+  },
+  {
+   "i": 703,
+   "gold": "50",
+   "pred": "50",
+   "right": true,
+   "seconds": 7.1,
+   "out_tokens": 369,
+   "error": null
+  },
+  {
+   "i": 919,
+   "gold": "90",
+   "pred": "90",
+   "right": true,
+   "seconds": 7.15,
+   "out_tokens": 361,
+   "error": null
+  },
+  {
+   "i": 589,
+   "gold": "15",
+   "pred": "2.5",
+   "right": false,
+   "seconds": 7.7,
+   "out_tokens": 402,
+   "error": null
+  },
+  {
+   "i": 1247,
+   "gold": "7",
+   "pred": "7",
+   "right": true,
+   "seconds": 5.29,
+   "out_tokens": 274,
+   "error": null
+  },
+  {
+   "i": 149,
+   "gold": "16",
+   "pred": "16",
+   "right": true,
+   "seconds": 5.39,
+   "out_tokens": 282,
+   "error": null
+  },
+  {
+   "i": 1048,
+   "gold": "7400",
+   "pred": "9860.78",
+   "right": false,
+   "seconds": 9.14,
+   "out_tokens": 478,
+   "error": null
+  },
+  {
+   "i": 337,
+   "gold": "1",
+   "pred": "1",
+   "right": true,
+   "seconds": 4.95,
+   "out_tokens": 250,
+   "error": null
+  },
+  {
+   "i": 700,
+   "gold": "135",
+   "pred": "135",
+   "right": true,
+   "seconds": 6.39,
+   "out_tokens": 325,
+   "error": null
+  },
+  {
+   "i": 311,
+   "gold": "91",
+   "pred": "91",
+   "right": true,
+   "seconds": 4.95,
+   "out_tokens": 262,
+   "error": null
+  },
+  {
+   "i": 1001,
+   "gold": "2",
+   "pred": "2",
+   "right": true,
+   "seconds": 7.06,
+   "out_tokens": 366,
+   "error": null
+  },
+  {
+   "i": 863,
+   "gold": "110",
+   "pred": "110",
+   "right": true,
+   "seconds": 5.25,
+   "out_tokens": 278,
+   "error": null
+  },
+  {
+   "i": 80,
+   "gold": "10",
+   "pred": "10",
+   "right": true,
+   "seconds": 4.93,
+   "out_tokens": 259,
+   "error": null
+  },
+  {
+   "i": 158,
+   "gold": "34",
+   "pred": "34.00",
+   "right": true,
+   "seconds": 5.74,
+   "out_tokens": 301,
+   "error": null
+  },
+  {
+   "i": 1142,
+   "gold": "9",
+   "pred": "9",
+   "right": true,
+   "seconds": 5.15,
+   "out_tokens": 271,
+   "error": null
+  },
+  {
+   "i": 1173,
+   "gold": "10",
+   "pred": "10",
+   "right": true,
+   "seconds": 7.69,
+   "out_tokens": 404,
+   "error": null
+  },
+  {
+   "i": 642,
+   "gold": "10800",
+   "pred": "10800",
+   "right": true,
+   "seconds": 5.95,
+   "out_tokens": 314,
+   "error": null
+  },
+  {
+   "i": 696,
+   "gold": "145",
+   "pred": "145",
+   "right": true,
+   "seconds": 7.65,
+   "out_tokens": 403,
+   "error": null
+  },
+  {
+   "i": 717,
+   "gold": "5",
+   "pred": "5.00",
+   "right": true,
+   "seconds": 4.71,
+   "out_tokens": 250,
+   "error": null
+  },
+  {
+   "i": 1217,
+   "gold": "75",
+   "pred": "75",
+   "right": true,
+   "seconds": 8.31,
+   "out_tokens": 439,
+   "error": null
+  },
+  {
+   "i": 1017,
+   "gold": "45",
+   "pred": "45",
+   "right": true,
+   "seconds": 8.21,
+   "out_tokens": 435,
+   "error": null
+  },
+  {
+   "i": 1187,
+   "gold": "5",
+   "pred": "5",
+   "right": true,
+   "seconds": 7.95,
+   "out_tokens": 419,
+   "error": null
+  },
+  {
+   "i": 934,
+   "gold": "410",
+   "pred": "410",
+   "right": true,
+   "seconds": 5.65,
+   "out_tokens": 295,
+   "error": null
+  },
+  {
+   "i": 140,
+   "gold": "20",
+   "pred": "20",
+   "right": true,
+   "seconds": 5.74,
+   "out_tokens": 302,
+   "error": null
+  },
+  {
+   "i": 191,
+   "gold": "5",
+   "pred": "5",
+   "right": true,
+   "seconds": 4.01,
+   "out_tokens": 209,
+   "error": null
+  },
+  {
+   "i": 552,
+   "gold": "450",
+   "pred": "450",
+   "right": true,
+   "seconds": 5.21,
+   "out_tokens": 269,
+   "error": null
+  },
+  {
+   "i": 970,
+   "gold": "33",
+   "pred": "33",
+   "right": true,
+   "seconds": 3.82,
+   "out_tokens": 199,
+   "error": null
+  },
+  {
+   "i": 133,
+   "gold": "13",
+   "pred": "13",
+   "right": true,
+   "seconds": 5.82,
+   "out_tokens": 301,
+   "error": null
+  }
+ ],
+ "mmlu": [
+  {
+   "i": 994,
+   "subject": "college_chemistry",
+   "gold": "B",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 11979,
+   "subject": "professional_law",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 11493,
+   "subject": "professional_law",
+   "gold": "B",
+   "pred": "D",
+   "right": false,
+   "seconds": 0.19,
+   "error": null
+  },
+  {
+   "i": 5072,
+   "subject": "high_school_psychology",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 10602,
+   "subject": "professional_accounting",
+   "gold": "B",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 9469,
+   "subject": "nutrition",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 11161,
+   "subject": "professional_law",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.17,
+   "error": null
+  },
+  {
+   "i": 13466,
+   "subject": "sociology",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 7301,
+   "subject": "medical_genetics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 4662,
+   "subject": "high_school_microeconomics",
+   "gold": "C",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 11741,
+   "subject": "professional_law",
+   "gold": "A",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.2,
+   "error": null
+  },
+  {
+   "i": 6320,
+   "subject": "human_sexuality",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 10955,
+   "subject": "professional_law",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.2,
+   "error": null
+  },
+  {
+   "i": 5685,
+   "subject": "high_school_us_history",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.21,
+   "error": null
+  },
+  {
+   "i": 369,
+   "subject": "astronomy",
+   "gold": "D",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 7564,
+   "subject": "miscellaneous",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.15,
+   "error": null
+  },
+  {
+   "i": 5823,
+   "subject": "high_school_us_history",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.2,
+   "error": null
+  },
+  {
+   "i": 2753,
+   "subject": "high_school_biology",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 10009,
+   "subject": "philosophy",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 1918,
+   "subject": "econometrics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 8088,
+   "subject": "miscellaneous",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 965,
+   "subject": "college_chemistry",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 3575,
+   "subject": "high_school_geography",
+   "gold": "D",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 12586,
+   "subject": "professional_psychology",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 4709,
+   "subject": "high_school_microeconomics",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2119,
+   "subject": "elementary_mathematics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 12097,
+   "subject": "professional_law",
+   "gold": "D",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.15,
+   "error": null
+  },
+  {
+   "i": 4056,
+   "subject": "high_school_macroeconomics",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 6519,
+   "subject": "international_law",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 6405,
+   "subject": "human_sexuality",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 8134,
+   "subject": "miscellaneous",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 1320,
+   "subject": "college_medicine",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2725,
+   "subject": "high_school_biology",
+   "gold": "C",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 7359,
+   "subject": "medical_genetics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 6580,
+   "subject": "jurisprudence",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 9002,
+   "subject": "moral_scenarios",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 4552,
+   "subject": "high_school_microeconomics",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2243,
+   "subject": "elementary_mathematics",
+   "gold": "B",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 13423,
+   "subject": "sociology",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 7053,
+   "subject": "marketing",
+   "gold": "B",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 9014,
+   "subject": "moral_scenarios",
+   "gold": "D",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 4561,
+   "subject": "high_school_microeconomics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 11573,
+   "subject": "professional_law",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.16,
+   "error": null
+  },
+  {
+   "i": 6804,
+   "subject": "logical_fallacies",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 5878,
+   "subject": "high_school_world_history",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.18,
+   "error": null
+  },
+  {
+   "i": 11185,
+   "subject": "professional_law",
+   "gold": "C",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.18,
+   "error": null
+  },
+  {
+   "i": 6233,
+   "subject": "human_aging",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 3780,
+   "subject": "high_school_government_and_politics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2472,
+   "subject": "formal_logic",
+   "gold": "A",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 1359,
+   "subject": "college_medicine",
+   "gold": "D",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2887,
+   "subject": "high_school_biology",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 2478,
+   "subject": "formal_logic",
+   "gold": "C",
+   "pred": "D",
+   "right": false,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 3800,
+   "subject": "high_school_government_and_politics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 10789,
+   "subject": "professional_law",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.23,
+   "error": null
+  },
+  {
+   "i": 3822,
+   "subject": "high_school_government_and_politics",
+   "gold": "D",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 197,
+   "subject": "anatomy",
+   "gold": "C",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 7945,
+   "subject": "miscellaneous",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 13616,
+   "subject": "us_foreign_policy",
+   "gold": "C",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 9652,
+   "subject": "nutrition",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2987,
+   "subject": "high_school_chemistry",
+   "gold": "C",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 4304,
+   "subject": "high_school_mathematics",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 4619,
+   "subject": "high_school_microeconomics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 67,
+   "subject": "abstract_algebra",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2386,
+   "subject": "elementary_mathematics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.15,
+   "error": null
+  },
+  {
+   "i": 6864,
+   "subject": "machine_learning",
+   "gold": "C",
+   "pred": "D",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 8758,
+   "subject": "moral_scenarios",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 6049,
+   "subject": "high_school_world_history",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.25,
+   "error": null
+  },
+  {
+   "i": 9991,
+   "subject": "philosophy",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 9278,
+   "subject": "moral_scenarios",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 5220,
+   "subject": "high_school_psychology",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2056,
+   "subject": "electrical_engineering",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 11313,
+   "subject": "professional_law",
+   "gold": "C",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.17,
+   "error": null
+  },
+  {
+   "i": 8445,
+   "subject": "moral_disputes",
+   "gold": "D",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 10118,
+   "subject": "prehistory",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 10730,
+   "subject": "professional_law",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.19,
+   "error": null
+  },
+  {
+   "i": 11078,
+   "subject": "professional_law",
+   "gold": "C",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.18,
+   "error": null
+  },
+  {
+   "i": 12120,
+   "subject": "professional_law",
+   "gold": "D",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.16,
+   "error": null
+  },
+  {
+   "i": 884,
+   "subject": "college_biology",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 7481,
+   "subject": "miscellaneous",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 12779,
+   "subject": "professional_psychology",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 11150,
+   "subject": "professional_law",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.17,
+   "error": null
+  },
+  {
+   "i": 13072,
+   "subject": "public_relations",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 9163,
+   "subject": "moral_scenarios",
+   "gold": "A",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 6428,
+   "subject": "human_sexuality",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 6521,
+   "subject": "international_law",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 6536,
+   "subject": "international_law",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 6457,
+   "subject": "international_law",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 1696,
+   "subject": "conceptual_physics",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 7889,
+   "subject": "miscellaneous",
+   "gold": "C",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 10392,
+   "subject": "professional_accounting",
+   "gold": "A",
+   "pred": "D",
+   "right": false,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 6560,
+   "subject": "international_law",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 1019,
+   "subject": "college_computer_science",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 3122,
+   "subject": "high_school_chemistry",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 1103,
+   "subject": "college_mathematics",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 3420,
+   "subject": "high_school_european_history",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.23,
+   "error": null
+  },
+  {
+   "i": 7219,
+   "subject": "marketing",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2659,
+   "subject": "global_facts",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 1801,
+   "subject": "conceptual_physics",
+   "gold": "B",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 5571,
+   "subject": "high_school_statistics",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 9842,
+   "subject": "philosophy",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 861,
+   "subject": "college_biology",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 1677,
+   "subject": "conceptual_physics",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 3,
+   "subject": "abstract_algebra",
+   "gold": "B",
+   "pred": "D",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 9286,
+   "subject": "moral_scenarios",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 8791,
+   "subject": "moral_scenarios",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 1662,
+   "subject": "conceptual_physics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 5957,
+   "subject": "high_school_world_history",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.24,
+   "error": null
+  },
+  {
+   "i": 10055,
+   "subject": "prehistory",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 417,
+   "subject": "business_ethics",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 1152,
+   "subject": "college_mathematics",
+   "gold": "B",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 3407,
+   "subject": "high_school_european_history",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.25,
+   "error": null
+  },
+  {
+   "i": 10060,
+   "subject": "prehistory",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 6164,
+   "subject": "human_aging",
+   "gold": "C",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 2433,
+   "subject": "elementary_mathematics",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 10394,
+   "subject": "professional_accounting",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 4132,
+   "subject": "high_school_macroeconomics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 5691,
+   "subject": "high_school_us_history",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.23,
+   "error": null
+  },
+  {
+   "i": 9867,
+   "subject": "philosophy",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 5966,
+   "subject": "high_school_world_history",
+   "gold": "A",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.17,
+   "error": null
+  },
+  {
+   "i": 7768,
+   "subject": "miscellaneous",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 2012,
+   "subject": "electrical_engineering",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 1889,
+   "subject": "econometrics",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 13908,
+   "subject": "world_religions",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 7996,
+   "subject": "miscellaneous",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 7634,
+   "subject": "miscellaneous",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 7870,
+   "subject": "miscellaneous",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 7927,
+   "subject": "miscellaneous",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 5109,
+   "subject": "high_school_psychology",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 1407,
+   "subject": "college_physics",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 2361,
+   "subject": "elementary_mathematics",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 1674,
+   "subject": "conceptual_physics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 12282,
+   "subject": "professional_medicine",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 5613,
+   "subject": "high_school_statistics",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.17,
+   "error": null
+  },
+  {
+   "i": 12129,
+   "subject": "professional_law",
+   "gold": "A",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.15,
+   "error": null
+  },
+  {
+   "i": 4337,
+   "subject": "high_school_mathematics",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 7841,
+   "subject": "miscellaneous",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 13579,
+   "subject": "sociology",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 11338,
+   "subject": "professional_law",
+   "gold": "A",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.22,
+   "error": null
+  },
+  {
+   "i": 2645,
+   "subject": "global_facts",
+   "gold": "C",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 8459,
+   "subject": "moral_disputes",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 378,
+   "subject": "astronomy",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 3362,
+   "subject": "high_school_european_history",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.17,
+   "error": null
+  },
+  {
+   "i": 8654,
+   "subject": "moral_scenarios",
+   "gold": "A",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 5926,
+   "subject": "high_school_world_history",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.24,
+   "error": null
+  },
+  {
+   "i": 2401,
+   "subject": "elementary_mathematics",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 11306,
+   "subject": "professional_law",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 8899,
+   "subject": "moral_scenarios",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 443,
+   "subject": "business_ethics",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 12421,
+   "subject": "professional_medicine",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 8652,
+   "subject": "moral_scenarios",
+   "gold": "C",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 4883,
+   "subject": "high_school_physics",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 10533,
+   "subject": "professional_accounting",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 1491,
+   "subject": "computer_security",
+   "gold": "D",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 11406,
+   "subject": "professional_law",
+   "gold": "C",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.17,
+   "error": null
+  },
+  {
+   "i": 13851,
+   "subject": "virology",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 4278,
+   "subject": "high_school_mathematics",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 8493,
+   "subject": "moral_disputes",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 6008,
+   "subject": "high_school_world_history",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.15,
+   "error": null
+  },
+  {
+   "i": 2736,
+   "subject": "high_school_biology",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 5827,
+   "subject": "high_school_us_history",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.22,
+   "error": null
+  },
+  {
+   "i": 12647,
+   "subject": "professional_psychology",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.13,
+   "error": null
+  },
+  {
+   "i": 3650,
+   "subject": "high_school_government_and_politics",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 8725,
+   "subject": "moral_scenarios",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 8873,
+   "subject": "moral_scenarios",
+   "gold": "D",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 12764,
+   "subject": "professional_psychology",
+   "gold": "D",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 8236,
+   "subject": "moral_disputes",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 5401,
+   "subject": "high_school_psychology",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 10427,
+   "subject": "professional_accounting",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 3654,
+   "subject": "high_school_government_and_politics",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 10047,
+   "subject": "prehistory",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 13295,
+   "subject": "security_studies",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 12917,
+   "subject": "professional_psychology",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.15,
+   "error": null
+  },
+  {
+   "i": 12424,
+   "subject": "professional_medicine",
+   "gold": "D",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.14,
+   "error": null
+  },
+  {
+   "i": 13969,
+   "subject": "world_religions",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 3197,
+   "subject": "high_school_computer_science",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 13206,
+   "subject": "security_studies",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 3922,
+   "subject": "high_school_macroeconomics",
+   "gold": "B",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 13407,
+   "subject": "sociology",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 6564,
+   "subject": "jurisprudence",
+   "gold": "D",
+   "pred": "A",
+   "right": false,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 12122,
+   "subject": "professional_law",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.2,
+   "error": null
+  },
+  {
+   "i": 13161,
+   "subject": "security_studies",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.18,
+   "error": null
+  },
+  {
+   "i": 3714,
+   "subject": "high_school_government_and_politics",
+   "gold": "C",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 3275,
+   "subject": "high_school_computer_science",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 8480,
+   "subject": "moral_disputes",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 8073,
+   "subject": "miscellaneous",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 5825,
+   "subject": "high_school_us_history",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.18,
+   "error": null
+  },
+  {
+   "i": 11976,
+   "subject": "professional_law",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.2,
+   "error": null
+  },
+  {
+   "i": 474,
+   "subject": "business_ethics",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 457,
+   "subject": "business_ethics",
+   "gold": "B",
+   "pred": "",
+   "right": false,
+   "seconds": 0.2,
+   "error": null
+  },
+  {
+   "i": 12945,
+   "subject": "professional_psychology",
+   "gold": "A",
+   "pred": "B",
+   "right": false,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 4577,
+   "subject": "high_school_microeconomics",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 7737,
+   "subject": "miscellaneous",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 4246,
+   "subject": "high_school_mathematics",
+   "gold": "A",
+   "pred": "",
+   "right": false,
+   "seconds": 0.22,
+   "error": null
+  },
+  {
+   "i": 3172,
+   "subject": "high_school_chemistry",
+   "gold": "A",
+   "pred": "A",
+   "right": true,
+   "seconds": 0.11,
+   "error": null
+  },
+  {
+   "i": 11346,
+   "subject": "professional_law",
+   "gold": "B",
+   "pred": "B",
+   "right": true,
+   "seconds": 0.21,
+   "error": null
+  },
+  {
+   "i": 9914,
+   "subject": "philosophy",
+   "gold": "C",
+   "pred": "D",
+   "right": false,
+   "seconds": 0.1,
+   "error": null
+  },
+  {
+   "i": 5640,
+   "subject": "high_school_statistics",
+   "gold": "D",
+   "pred": "C",
+   "right": false,
+   "seconds": 0.12,
+   "error": null
+  },
+  {
+   "i": 7327,
+   "subject": "medical_genetics",
+   "gold": "D",
+   "pred": "D",
+   "right": true,
+   "seconds": 0.09,
+   "error": null
+  },
+  {
+   "i": 13247,
+   "subject": "security_studies",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.15,
+   "error": null
+  },
+  {
+   "i": 11847,
+   "subject": "professional_law",
+   "gold": "C",
+   "pred": "C",
+   "right": true,
+   "seconds": 0.26,
+   "error": null
+  }
+ ],
+ "footprint_after_first_reply": {
+  "footprint_mib": 8233.0,
+  "text": "======================================================================\npython [60421]: 64-bit    Footprint: 8233 MB (16384 bytes per page)\n======================================================================\n\n  Dirty      Clean  Reclaimable    Regions    Category\n    ---        ---          ---        ---    ---\n7640 MB        0 B          0 B       1519    IOAccelerator (graphics)\n 208 MB        0 B          0 B        221    Untagged\n 176 MB        0 B          0 B         22    Owned physical footprint (unmapped) (graphics)\n 140 MB        0 B          0 B         26    Malloc Large\n  58 MB        0 B        25 MB         32    Malloc Small\n4759 KB        0 B          0 B          1    page table\n1648 KB        0 B          0 B        339    __DATA_CONST\n1360 KB        0 B        16 KB         10    Malloc Metadata\n1349 KB        0 B          0 B        353    __DATA\n 592 KB        0 B          0 B         54    Stack\n 551 KB        0 B          0 B        289    __DATA_DIRTY\n 448 KB        0 B          0 B         10    IOAccelerator\n 288 KB        0 B          0 B          1    Malloc Tiny\n 191 KB        0 B          0 B        989    unused dyld shared cache area\n 118 KB        0 B          0 B        172    __AUTH\n  64 KB        0 B          0 B          4    IOKit\n  48 KB        0 B          0 B          2    Malloc Nano\n  48 KB        0 B          0 B          4    __TPRO_CONST\n  47 KB        0 B          0 B          1    __OBJC_RW\n  32 KB        0 B          0 B          1    Deferred Reclaim\n  32 KB        0 B          0 B          1    Activity Tracing\n  16 KB        0 B          0 B          1    OS Alloc Once\n    0 B      18 MB          0 B        405    __TEXT\n    0 B    1904 KB          0 B          9    mapped file\n    0 B    1776 KB          0 B     "
+ },
+ "footprint_after_last_reply": {
+  "footprint_mib": 8388.0,
+  "text": "======================================================================\npython [60421]: 64-bit    Footprint: 8388 MB (16384 bytes per page)\n======================================================================\n\n  Dirty      Clean  Reclaimable    Regions    Category\n    ---        ---          ---        ---    ---\n7785 MB        0 B       208 KB       1980    IOAccelerator (graphics)\n 208 MB        0 B          0 B        221    Untagged\n 176 MB        0 B          0 B         22    Owned physical footprint (unmapped) (graphics)\n 140 MB        0 B          0 B         26    Malloc Large\n  66 MB        0 B      1360 KB         32    Malloc Small\n4759 KB        0 B          0 B          1    page table\n1648 KB        0 B          0 B        339    __DATA_CONST\n1376 KB        0 B          0 B         10    Malloc Metadata\n1349 KB        0 B          0 B        353    __DATA\n 784 KB        0 B          0 B         17    IOAccelerator\n 551 KB        0 B          0 B        289    __DATA_DIRTY\n 512 KB        0 B          0 B         54    Stack\n 288 KB        0 B          0 B          1    Malloc Tiny\n 191 KB        0 B          0 B        989    unused dyld shared cache area\n 118 KB        0 B          0 B        172    __AUTH\n  64 KB        0 B          0 B          4    IOKit\n  48 KB        0 B          0 B          2    Malloc Nano\n  48 KB        0 B          0 B          4    __TPRO_CONST\n  47 KB        0 B          0 B          1    __OBJC_RW\n  32 KB        0 B          0 B          1    Deferred Reclaim\n  32 KB        0 B          0 B          1    Activity Tracing\n  16 KB        0 B          0 B          1    OS Alloc Once\n    0 B      18 MB          0 B        405    __TEXT\n    0 B    1952 KB          0 B          9    mapped file\n    0 B    1776 KB          0 B     "
+ },
+ "gsm8k_correct": 93,
+ "mmlu_correct": 140,
+ "in_process_gsm8k_correct": 94,
+ "in_process_mmlu_correct": 139,
+ "gsm8k_items_that_changed": 1,
+ "mmlu_items_that_changed": 1
+}

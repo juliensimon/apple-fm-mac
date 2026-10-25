@@ -1,0 +1,9 @@
+component,bytes,bytes_from,bits_per_weight_assumed,billions_of_weights,note
+routed-expert store (ifp_rasterized_weights.bin),4948197376,file size,2,19.793,"16,775 units + 1 MiB, or 16,778 units + 160 KiB; 1,179,648 weights per unit at 2 bits"
+"always-resident ANE model pages (log: 40,680 pages)",666501120,ANE client log x 16 KiB,2,2.666,upper bound: includes any program code and metadata in the pages
+embedding table (persistent IOSurface),201326592,vmmap surface size,"4 (hidden 1,536) or 2 (hidden 3,072)",0.403,"262,144 rows x 768 bytes; 0.40 billion at 4 bits and 1,536 values, 0.81 billion at 2 bits and 3,072 values"
+draft model ANE pages (log: 575 pages),9420800,ANE client log x 16 KiB,2,0.038,upper bound
+"safety model 300M ANE pages (log: 11,611 pages)",190234624,ANE client log x 16 KiB,5.07 if exactly 300M weights,0.3,weights taken from the model name; the bit width follows from the page count
+"expert slots, mutable weights buffer",30081024,mapping size,2,0.12,exactly 102 expert units
+expert-sized buffer (IOKit neural region),371736576,mapping size,2,1.487,"1,260.5 expert units; likely the expert cache"
+routed experts selected per prompt (150 to 230 units),44236800,expert-file reads in the first 0.2 s,2,0.177,"low end; the high end is 230 units, 0.27 billion"
